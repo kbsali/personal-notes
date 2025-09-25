@@ -1,0 +1,153 @@
+### 2023-06-15
+- Présents
+	- Vincent Ferrand @ Motion4ever - chef de projet
+	- Cédric @ Motion4ever - développeur, notamment flux produits
+	- Louise-Marie @ avenue des parfums
+- objectif : prestashop -> clapclap
+	- parfum dans temps #1 (sauf Chanel et Dior?)
+		- api : produit, 
+			- déclinaisons
+				- les champs sont traités
+			- catégories
+			- prix
+	- temps #2 maquillage & soins
+- 1 produit peut avoir 0 ou X déclinaisons
+	- 1 coffret n'a pas de déclinaison
+	- xml -> json (lengow)
+	- shoppingfeed = flux xml
+- Motion4ever développe un module presta "clapclap
+	- pilotage par marque pour
+		- %age de remise
+		- activé l'envoi vers Clapclap
+	- gestion de stock :
+		- automatiser
+		- le soir, Prestashop reçoit un fichier d'état de stock de Winparf
+			- décalage ventes Winparf / Presta
+			- quid de la synchro des stocks?
+			- presta a donc un stock fictif
+		- panier moyen : 105€ sur presta, minimum : 500€, facile
+	- airbus : 45 commandes indiv gérés séparémment
+- flux
+	- produit
+		- nom, ref, images (sélection), variant
+		- stock -> 0 = dépublié
+	- variant
+		- presta :
+			- produits décliné ou simple
+				- parents
+			- objets rattaché
+		- magento
+			- 1 produit simple ou rattaché à un produit configurable
+		- 1 niveau ou X niveau de variants
+		- conseil
+			- shoppingfeed & 1stock
+- Catégories
+	- filtres
+		- marques
+		- femme, enfant, homme, mixte
+		- (éventuellement) gammes (temps #2)
+		- /!\\ certaines marques n'ont même pas de filtre
+		- quid des coffrets cadeaux?
+	- les gens savent exactement ce qu'elles veulent
+		- /!\\ les pages Marques convertissent le mieux
+	- idée : avoir une barre de recherche
+- TODO
+	- catégories
+	- variants / déclinaisons
+	- avoir une solution pour marqué comme "traitée" une commande individuelle
+	- @Clapclap propose un format json pour l'api
+		- ~1000 produits -> 3000 variants
+		- maj catalogue uniquement sur les produits
+		- stock & prix maj quotidien
+	- @Louise Marie me donne un nombre approx de clients concernés
+	- @Kevin envoie un mail de suivi fin de semaine prochaine
+- CALENDRIER
+	- Cédric Aout vacances
+	- Semaine 10/07 : spec format format JSON
+- Concurrence
+	- concurrents directs
+	- parfumerie europe
+	- Yves Rocher : on s'en fiche, on n'a pas leur marque
+	- 6.5% -> à valider
+### 2023-06-01
+- Louise Marie
+	- responsable ecommerce
+	- marketing 
+	- communication
+	- relation client, CE, etc...
+	- communication et marketing de la société
+	- 5 nocide, 1 site, ...?
+	- avant : webmarketing en agence
+- Chloé
+	- gestion CE
+	- commerciale ++
+	- préparation de commande
+		- réception des bons de commande
+		- et prépa des commandes depuis l'entrepot
+	- facturation
+- api -> ajouter les produits sur clapclap
+	- mise à jour des stocks
+- nombre de produits
+	- parfums, soins, maquillage
+	- 2544 ! hors déclinaison
+		- 30ml, 100ml, ...
+- 1 partenaire
+	- sans API -> très galère à gérer
+		- interCE
+		- sélection de ~150 produits -> fichier CSV/XLS sur un drive
+- idéalement : les produits sont en db mais la mise en ligne est faite manuellement
+- gestion de stock
+	- 6 magazins physiques
+		- outil : winparf -> tous les produits et toutes les marques y sont
+			- gestion de stock
+		- prestashop
+		- remontée de caisses ~22h
+		- mise à jour des stocks sur le site
+		- soucis : période de Noel -> gestion de stock
+			- remboursement
+- bons de commande
+- API
+	- marge de 5 produits : stock < 5 -> on dépublie
+		- échange -> coffret
+	- Clapclap expose une api
+		- de mise à jour produit
+	- Avenue des parfums gère les catalogues et les CG via le backoffice Clapclap
+- gestion déclinaison
+	- plusieurs contenance
+	- coffret de parfum = produit simple
+- maquillage : trop complex, dans un 2nd temps
+- prestashop
+	- prestataire
+- calendrier
+	- fonctionnement vraiment pas pérain
+	- préparation catalogue
+		- envoi db CE
+		- scan des bons de commande
+		- envoi de chèque
+			- très compliqué
+		- problème de paiement
+		- problème de stock
+			- winparf
+	- véléité de basculer tous les clients sur clapclap ASAP
+	- chiffre d'affaire qui baisse tous les ans
+		- digitalisation trop compliquée
+	- commande Noel :
+		- envoie de catalogue mi/fin-septembre
+			- Novembre les commandes tombent
+	- objectif : fin septembre
+- effectif
+	- 40 employés en comptant les vendeurs magazin
+	- ecommerce : 1 + stagiaire
+	- entrepot : 
+		- Marie - vente site internet + service client
+		- Chloé - entrepot
+	- comptable
+- csv
+	- Marque "Chanel" -> impossible
+	- api -> avec prestashop
+	- 1 voire 2 images / produit
+	- EAN = external id + nom du produit
+- marques : on ne va pas demander sinon trop de contraintes à gérer
+	- chanel : seul 10 sites en France
+		- myorigin -> gros gros site, chanel a décidé d'arrêter parce que vent aux asiatiques
+		- très sélectifs

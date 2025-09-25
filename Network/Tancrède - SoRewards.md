@@ -1,0 +1,29 @@
+# 2023-10-19
+- intro
+	- Benoit invest
+	- 1er étage
+	- ancien pote
+- Salons
+	- retour Paris : 
+		- très grosses boites
+		- Nantes
+- SoReward
+	- levée fin mai
+	- 100% dessus
+	- 20% des cartes cadeau non consommées
+	- pas de réseau d'acceptation
+		- donc réseau visa avec des cartes pré-payées
+		- possibilité de faire des dons pour le non-consommé
+	- concurrence : 
+		- https://www.vazivacard.com/
+		- https://www.ethikdo.co/
+		- https://captaincause.com/
+		- edenred, sodexo
+	- partenariat
+		- https://www.happypal.fr/
+		- https://www.jeudimerci.fr/
+		- neoca
+	- abo
+		- budget de fonctionnement
+	- frais de gestion
+		- 5% sur le volume de budget dotation

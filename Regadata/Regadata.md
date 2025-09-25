@@ -1,0 +1,46 @@
+### 2025-04-28 PL2I - Solutions éco, Ségolène Hus, Alan
+- Agence pays de la loire
+- implantation ou développement
+- 4 en Loire Atlantique (basée à St Nazaire)
+- Claire Trégré
+	- c'est elle qui présente les dossiers PL2I
+	- 1ere aide à l'inno pour des entreprise en phase de faisabilité
+	- fond commun région + BPI
+	- nécessaire pour avoir droit aux autres aides
+- PL2I = un peu compliqué mais important pour la suite
+- présentation projet
+	- écosystème
+		- grand public
+		- équipe & sponsor
+		- organisateurs
+	- modèle
+		- sponsor pour communication
+	- problématique
+		- il y a une opportunité sur un marché sans vraiment de concurrence
+		- obj : savoir s'il y a moyen de monétiser la solution
+			- étude de marché
+			- faisabilité technique
+			- entrée dans l'environnement
+	- proposition de services aux orga
+		- Yellow Brick : capteurs GPS
+		- orga, position (YB), meteo (Windy), carto (geovoile)
+	- difféerentes cibles à étudier avec proposition de services associée
+		- vérifier le marché potentiel sur chaque cible
+		- avec les tarifs praticables
+	- etude de marché
+		- Thomas Lelièvre
+		- alternative : incubateur
+			- SAMOA : creative factory
+				- https://lesfabriques.nantes.fr/home/espace-pro/creer-a-nantes/laccompagnement-des-structures-l/creative-factory.html
+			- technopole : atlanpole (programme Azimut)
+		- pas d'aide à l'inno si le projet n'est pas encore structuré
+		- il faut travailler la proposition de valeur
+		- pourquoi ne pas s'adresser aux clubs amateurs plutôt que direct les orga de grandes courses ?
+		- Atlanpole : 
+			- NautiHub
+			- Azimut
+				- rencontres expert, atelier structuration, proposition de valeur, financement, gestion, com'
+			- Frédéric Ravilly (Mer Bretagne Altantique)
+				- innovation autour des projets maritimes
+### 2024-12-04 réponse mise en demeure
+- https://regatt.fr/en-US/paths?raceId=00553437-ae95-4562-977d-340a911d6723

@@ -1,0 +1,12 @@
+### 2024-12-13 Anne Millet, Gildas Gautier
+- 48h trop court
+- 2 mois minimum de stockage
+	- voire remise des prix
+- étudier la possibilité de stockage?
+- on reparle en janvier?
+	- avec René Boulaire
+		- sujet classement
+		- preneur d'idées
+	- avec Windy
+- classements différents
+	- mais pas de sous-catégories!

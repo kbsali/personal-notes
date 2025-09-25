@@ -1,0 +1,44 @@
+### 2024-11-19 Equity
+- enfant 2.5 mois
+- projet de startup 4 mois
+	- démarrage au sein d'une boite
+	- pas de besoin spécifique
+		- "lance le projet, on sera tes 1ers clients"
+	- agent IA
+		- plateforme qui fait le boulot de 2/3 personnes
+			- sales & content creation
+			- gestion de la page linkedin, twitter, blog
+			- géré par 1 seule personne
+		- en faire une plateforme SAAS pour le rendre + générique
+	- négo équity
+		- 20% invest, 10% shares pour les employés
+		- 70% : breakdown entre eux et Ouadie
+			- 40% (14% * 3) <-> 29% Ouadie
+		- il s'occupe de ramener les investisseurs à hauteur les 300k
+			- +150k~200k injectés en attendant la levée de fonds
+				- une partie en salaire Ouadie
+				- +1 dev?
+	- aujourd'hui
+		- prêt à onboarder
+		- salaire pendant les 4 mois
+	- proposition
+		- gestion admin
+		- création de la boite en Irlande
+		- Ouadie
+			- il a déjà son réseau
+			- contacts VC
+			- 0.1% des idées implémentées
+			- contact USA : 5M rapide
+	- si pas d'accord
+		- peut donner le code
+		- ancien manager Amazon
+			- peut faire une levée super rapide
+			- donc possible de le faire rentrer dans l'équipe en co-founder
+	- tenter 40% avec 10% * 3 pour eux
+	- vesting & cliff
+		- voting majority
+	- framework RAG
+		- https://www.crewai.com/
+		- https://www.langchain.com/
+		- https://www.base.ai/
+		- https://relevanceai.com/

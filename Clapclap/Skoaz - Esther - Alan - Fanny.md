@@ -1,0 +1,128 @@
+### 2023-09-26
+- CII : OK
+	- produit innovant sur un marché
+	- 2023
+		- rétro planning
+			- déclaration au + tard mai 2024
+			- prévoir réu pour préciser les dev 2023
+			- début 2024 : relevé de temps, calculer le montant de crédit d'impots
+		- peu de presta, % masse salariale
+		- @Kevin & @David font le point sur les projets développés en 2023
+			- TODO : feuille de temps sur les projets de dev / R&D
+- JEI / CIR : 15% dédié à la R&D
+	- acquisition
+	- verrous techniques
+	- recherche fondamentale
+	- sur l'exercice de l'année civile
+	- prévisionnel des temps alloué pour chaque personne
+		- coût horaire
+	- le salarié doit passer >50% de son temps sur la R&D / le projet
+- idées
+	- choix transporteurs
+		- @Sybil prévisionnel charges 2024 -> 50% salaire Kevin = 15% du budget total
+		- @Kevin redéfinie le périmêtre du projet
+		- @Esther peut faire un point sur l'état de l'art sur ce sujet
+			- vérif que c'est possible
+- facturation Skoaz
+	- @Esther demande comment se rémunère skoaz sur ce genre de projet
+### 2023-12-04
+- CII
+	- algorithme de matching pour les ventes
+		- localisation
+		- groupe
+		- social
+	- parcours achat express
+	- cagnotte
+	- réseau social
+		- gamification
+		- effet rebond
+		- groupe
+	- map - géoloc
+	- intégration fournisseurs
+		- lpf
+		- d&v / mcs
+		- solution générique - brasseries
+	- digitalisation processus d'achat / réseau social
+	- possiblement
+		- reporting fournisseur
+		- intégation inter-CE
+- documentation technique
+	- ensemble travaux réalisés
+	- nouvelles fonctionnalités
+	- présentation de leur mise enp lace
+	- contraintes rencontrées
+		- ateliers de co-conception?
+		- phase de tests spécifiques
+		- retravaillé
+	- feature flagging
+- next step
+	- étape de chiffrage : temps passé / personne
+	- documents comptables
+		- fiches de salaire
+		- factures Loïc
+	- sub
+		- 09/2022 : 21000 eur
+		- 02/2023 : 9000 eur
+	- chiffrage
+		- dépôt de la liasse
+		- qques mois après le chiffrage
+			- dépôt de dossier 2023
+- concurrents
+	- grapp, groupy-market, groupay
+	- la rue qui dit oui, cagette, entre ami
+	- kaf
+	- ecommerce
+		- shopify
+	- groupon, pinduoduo
+- asset récupérable
+	- 2022 : 20% crédit d'impots récupérable
+		- 43% des frais de personnels
+	- 2023 : 30%
+		- mais frais de fonctionnement OUT
+- cloture 31/12, max Mai 2024 pour dépot de liasse
+	- demander info à Inextenso + informer Skoaz
+### 2024-02-21 - CII 2023 - Fanny
+- méthode de calcul + chiffrage
+- tx de charge patronale ~ 25% - 35% = normal
+	- sinon il y a potentiellement un pb
+- 1ere facture : dépôts CERFA avec liasse fiscale
+	- fin février / début mars
+		- demande remboursement dans la foulée
+	- liasse à déposer au plus tard : 15/05
+	- délais de remboursement : ça dépend...
+- 2eme facture : remise du dossier technique
+	- doc technique
+	- description des travaux
+- prochaines échéances
+	- justif techniques
+		- extracte pages notion
+		- maquettes
+	- écriture : courant juin
+### 2025-03-04
+- CII : 30% -> 20%
+	- plafond 80.000 eur
+- CIR : finito
+	- dépenses 
+- Sub :
+	- ADEME -> économie circulaire OUT, écologie OUT
+	- médicament, armement ++
+- --
+- point Clapclap
+	- intégration dans le groupe
+	- "justif statut PME"
+		- moins de 50% des parts détenues par le groupe?
+		- moins 250 salariés
+		- CA > 43M eur
+	- si pas statut PME, pas de CII
+	- -> mise en contact avec Mathieu pour vérif
+- recap 2023
+	- projets 
+		- automatisation commande
+		- carto CG en cours
+		- cagnottage
+		- backoffice fournisseurs
+	- Johann, Nicky, David, Kevin, Neocode
+	- Bourse french tech déduite du CII
+		- mise à 0
+- 2024
+	- 

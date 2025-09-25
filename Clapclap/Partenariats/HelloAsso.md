@@ -1,0 +1,48 @@
+## 2024-01-31
+- Thomas et Thibaut Passuello
+- Thibaut Passuello : developpement partenariat, focus offre monétique
+- Thomas : directeur développement (création de collection, partenariat etc.. grands comptes)
+- ---
+- l'année prochaine... :sob:
+- boutique -> gestion de commande
+- des fois : pré-commandes (initiatives, Kadodis?)
+	- torchons
+	- ou commandes "a posteriori"
+- 40% = vente en ligne (buvette etc...)
+- initiative
+	- producteur et vendeur
+- hello asso
+	- métier = paiement!
+	- donc partenariat uniquement SI paiement sur HA
+	- modèle 100% gratuit pour l'asso
+	- 5M MAU
+- partenariat hand/tennis etc...
+	- problématique split de paiement avec un tiers
+	- aujourd'hui : seulement versement entre asso et HA
+	- on parle : grinta
+	- on parle : cashback
+- !!! Alcool
+	- clubs de sport
+		- fédérations reprennent la main sur les partenariats
+		- marketplace de partenaires
+		- eg. monclub "fédé handball"
+		- ils ont déjà des 
+	- amicales / APEL = gros conso de ce type de produits
+- suite?
+	- décider d'un cas d'usage commun
+	- opportunité grands comptes
+		- collectent 15 à 20 fois + que les autres
+- next
+	- détail de collab possible
+		- côté CC & HA
+	- Melissa (croissance) Pedro (finance)
+	- Prez HA + Doc API Checkout
+		- mais il manque Wallet
+	- Go / Nogo : pourquoi?
+		- /!\\ 2025 ? roadmap produit bien remplie
+	- follow-up : début février
+- stratégie
+	- intérêt pour les CSE
+		- monétique!
+	- volume de transactions : 9M de tx -> 520M d'eur
+	- 

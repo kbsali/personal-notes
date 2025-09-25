@@ -1,0 +1,13 @@
+# 2024-02-09
+- concurrence
+	- google my business
+		- regata?
+		- trustpilot
+		- immodvisor
+		- 
+- tourisme
+	- 2018
+	- pivot -> pas limité au secteur tourisme
+	- 2015 : bcp de campings (1/2 en france)
+	- 
+- 2023 4M ARR

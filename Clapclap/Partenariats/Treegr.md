@@ -1,0 +1,31 @@
+# 2023-02-03
+
+- proweb
+- commission revshare vs upsell 1eur
+- modèle
+	- transformation en marketplace
+	- avec commission et sans frais d'inscription
+- transfert de données utilisateur
+	- discussion authent'
+		- seule donnée récupérée : email
+		- 2 options
+			- par URL
+				- email
+					- en clair ou encodé
+					- paramètre "source=treegr"
+			- SSO
+- synchro des fournisseurs ?
+	- table airtable partagée?
+	- @Emmanuel doit se renseigner sur leur pool de fournisseurs pour savoir s'ils veulent être sur clapclap
+- problématique de mise en avant
+- 180 fournisseurs
+	- cc = ~40
+		- mais tous ne font pas de la livraison nationale
+		- sujet autour de la charte d'engagement
+			- ils font signer une convention
+	- temps 1 : pas de "contrat"/engagement avec treegr, ils listent les fournisseurs clapclap qui les intéressent
+		- mettre en avant le fait que c'est une "bêta"
+- @Emmanuel nous envoie un résumé
+- troopers -> en discussion marketplace
+	- via programme "latitude"
+	- groupe Isia

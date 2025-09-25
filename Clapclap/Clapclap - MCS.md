@@ -1,0 +1,59 @@
+### 2025-07-25 Caroline, licenciement éco Johann
+- trop de financement VS rentabilité
+- envisagé: licenciement éco (ou "contrat de sécurisation pro" avec france travail)
+	- CSP : 75% de ton salaire
+- 21 jours de délais de réflexion (18 aout max)
+- pas de changement de secteur souhaité
+- SI refus, licenciement éco
+	- prime de licenciement, congés payés, le préavis touché 
+	- lettre de licenciement éco envoyée le 06/08 avec accusé de réception
+	- 2 mois de préavis en rupture de contrat, vu qu'il y a cessation d'activité, les 2 mois sont payés
+	- 75% pendant 6 mois puis 50% pendant 12 mois
+- SI acceptation du CSP
+	- prime de licenciement, congés payés, le préavis **NON** touché
+	- 75% pendant 12 mois, puis 50%
+- embauchable dès le 20/08
+- **NICKY**
+	- dossier CSP + lettre d'info -> scannés + envoi par mail + courrier en main propre
+		- pas besoin de le faire signer
+	- arrêt maladie : CPAM prend le relais
+	- remise en main propre, date, signature de Nicky ET moi
+### 2025-06-17 Synchro hebdo
+- ajouter une date de début
+### 2025-06-04 Benja & Cyril
+- Pierre -> ClapClap
+	- il faut montrer au fond qu'on va faire du CA via Clapclap
+	- idée : 10 minettes au téléphone + qqu'un issu du vin qui propose du vin sur Clapclap
+		- mise en route trop courte
+- dans le projet de rachat
+	- compliqué de mettre Clapclap en avant
+- projects à gérer
+	- DV, MCS, B2B, site B2C, Hubspot, Clapclap
+- il faut qu'on continue d'avancer avec Clapclap comme jusqu'à maintenant
+	- Pierre monte son équipe et la gère
+- roadmap
+	- Pierre
+		- multi-fournisseur -> à tester
+		- vin : franco au carton
+	- Convergeance
+		- multi-site
+	- Transfert de compétence
+		- internalisation de la compétence?
+		- externalisation?
+			- Ezequiel (BWA)
+			- envoyer stack tech à Benjamin
+		- Nicky ou Johann mobiles?
+- Grosses intérogations sur la suite
+	- techniquement Benja pourrait reprendre
+	- fonctionalités : sans doute aussi
+	- vision dev business & stratégie
+- Business plan -> vendredi (Cyril, Alex, Benoit)
+	- expliquer du CA et l'EBE
+	- Adviso 15h-17h
+- intérêt à ré-investir une partie?
+	- why not, ça dépend du projet
+- SI ça ne fonctionne pas
+	- Revente à qqu'un du milieu du vin / concurrent
+	- Pierre n'exclut pas de faire un LBO et je continue à fond sur Clapclap
+	- 30M de valo + 7M de dette séniore -> 37M
+		- + dette opérationnelle (Péguet etc...) pas besoin de rembourser

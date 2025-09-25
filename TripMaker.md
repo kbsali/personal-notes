@@ -1,0 +1,446 @@
+# 2025-09-05 - Santi, Pedro
+- Péru, Venezuela, Argentina
+- cede en Palma
+	- joan, david, marga, aina
+- EXPERIENCE organizer
+- historia
+	- Pedro : empezo solo
+	- hablo con Santi para desarollar con sus recursos
+		- contrato 1 persona para esto, y lunes otro
+- trabajo en local, cada dia se despliegue en dev
+- Santi experiencia en viajes
+	- tecnologia travel
+- idea de proyecto 
+	- business plan
+	- roadmap
+	- objetivos
+- parte operaciones
+	- idea inicial : contratar DMCs locales
+	- quien es el Merchant of Record
+		- creador?
+		- nosotros?
+		- DMC local
+- una vez que este live
+	- hay que recrutar 
+	- Ester 1a creadora, que puede operar todo
+		- tiene una DMC (con licencia)
+- idea : hacer un Shopify de la experiencia
+- casos de uso
+	- los que son del mundo turistico con licencia
+	- y los creadores que no saben nada de esto
+- el producto es la experiencia
+	- vuelo + hotel + actividad
+- producto
+	- creacion de contenido
+- complejidad
+	- como se opera esto?
+	- ejemplo de Esther
+		- vive en Dubai
+		- consigue clientes (whatsapp, instagram stories)
+		- una vez que vende
+			- necesita cerrar con un barco (eg. Maldivas)
+				- barco (live aboard)
+			- transfer aeropuerto->hotel
+			- transfer hotel->actividad
+		- problema
+			- contratar hotel+actividad+transfer
+			- cobrar al cliente & pagar a los proveedores
+			- viaje con un precio cerrado y cupo (quantity PAX) max
+		- gestion de los contratos con los proveedores
+		- ella cobra y paga -> es Merchant of Record
+		- https://www.thebigblue.co/courses/recreationaldiving
+		- 8 viajes * 10 hospedes = 80 reservas / anyo * 3000 USD
+- Kevin :
+	- buscar las soluciones
+	- empujar a Santi
+	- disenyo
+	- hacer las pruebas con 
+- ejemplo #2
+	- experiencia mundial USA
+		- vuelo, hoteles, transfer, etc...
+- TPS (Third Party Supplier)
+- Clave de la plataforma
+	- abstraer toda la complejidad del negocio
+	- 1- creo la experiencia, 2- publico en instagram, 3- cobrar
+- ---
+- next steps
+	- Santi presente su plataforma
+	- Definicion de roles y porcentages
+	- etc...
+# 2025-09-10 - Santi : presentacion de lo que hay hecho
+- travel tech
+- organizacion X cale
+	- xoan - 
+	- david - producto
+- stack
+	- Codex first (prompts en varias pestanyas ->)
+	- Angular 20
+	- Java 18 (Spring)
+	- AWS
+	- Postgres
+	- Mongo Atlas (for speed)
+- plataforma distribucion de productos turistico
+	- online distribution
+	- eg. lastminute.com
+		- B2B
+		- travelgate = conectores
+		- distribuir su producto en B2B
+	- configuracion : 13 
+- MVP - obj : digitalizar el Excel de Esther
+- DEBILADES
+	- SEO
+	- disenyo
+	- usabilidad
+		- responsivness
+		- aspect ratio
+	- branding
+- one-man shop
+- FITUR Madrid (enero)
+	- meet with a lot of providers doing it all with Excel, manual...
+- Segment
+	- luxury
+		- 2 / 3 experiences
+		- post-confirmation de la reserva
+			- who pays who what when
+- Santi
+	- solution architect : Xoan
+	- desarollador : David & 
+	- KT : knowledge transfer
+	- QA
+	- 30% disponible para TripMaker
+- tools
+	- Confluence
+	- Jira
+	- Github
+	- Figma
+	- Lucid (architecural design)
+	- Slack
+# 2025-09-11 - Pedro
+- alguien con enfoque 100%
+- B2C
+- Santi 
+	- sabe mucho de turismo
+	- muy buen consultor (entiende y entrega)
+	- necesita alguien que lo dirija
+- Pedro
+	- soporte
+- indios
+	- contacto : ENEA VC (aleman, advisors)
+	- plataforma tecnica
+		- vending "holidays" (hotel + actividad)
+		- en la india - no puedes llevar el soporte por el proveedor
+		- convercion en tour operador = fullfilment
+		- solo en la India
+		- solo B2B (agencias de viaje de 1 persona...)
+		- facturan 120M en "holidays"
+			- en 3/4 anyos 3~4000 M
+		- la web de ventas es suya
+- airbnb experiences
+	- paquete con "hotel + experiencia" VS "bnb" + "experiencia"
+- todo
+	- reunir con Esther
+		- explique como hace las cosas
+	- disényar el modelo de negocio
+	- definir la web B2C mas en detalle
+		- MVP
+	- idea:
+		- Trip builder (5 steps)
+			- Destino, hotel, transfer
+- feeling
+	- sensacion que puede funcionar
+	- dispuesto a poner pasta hasta un limite
+	- start con Esther
+		- luego 10 mas de diving
+		- luego otro nicho
+			- cada nicho tiene su feria
+			- necesitas pasta para entrar en cada nicho
+	- presupuesto total
+		- cuanto tiempo duramos
+		- objetivos
+			- ej. 100 Viajes
+			- 10 ventas / dia
+				- eg. 2000 eur / venta
+				- 10% de comision
+			- si se llega -> open ronda de financiacion VC
+				- teoria : si puede crecer => gastar pasta (marketing etc...)
+			- O : crecimiento organico
+- viaje
+	- 10/20% de comision es normal
+		- la mitad es para el creador
+- pensar una herramienta para ayudar el creador en hacer marketing
+	- social network?
+	- Esther : pain point = conseguir 
+		- whatsapp
+		- web
+		- word to mouth
+	- GROWTH
+		- reddit
+		- salir en los chats LLM
+- travplan
+	- operan la reserva
+	- pero el agenta de viajes compra a ellos, y vende a su cliente
+- trip builder
+	- 1 - donde? Maldivas
+	- 2 - numero de noches ? 5
+	- 3 - cuanta gente? 10!
+	- 4 - live-aboard (proveedor local ya listado)
+		- que pasa si Esther ya tiene un proveedor que NO conocemos
+			- tendriamos que dejarla poner el nombre del proveedor, pero se tiene que contratar
+		- CRUD de proveedores del creador
+	- 5 - 
+- decidir un presupuesto total
+	- ej. 400k eur para 6 meses
+- Stripe - delaware
+- NEXT STEP
+	- Esther
+- [ ] # 2025-09-12 Santi & Pedro, kickoff
+- Pago 
+- questions Esther
+	- como se organiza?
+	- como paga a los proveedores
+	- ultima vez fueron a Mejico pero con hotel VS barco live-aboard
+		- complejo (buceo en mar i luego en "cénote")
+		- comidas (restaurante o catering)
+		- transfers
+	- Maldivas
+		- aeropuerto = puerto entonces los barcos buscan a los huespedes
+- questions XCale
+	- % de complecion del admin
+	- presentacion de la stack tech
+# 2025-09-15 - Esther, Santi, Pedro, Kevin
+- Esther
+	- 4 anos en Dubai (2005, Londres 13 anyos, Australia 3, Dubai 4)
+	- 24 anyos en gestion de eventos (logistica, en todo el mundo)
+- 1 ano con este nuevo negocio
+	- pequena agencia "boutique"
+	- proveer viajes de buceo en cualquier sitio del mundo
+		- busqueda del sitio, fechas, experiencia que quieren
+		- servicio personal donde y cuando de acuerdo con el prespuesto
+		- NO acompanya
+		- no saben a donde ir, no se atreven a ir sin saber donde van
+			- en la industria hay un poco de todo
+			- la gente no se fia dependiendo del sitio
+			- confian SI Esther ya ha estado
+			- niveles muy distintos
+	- tb organizar viajes de grupo donde gente de unen
+		- 1 vez al mes
+		- es la HOST
+		- logistica, proveedores, acomodacion, transporte
+		- TODO menos el vuelo
+			- flexibilidad
+		- dia de llegada
+		- 
+	- buceo regulares en la zona de Dubai
+		- es un grupo local y son de confianza
+- viajes de grupo pasados
+	- mexico 8 + 1
+	- maldivas 4 + 1
+	- maldivas 4 +1
+	- mucha inestabilidad
+- *viajes de buceo*
+	- normalmente 1 persona o 1 pareja
+	- tipo agencia de viaje
+	- en vez de convertirse en instructora, organizadora de viaje
+	- oportunidad : dar la tranquilad de dar el visto bueno en sitios donde ya ha estado
+	- marketing : 
+		- Word of Mouth
+			- hay mucho repeat
+		- reded sociales (pocas ventas : falta de capacidad de volumen)
+			- instagram sobre todo, facebook (demografica 35/60 anos, y se mete en grupos)
+	- Ej: Maldivas
+		- conoce muy bien, tiene todos los contactos
+		- tiene una guia
+		- NO se puede automatizar
+			- cada request es diferente a las otras
+	- SI perfil similar
+		- 1 pareja con 3 ninos = demasiado diferente y entonces las "guias" que ya tiene no funcionan
+		- seria interesante tener plantillas
+	- normalemente no hay mucho que reafinar
+		- si encuentran el operador, podrian pasar en directo
+		- valor anadido : 
+		- boca a boca hace que normalmente funciona
+	- cuando confirman
+		- google sheet
+		- previamente hay un acuerdo con el proveedor local
+			- confirmar disponibilidad para las fechas
+		- O SI es destino nuevo
+			- eg. Fiji, encuentra proveedor, se ponen de acuerdo
+	- payment
+		- transferencia bancaria o tarjeta
+			- STRIPE : muy caro (tarjeta: 3.5% commission)
+			- contabilidad : XERO
+			- transferencia bancaria para todos los viajes local
+		- normalmente Tarjeta para los viajes
+			- commission Stripe = incluida
+	- Post venta
+		- clausulas del cancelacion del proveedor -> cliente
+		- para viajes locales
+			- no hay problema para hacer refund
+		- viajes de grupo o a medida
+			- NO se puede hacer REFUND
+			- credito para el siguiente viaje
+- *viajes como host*
+	- preparacion
+		- 11 meses viajando como "scout"
+		- ahora que es agencia, la invitan!
+		- ir al sitio, prueba 2 o 3 centros de buceo
+			- acuerdo : ~15% de comision
+		- mirar los hoteles
+		- mirar los transfers
+		- luego montar el paquete
+	- promocion
+		- comunidad de 150 personas que ya conoce (y bastantes repiten)
+		- buscar nuevos en instagram, facebook, tictoc
+		- whatsapp a traves de reels, imagenes etc...
+		- el paquete incluye TODO desde que llegan y se van
+		- hay "add-ons"
+			- eg. 1 semana en Maldiva
+				- se puede hacer 1/2 semana a 1/2 precio
+			- si quieres llegar 2 dias antes con otras cosas
+		- alquiler de equipo : no hay comision
+		- seguro
+			- ofrece un seguro con un partner -> comision
+			- cubre el seguro de Esther
+		- no hay venta adicional durante el viaje
+		- hay un deposito del 30%
+			- reservar la plaza
+		- Early-bird promotion
+			- website, newsletter, insta
+				- 10% del precio 14 primeros dias
+			- 1 meses del comienzo : tienen que pagar el resto
+				- pueden buscar otra persona que la re-emplazar
+		- confirmacion
+			- 90% por whatsapp, 10% por email
+				- documentacion
+				- pasaporte, nivel de buceo & 
+				- detalles : si pueden bucear con nitrox
+					- si hace falta les envia a instructores
+						- 10% de descuento
+						- promocion de Esther como organizadora
+			- envia por Xero la quotation
+				- Aceptan y pagan
+- *buceo regulares*
+	- asociacion con 2 personas
+		- instructor de buceo para ninos
+		- instructor de buceo tecnico
+	- bucea con ellos + mas gente
+	- normalmente la gente Quiere bucear con ELLA
+		- confianza
+		- si van SIN ella, tb cobraria su comision
+	- fin de semana entero (2 noches en el barco con buceo sabado & domingo)
+	- gran volumen : 1 o 2 buceos por la manana y vuelta
+		- grupos de 2 a 6 buceadores
+---
+#### wish list
+- automatizacion
+	- whatsapp : es el medio preferido
+	- compartir informacion de manera rapida
+	- eg. gestion de la agenda de viajes disponibles
+		- la gente quiere personalizacion
+		- 3 bullet points + links, se lo toman mal
+- no tiene tiempo para analizar como se convierte etc...
+	- todo el mundo dice que necesita a alguien para ayudarla
+- ahorrar tiempo
+- TIEMPO
+- Google sheet
+	- 1 tab / viaje (para calcular el margen)
+	- Formulario google form
+- normalmente no hay cambios
+	- 1 vez 
+---
+- Promocionar los viajes
+	- en redes sociales : hay que decidar mucho tiempo
+	- viaje = video, editar, publicar en las redes
+		- complicado competir con gente que tiene social media managers
+- clave
+	- gestion de la comunidad
+		- cuidarla
+		- tener a Esther para lo que fuera
+---
+- PREGUNTA de ESTHER
+	- B2B
+		- ayudar a Esther, digitalizar
+		- inventario de viajes/productos
+		- inventario de
+	- B2C
+		- generacion de ventas
+# 2025-09-17 - Santi, David, Joan
+- Equipo
+	- David : producto Palma
+	- Joan : desarollo Palma
+	- Bryan Vera² : desarollador Peru (2025-08-18)
+		- 1 semana desplegado
+		- 13h (6h local)
+	- Juan-Carlos : desarollador Peru (2025-09-10)
+		- 13h (6h local)
+- Stack
+	- AWS KS -> back
+		- infra compartida
+		- backend java sprint
+		- notificacion service -> email de un pdf
+	- AWS S3 -> front
+		- front angular
+		- con una libreria de Xcale con coponentes
+			- por ejemplo notificaciones
+	- AWS DB : postgres
+		- compartido
+	- Grafana
+	- CI : Jenkins
+	- Calidad : Sonar (80% de cobertura)
+	- Docker : Nexus
+	- infra as code
+		- 90% = terraform
+		- falta dominio
+		- ArgoCD
+	- Repo : github
+		- codex
+			- arquitectura desde 0 complicado
+			- pero para crear pantallas nuevas = good
+- producto
+	- se venden viajes
+	- backoffice para el proveedor
+		- falta construir
+			- db y mantenimiento de reserva y puesta a la venta del viaje
+				- UUID del reserva?
+				- decidir como publicar los viajes
+			- usuario final : ver la reserva y modificacion basica o cancelacion
+		- ajustes en la parte de viajes
+		- backoffice : pantalla de la reservas
+- herramientas
+	- jira
+		- epica tripmaker
+			- tareas
+			- muy ligera
+	- lucidchart
+		- documentacion
+		- diagrama de
+- orga
+	- 1 daily
+- arquitectura
+	- trip maker service (internal)
+		- expone una API REST (con swagger)
+	- backoffice service (publico)
+		- gestor con trip maker service
+	- frontend - todo
+	- TODO
+		- definir la API de cliente
+		- UX : hay un disenyadora interna (Sani)
+# 2025-09-17 Pedro
+- 4 apps
+	- super admin
+	- trip builder
+		- (marketing)
+	- white label de cada builder de reserva
+	- end user private area
+		- schedule del viaje
+# 2025-09-26
+- Equipo
+	- Santi = the boss
+	- David = arquitecto
+	- Joan = ?
+	- Paulina = Project manager
+	- Yanina = ?? UX ??
+	- Bryan = developer (Peru)
+	- Jorge-Luis = developer (Peru)
+- 1) organizador
+- 2) parte publica

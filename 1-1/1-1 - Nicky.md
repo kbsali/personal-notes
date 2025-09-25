@@ -1,0 +1,661 @@
+### 2022-10-26
+- comment ca va?
+- PR trop longue avec bcp de retours
+	- faire plusieurs PRs plus petites
+- Git : rebase / merge
+	- gestion des conflits
+		- a priori pas de soucis
+- discussion API vs getServersideProps
+- avec l'équipe : all good
+- discussion injection de dépendance
+
+### 2022-11-04
+- google map compliqué
+	- 3 jours
+- tailwindUI : top
+	- composant dispo, template à adapter
+- update profile
+	- v0 changement d'email non fonctionnel?
+- bureaux ok
+- vacances de Noel, à définir
+- team building
+
+### 2022-11-09
+- update profile
+	- front :check:
+	- supabase GET :check:
+	- supabase UPDATE in progress
+		- auth.users
+			- email & password
+			- phone ???
+			- data
+				- null!
+		- public.profile
+			- email, firstname, lastname, zipcode, phone
+- code design / clean code = compliqué
+- Des fois perdu entre les retours de Loïc / Kevin
+
+### 2022-11-16
+- update profile
+	- supabase UPDATE -> changement de stratégie : on passe par les metadata
+		- bénéfices : session!
+- discussion autour des variants...
+- apprendre à bien utiliser 
+	- son éditeur de texte
+	- sa ligne de commande
+- orga
+	- fullstack: Nicky
+	- fullstack/front : Loic
+	- fullstack/back: Kevin
+
+### 2022-11-23
+- semaine dernière : cagade de Kevin -> metadata...
+- bonne semaine : j'avance
+	- presque fini la page de CG
+	- typing sur les requètes pratique
+- la suite?
+	- avatar!
+- discussion autour de 
+	- injection de depencdances
+	- progression en dev
+
+### 2022-11-30
+- semaine : ça va, on avance
+	- correction de bugs
+- dédup méthodes -> abstraction des méthodes getProfile***
+- pb : supabase auth avec les doubles appels "preflight / GET|POST"
+	- ça amène des glitchs
+	- investiguer supabase / CORS
+
+### 2022-12-08
+- semaine : on avance mieux que la semaine dernière
+	- semaine dernière : bug spécifique storybook -> pb d'animation, perte de temps
+- fix : double appel supabase
+	- useSessionContext pour savoir si la session est déjà chargée ou pas
+- en cours : panier / super panier! :)
+	- manque localstorage pour supporter refresh de page + navigation
+	- fix : double appel payment-intent/create
+- code react / front : "souvent je me complique la vie"
+	- heureusement que Loïc est dispo pour aider, débloquer
+	- encore un peu de mal avec la "propreté de mon React"
+
+### 2022-12-14
+- pas de blocage
+	- redirection & vidage panier post-paiement
+	-  il reste le design...
+- donner les dates de congés :)
+
+### 2022-12-21
+- post paiement
+	- vidage panier -> pour commencer on vide tout!
+	- gérer les erreurs stripe
+	- redirection home w/ message (url centric)
+		- à changer en "toast / flash message"
+	- email / sendinblue
+		- email organizer
+		- email customer
+			- design à améliorer et tester? (MJML)
+- début offer
+	- page fournisseur
+		- mockup @david dispo
+- revu roadmap
+- départ Loïc
+	- inquiet? bof, on verra...
+		- admin : oui
+		- front : un peu
+- devoirs maison : petite introspection sous forme de rapport d'étonnement ;)
+
+### 2023-01-11
+- bien les vacances
+	- déconnecté total
+	- nouvelle chanson
+- sensation d'avoir BCP galérer avec le RPC
+	- Méthode "Loïc" pas adapté
+	- je suis un peu light en SQL peut-être?
+	- + pratique pour des cas d'usage complexes
+- cool : nouvelle façon de typer les requètes supabase
+- Johann sur la V1 => trop cool pour gérer notamment les styles
+	- on se complète bien (moi back, light front/design)
+- discussion sur les tickets en cours / à faire
+
+### 2023-01-18
+- un peu galère avec le manque de ticket
+- composant image = cool
+- API Stripe très bien faite, donc ça a été vite
+	- reste à faire : 
+		- protection via apitoken dans header
+- grosse et longue discussion sur les paiements/remboursements de CG
+
+### 2023-02-01
+- orga : recrutement PO
+	- correction de bug -> c'est l'équipe qui est responsable de ses actes
+	- échange diff entre scrum & kanban
+- api stripe
+	- décision de changer de tactique avec Loic
+	- -> pas cool, j'aimerais être mis dans la boucle AVANT que la décision soit prise
+- Besoin d'un soutient (Loic) surtout sur la partie front
+	- notamment gérer les edge-case
+- Johann : ticket SEO trop long, trop complexe (notamment la méthode truncate)
+	- :warning: aurait pu être repéré dans la PR review
+	- ne pas hésiter à faire des commentaires sur les PRs
+	- discussion autour du composant <SEO/>
+- email
+	- pas compliqué
+- refund
+	- commencé à bosser sur l'admin :+1:
+- todo : date de livraison -> intégration dans l'admin
+- discussion autour de la doc
+	- notamment diagramme de séquence ou flowchart avec Mermaid
+- urgent : ajouter un commentaire à la commande
+
+### 2023-02-08
+- refund : finished!
+- prise en charge d'une commande : il ne reste plus que l'email de modif de date
+- commentaire à la commande
+- Annonce Loïc -> temps partiel
+- discussion autour du rapprochement avec D&V?
+	- plus de plateforme interCE
+	- Jessica -> fin de mission
+	- Roadmap à redéfinir
+
+### 2023-02-15
+- digestion compliquée!
+- done
+	- admin : liste group buys admin/backoffice
+- doing
+	- invoice provider + customer/member
+		- via storybook
+	- grosse discussion autour de la génération des factures
+- rh
+	- point recrutement + clarification de la présence de Loïc
+
+### 2023-02-22
+- done
+	- admin : menu offre dynamique
+	- front : invoice -> half done
+	- doc -> scénario email
+	- gestion des univers (fournisseur)
+- (doing)
+	- recette -> scénario de test
+	- discussion facture
+		- on fait une route publique sur le front, on y est redirigé depuis l'admin
+		- on crée la facture au moment du "transfert stripe"
+	- flow diagramm -> cycle de vie d'une CG
+		- début de discussion sur la gueule que ça aura
+- rh
+	- loic 2j/semaine
+	- Mael en cours
+
+### 2023-03-08
+- doing
+	- facture -> pas évident
+	- maj formulaire provider :
+		- adresse = nullable
+		- siren = nullable
+		- tva = nullable
+		- -> exemple à reprendre : product family
+- Misc : son frère est en stage avec la même stack et mêmes problématiques react-admin VS next.js :)
+	- Lausane
+
+### 2023-03-15
+- doing
+	- facture : on y est presque! :)
+		- quid de la commande validée AVANT la création de facture
+		- WIP : affichage
+		- Doing : Bouton
+	- GOOD JOB!
+- top que tu m'aides en TS
+- gestion de projet : review tech = + clair
+### 2023-03-22
+- todo :
+	- nouvel end point pour générer une facture (SANS notification ni transfert)
+		- JHO
+	- cas Aerofab : renseigner date de livraison SANS créer de facture
+- confirme que les review tech sont vraiment intéressantes
+	- clarification des choses à faire et surtout celles à ne pas faire
+- discussion autour de la nouveauté : "profil pro"
+- discussion / clarification sur le rôle de D&V dans la stratégie commerciale
+	- + détectour & salon du CE
+- misc :
+	- les travaux, c'est bruyant!
+	- vivement la fin des manifs
+### 2023-03-29
+- :warning: gestion de mise en prod bugguées
+- sujets compliqués à venir
+	- gestion de taux de commission
+- ce serait bien de systématiquement mettre le "sprint week number" des tickets faits dans un sprint
+- merci pour ton aide régulière
+	- ne pas hésiter à temporiser les demandes d'aide
+- misc:
+	- match impro, la prochaine
+### 2023-04-12
+- pas besoin de break tout de suite
+	- mais il faudra prévoir un break en été (2 ou 3 semaines minimum)
+- tâche wiismile / affiliate 
+	- maintenant c'est plus clair, mais un peu complexe à saisir au départ
+	- discussion sur la résolution du pb des sous-domaines et des url absolues VS relatives
+	- discussion sur les pages à co-brander
+	- page : login / signup -> à quel point on va vouloir customiser
+### 2023-04-26
+- misc
+	- ça va ça va?
+	- missing : fiche de salaire Mars 2023
+	- prise de rdv pour fin de période d'essai
+	- match impro : 12/05
+- bug
+	- affiliate empty string -> maj des comptes en prod
+	- bon de commande : prise en compte des achats "refunded"
+	- login/signup avec double cookies
+- idées : mise en place de post mortem pour ces bugs
+- problème stripe avec compte existant **Aerofab**
+- discussions autour :
+	- gestion de cagnotte Asso
+	- maj de compte stripe
+	- gestion des webhook stripe SEPA
+		- visibilité des event stripe sur webhook
+### 2023-05-03
+- misc
+	- content, ça se passe bien
+	- annonce augment' salaire : très content
+- maj dépendance : renovate.json
+- campagne D&V Rugby:
+	- repoussée d'1 semaine pour démo, 3 semaines pour lancement
+- techops / dej le même jour
+	- idée:
+		- Nicky - présentation "currying"
+	- amélioration DX, projet innovant, gestion dépendances, couverture de test / tests unitaires...
+- vacances : 1 semaine en Juin
+### 2023-05-03
+- freetech day
+	- présentation currying = top!
+		- refacto Stripe
+- vacances : :check:
+- offre / asso
+	- filtrer les offres en fonction du "profile type"
+	- propagation utm_src -> cookie
+	- fees & facture
+	- cagnotte
+	- discussion fonctionnement utm_src + utm_campaign
+	- limitation : impossible de créer une CG offre asso si profile type <> asso
+### 2023-05-26
+- ça va ? oui!
+	- dommage qu'on ait pas encore commencé les factures
+	- semaine tranquile dans l'avancement
+- k: content de la démo
+	- encore du boulot avec l'intégration api <> MCS
+- react-admin
+	-  de l'ordre du bidouillage parfois (-> data provider spécifique group_buys)
+	- backoffice offers -> ajout d'un offer_provider
+		- + potentiel bug sur le composant many2many : la donnée est en DB mais pas affiché sur le composant
+- maj dépendances : on en sait plus quoi faire
+	- help Alexis
+- grosse maj gestion des TTC vs HT à venir
+	- naming convention : vat_excluded vat_included
+- vacances... peut-être voyage avec passeport? :)
+### 2023-06-07
+- WIP admin :
+	- amélioration perf & ajout de plusieurs filtres
+		- TRES COOL
+	- filter complexe : join / OR etc...
+- vacances : Aout au moins 1 semaine si possible
+### 2023-06-23
+- vacances
+	- 1 décembre : remise de diplome @ Grenoble aka la cuvette
+	- 1 ou 2 semaines en Aout
+- WIP 2 dernières semaines
+	- cagnotte orga (particulier et asso)
+	- feature flag / home
+	- remboursement
+	- montant TTC/HT
+	- bouton pour forcer une validation de CG
+	- facture, listing participants v2
+- longue discussion sur le sprint de la semaine pro : catalogue 300+
+### 2023-07-11
+- vacances
+	- semaine du 14/08
+- Télétravail
+	- faire très attention à la dispo, réactivité, et communication
+- Ré-organisation bureau : Nicky s'assoie de nouveau à côté de Johann
+- WIP 2 dernières semaines
+	- Catégories +++
+		- trop cool le correctif sur les sous-catégoies + simplication gestion catégorie promos
+	- Admin
+		- BUG : impossible d'éditer un gros catalogue comme D&V
+### 2023-07-19
+- bureau : assis à côté de johann -> il a aidé sur des sujets de React
+	- pourquoi pas changé en fonction des tâches
+- discussion
+	- lien tracké
+	- variant
+### 2023-09-05
+- problème technique : supabase out
+	- essayer discord!
+	- frustrant
+- la rentrée
+	- théatre
+	- escalade : UCPA (180eur / trimestre)
+- WIP
+	- stock : possiblement une erreur?
+	- maj dépendances
+	- correction du bug maxlistenersexceededwarning... why?
+- roadmap :  manque un peu de visibilité
+	- catalogue?
+	- lien tracké
+	- revue de la roadmap prévue d'ici la fin de l'année
+- présentation du projet / produit
+	- auprès des amis : un peu léger
+	- vraiment envie d'aller au salon CE vendre la solution
+	- ce serait intéressant que l'équipe tech participe au support client
+- discussion sur la levée de fonds à venir (comment ça marche)
+### 2023-09-13
+- pb tech : MAC -> Linux
+	- maj de nextjs??
+- plus de bug sur le paiement! :)
+	- surveiller les orders
+	- possible amélioration : ré-utiliser le même `order` entre 2 refresh
+- roadmap
+	- gros sujets : cagnotte
+		- cas d'usage CSE/Asso
+		- + cozy-colis / commerciaux LPF
+			- préciser les "promotion fees"
+				- Question : promoter fee appliqué à toutes les CGs créées par les orga-filleuls? ou seulement les 1eres?
+	- liens trackés
+- confirmé : Nicky va au salon CE Nantes Vendredi 15/09
+### 2023-10-25
+- mac -> colima, docker, supabase!
+- ça va?
+	- bien
+	- enfin fini les adresses
+		- quand même galère
+		- formulaire complexe (react hook form avec google map)
+		- plus besoin de react hook form sur l'admin (edit adresse imbriquée)
+			- donc maj de react-admin = normalement facile
+- salon : super fatiguant, bruit de fond, pas habitué
+- spectacle : trop bien, 7 invités, + sympa qd tu connais du monde
+- discussion autour de la documentation
+	- referred_by non-utilisé
+	- lien tracké : à faire
+- retour sur ma mauvaise humeur rapport à TS
+### 2023-11-15
+- /!\\ faire attention à bien suivre les design proposé par David (eg. drop-down adresses apparemment très différent de ce qui était proposé)
+	- demander explicitement un retour de la personne 
+	- ne pas de contenter de #release sur slack
+- ça va ?
+- techop
+	- gros besoin de discuter l'archi server & composants
+	- refacto refacto refacto
+### 2023-12-06
+- migration app/
+	- front : a priori pas de pb pour les API
+		- continuer la migration API
+		- et faire un exemple d'une route "web"
+	- admin : problème pour les API qui ont besoin de traductions
+		- idée : on "migre" les trad "api" dans next.js comme pour le front
+		- migration total très possible bientôt!
+- rappel : mise à jour des tickets sur notion
+- dev front
+	- intégration  css : vraiment pas bon
+	- intégration composants métiers cool & intéressant
+- un peu flippé par la taille du sprint : achat express + reward
+- sujet téléphone
+	- penser à ne pas être en mode avion qd on n'est pas dans la même pièce :) 
+### 2023-12-20
+- perso
+	- pas trop fatigué, mais vivement les vacances
+		- bouffe de famille @ Nantes
+	- représentation : salle complète
+- pro
+	- migration app/
+		- front/ : il ne reste plus que 2 routes
+			- long à changer + tester
+			- stripe/webhook + stripe/webhook/connect
+		- admin/ - i18n comme déjà évoqué
+	- OBJ
+		- finir la migration des APIs au prochain techops
+	- reward
+		- maj des listings : bcp + long que prévu
+			- mais TOP d'avoir fait le boulot avec notamment un peu de refacto / nettoyage
+		- discussion sur le typage de supabase
+			- migration Tables + TablesInsert + TablesUpdate
+				- pas si simple...
+	- déménagement
+		- flexibilité sur le nombre de tables
+		- pas trop d'avis sur le move
+	- discussion sur la levée : sécurisée la moitié, on recule la date de fin à mi-février, voire plus si besoin, on avance 
+### 2024-02-21
+- comment ça va?
+	- mouaif
+	- j'aimerais bien continuer
+	- on travaille bien, bonne orga de travail
+- esn vs editeur
+	- plutôt editeur
+	- ou petite esn
+		- théodo trop procédural
+- stack
+	- typescript
+	- react
+	- db
+- remote : bof
+	- besoin d'un endroit isolé
+### 2024-03-13
+- situation cession vs levée de fonds
+- il ne faut pas baisser les bras sur les nombreux changements des dernières semaines
+- demo pour mercredi 20/03
+	- décision dans la foulée
+- situation chiante, mais plus trop énervé
+- freemium
+	- pas besoin d'avoir les factures finies pour publier
+	- (puisqu'il faut attendre la fin des CGs pour facturer)
+### 2024-04-30
+- ça va?
+	- content et motivé pour la suite
+- congés :
+	- 2 semaines juillet / aout + 1 semaine mai / septembre
+	- ven 03/05 + lun 06, mar 07 + jeu 09
+- discussion roadmap
+	- admin v2
+		- finalement j'aime bien react admin
+		- comment on s'y prend? on migre des parties au fur et à mesure...
+- modèle éco
+	- ré-explication du changement de focus CSE -> Fournisseur
+	- d'où l'importance de lancer le projet "admin v2"
+### 2024-05-22
+- ça va?
+	- content et motivé pour la suite
+	- congés
+		- stratégie : égrennage pendant l'année
+- télétravail
+	- équipement maison pour télétravail ok
+	- ok
+- boulot
+	- tranquile
+	- bon de commande fournisseur pas évident, mais ça passe
+	- challenge :
+		- commande indiv pour autrui
+			- cf la Belle-Iloise
+	- rdv MCS pour discussion roadmap
+		- admin v2
+		- dashboard orga
+		- super panier
+### 2024-06-05
+- discussion roadmap
+	- brevo - intégration + poussée
+		- liste de contacts
+		- envoi de SMS en masse (autre solution ?)
+	- discussion sur La Poste, challenge technique FTP / Gamba / logistique
+	- test gamme produits d'entretien
+		- temps #1 : intégration "normale"
+		- :warning: gestion de stock
+			- déjà en place, le stock est vérifié au moment du paiement (callback "payment success")
+			- MAIS ça pourrait planter si "payment_intent" est en erreur et que Stripe relance et s'il y a finalement une erreur (d'envoi de mail par ex)
+				- solution : gestion d'event via une queue
+				- WARNING si fail
+- messagerie
+	- modèle de données déjà à revoir! :/ si fournisseur a plusieurs administrateurs
+	- 2 options
+		- modèle conversation à X profiles
+		- ou modèle conversation entre 2 profils OU 1 profil & 1 fournisseur
+		- ou on envoie tjs le message au 1er `profile` du fournisseur
+			- côté backoffice : si un autre admin se connecte, on se débrouille pour qu'il voie qd même la conversation
+### 2024-07-03
+- vacances : bientôt!
+	- londres en AVION
+	- Aout à poser - objectif : poser avant le 13/07
+- feature
+	- paiement pour autrui
+		- maj des `orders`
+			- on supprime / recréé tous les `order_items`
+			- d'ailleurs on pourrait faire du nettoyage sur les orders/order_items existants
+		- maj des `paymentIntents
+		- :warning: on vire le paymentIntents de localStorage si logout
+	- stocker en db les shopping cart
+	- backoffice v2
+		- nextjs + shadcn-ui ?
+	- se mettre d'accord sur des potentiels bloqueurs tech pendant mes vacances!
+- TODO
+### 2024-09-25
+- ça va?
+	- un peu malade?
+	- théatre : reprise dans un groupe + avancé, c'est sympa
+- frustrant
+	-  la relecture des PR
+		- par ex avec les conversations : 8 PRs à review
+		- idée : demander à l'oral ! systématiquement
+	- doublon de tickets parce que souvent pas les mêmes personnes qui crés les tickets
+	- description qui manque de contexte ou de précision
+		- ça crée des aller/retour inutiles
+	- Kevin qui tape des doigts très souvent - je vais faire des efforts
+- sensation d'efficacité après les vacances
+	- prochaine : Noël
+- conversation/ messaging : vraiment top! BRAVO!
+- partage de mon petit flip du moment 
+	- comment va se comporter le système si le traffic augmente
+		- vercel -> comment en sortir si besoin
+	- optimisation requètes SQL
+		- sous-requète = pas optim
+			- WITH = top
+		- utilisation de EXPLAIN pour analyser les améliorations possibles
+	- admin : page CG qui timeout de +  en +
+		- timeout lié à l'ajout de "invoice_id" dans la vue group buys
+		- pourquoi pas créer une VIEW pour cette liste
+		- se référer à l'advisor de supabase
+			- https://supabase.com/dashboard/project/nvpbrjvgnqunpvfudybk/advisors/performance?preset=WARN&id=multiple_permissive_policies_public_orders_authenticated_DELETE
+		- et query performance
+			- https://supabase.com/dashboard/project/nvpbrjvgnqunpvfudybk/database/query-performance
+- feature : marketing campaign
+	- next step : api pour vraiment lancer les campagnes
+### 2024-10-09
+- frustations
+	- OK lenteur des reviews de PR
+	- OK doublon de ticket
+- petit fail : campagne marketing
+- SQL : explain -> https://github.com/rbkayz/supexplain
+- admin v2
+	- gros souci : intégration de catalogue super galère
+		- les autres choses ne sont pas si compliqués
+	- pourquoi pas migrer vers la v5
+- Kevin : trop de temps à intégrer les catalogues
+	- idée : api-iser les scripts CLI pour synchro de catalogues
+	- pourquoi pas leur donner accès à Airtable?
+- CG multi-site : parent_id?
+- ok pour arriver/partir plus tôt?
+	- YES! évidemment!!!
+### 2024-10-23
+- TECHOPS day
+	- sanctuarisation de cette journée
+	- ajouter aux sprints
+		- eg. refacto les inputs dans les formulaires
+		- idée : 20% de tickets dédié au techops/dette technique
+- discusion refonte parcours membre
+	- quid du parcours self-service VS entreprise
+- bcp de BUGs
+	- notamment les variants
+	- SENTRY trop plein, on ne s'en occupe pas assez
+### 2024-11-13
+- discussion sur sous-compte VS groupe
+	- groupe à la facebook
+	- possible confusion pour les clients DV existants
+- SENTRY trop plein, on ne s'en occupe pas assez
+	- il faut VRAIMENT qu'on s'en occupe!
+	- TECHOPS!
+- un peu galéré à transformer "group" en "contact list"
+	- en 2 étapes : group+group_profiles -> contact_list, démotivant temporairement mais le résultat est mieux et + simple
+- WIP : impersonification en cours et pour l'instant ça semble bien avance !!! TOP
+- prévenir de ma situation perso (séparation)
+- visite médical à Vertou à venir
+### 2024-11-27
+- compte / groupe
+	- mieux! plus facile à implémenter et à comprendre
+- member_contacts -> nommage de la colonne
+	- created_by & profile_id
+	- owner_id & member_id ??
+- vacances
+- points Nicky
+	- très stressant l'envoi de campagne
+		- 600 personnes
+	- lister les leçons de nos erreurs passées
+		- eg. si email/sms/messages avec lien, ne jamais exécuter en local!
+		- eg. si changement d'email, dupliquer
+			- brevo : incroyablement lent! Envoi de 600 mails sur 10h de temps
+	- si longue liste de membres à contacter, la sinder en plusieurs sous-listes pour tester au fur et à mesure
+- on en revient toujours au sujet de la queue d'events
+- probance tjs d'actu? oui! Mais on attend leur retour
+- annonce augment' : trop content
+- MCS -> c'est moins stressant de ne pas avoir à merge leur client
+### 2025-02-12
+- comment va la vie?
+	- ça va bien
+	- vacances prévues?
+		- sans doute en Avril
+	- fatigue?
+		- non ça va, les vacances ont fait du bien
+	- visite médicale : pour quoi faire?
+- boulot
+	- la liste est longue
+	- possibles améliorations?
+		- content que Kevin fasse du front, pour voir les problèmes qu'on a
+		- getCurrentUser : ne pas oublier
+	- dommage : on ne fait plus trop de techops
+		- solution testée : sprint planning avec/sans techops
+	- revue des TECHOPS
+- rappel horaires / temps de travail
+### 2025-04-02
+- comment va?
+	- ça va
+	- MCS : bcp de corrections de bugs
+		- prix à l'unité, bcp d'aller/retours
+		- pb de prise de décision et de qui est décisionnaire
+	- et sensation tout est urgent
+		- Asso
+		- MCS
+		- et bug Admin
+			- eg. impersonify
+			- eg. utilisation membre VS profils
+		- affichage dans le front
+		- ⚠️ paiement ⚠️
+	- sentry : trop d'erreurs, "error fatigue"...
+		- problème "reset password" : "email not found" mais sans affichage d'erreur, c'est confusant
+			- Pauline parfois perdue parce qu'on ne sait pas si un email a été envoyé
+			- #idée publier un message slack #support "email XXX@XXX non trouvé en base"
+- maj Nextjs 15
+	- admin/, puis front/
+- vacances : pas de break depuis Noel
+	- break pour tous les ponts : 02/05, 09/05, 30/05
+	- juin ou juillet
+- STRESSé
+### 2025-06-18
+- désolé, pas très efficace avec ce point
+	- bcp absent, déplacement, TT...
+- comment va?
+	- ça se passe bien
+- techops jeudi dernier pour turborepo
+	- bcp plus rapide (~1 min -> 10 sec pour la page de paiement)
+	- dependences compliquées -> supabase, stripe
+	- maj de seed -> snaplet
+- aimerait investiguer un système de queue avec pgmq
+	- potentiellement intéressant pour les "grouped gb"
+- multi-fournisseur -> presque ok
+- j'en vois le bout, mais pas mal sollicité sur des bugs
+- Congés -> OK
+- discussion de la roadmap de l'été
+- discussion de la volonté de départ de Pierre

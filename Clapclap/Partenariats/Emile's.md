@@ -1,0 +1,120 @@
+# 2022-12-??
+- Atout pass 12 ans
+- vente en ligne -> promoparc.com
+	- B2B - CE / Amicale etc... + B2B2C
+	- 15M de salariés en France
+- 2.5 ans nouvelle plateforme
+	- emiles.fr -> 2 ans = même niveau que promoparc
+	- grosse audience / communauté
+- Alexis : 4.5 ans, associé 1 an, DG / COO / CPO
+---
+- Présentation clapclap
+- 1500 CE actifs, possibilité de 3000 sur promoparc
+	- bascule de promoparc -> Emile's
+	- 100aine/1000iers de salariés
+	- commande groupée peu digitalisée
+- chéques cadeau / billets de cinéma / etc...
+- apport d'une vraie communauté d'utilisateurs
+	- onboardé sur la plateforme
+	- chèques cadeaux et avantages à être utilsés sur la plateforme
+		- évènements URSSAF
+		- possibilité d'utilisation des chèques cadeau sur la plateforme
+		- 70% CA = chèques cadeau + évènements cultures (billets de concert, cinéma etc...)
+	- chèques cadeau = 2Millards d'euro / an
+		- 7 évènements urssaf = 171 eur / an / salarié exonéré d'impots
+			- à consommer sur un univers restreint à la plateforme
+			- naissance (sergent major, okaidi)
+			- noel (pas de restriction d'univers)
+		- culture = 500 eur totalement exonéré (livre, spectacle, ciné)
+		- PAS de panier garni
+	- 30% = recherche du pouvoir d'achat
+- Emile's -> site de communication "at work"
+	- compte rendu NAO
+	- news, date de chèques cadeau
+- En résumé
+	- Espace de communication 
+	- utilisation de chèques cadeau
+	- bénéficier de commandes groupées
+- intégration?
+	- CSV / XML?
+	- Quantité minimale?
+	- intégration d'API
+		- 32000 séjours
+		- ticketmaster
+			- marque grise, blanche, api
+			- partage de marge
+	- facile
+		- redirection Clapclap
+	- aboutie / complète
+		- chèque cadeau dans l'environnement Emile's
+		- marque grise ?
+		- en cours : spec d'intégration d'api
+	- exemple de configuration de subvention CE
+		- 30% sub dans la limite de 150 eur
+		- ciné= 7.90 au lieux de 10, CE paie la diff
+- à l'affut de nouveaux partenariats
+	- eg. API abonnements presse
+- mais choix de promo de :
+	- culturel
+	- pouvoir d'achat
+	- bascule mono-produit (promoparc) vers multi-produits ++
+		- mais qualitatif
+		- configuration / offre PAR CE
+- Subvention à utiliser avant le 31/12
+- modèle éco
+	- abonnement accès plateforme
+	- rev-share sur les ventes
+		- commande groupée = intéressant parce qu'à la performance
+	- bannières / emailing partenaire
+- acquisition
+	- entrant notamment par les CEs
+- next steps
+	- 2023 = roadmap complète jusqu'à fin d'année
+	- donc intégration 
+		- soit par externalisation?
+		- soit fin 2024
+- technique
+	- laravel + prestashop
+
+# 2023-01-12
+- récap' échange tél
+	- ils veulent l'exclu
+	- POC : possibilité d'avoir une marque blanche
+		- redirection
+		- mise à dispo d'un outil tech
+			- bénéficier du réseau référencé sur Clapclap
+			- possibilité d'ajouter de nouveaux fournisseurs (local)
+			- digitalisation de groupe qui fonctionnent déjà en CG
+	- Modèle éco à discuter
+- marque blanche
+	- SSO
+	- charte graphique : couleurs & logo
+	- sous-domaine / url spécifique
+		- et donc quid du "support client"
+		- mentions légales
+		- "powered by Clapclap"
+- exclu = à négocier
+	- enjeux levée / seed
+		- il faut qu'on génère du cash
+		- on veut de la visibilité sur la partie revenu
+	- options
+		- acquisition d'une techno?
+		- revshare?
+- Jean Noel : POC
+	- préfèrerait investir dans une solution durable
+- PB : 
+	- bcp de nouveautés côté Emile's
+	- Ambition
+		- tjs être PROPRIO des solutions tech déployées
+			- session / usage / amélioration du code...
+	- Paiement
+		- il FAUT que ça intervienne chez Emile's
+			- chèque culture
+				- eg. grande banque avec 500k € de chèques cadeaux
+		- 70% des flux se font via la solution chèque subvention
+- TECH @ emile's
+	- interne : Laurent -> Laravel / Prestashop
+	- externe : gestion des APIs
+	- Projet Emile's APIsable
+		- voir avec @Pauline
+	- prise en charge partielle du coût de dev?

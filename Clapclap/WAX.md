@@ -1,0 +1,16 @@
+### 2024-12-10 Paul Bello
+- conversation Whatsapp = 24h
+- prix marketing : 12ct
+- prix utilitaire / transactionnel : 2.5ct ?
+	- back in stock
+	- referral
+	- abandonned cart
+- license mensuelle + comission
+	- 12 -> 16
+	- 2.5 -> 4.5
+	- 349 eur / mois (tarif clients Brevo)
+- WAX
+	- 200 clients
+	- 11/2024 : 1.5M conversations
+	- 600k
+	- 

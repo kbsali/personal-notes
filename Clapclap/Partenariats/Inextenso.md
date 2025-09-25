@@ -1,0 +1,92 @@
+## 2023-03-15 - holding
+François Hautcoeur, Matthieu
+- locaux ASAMOA (3400 m2)
+- projet de cession de la société avec prise de participation dans la holding
+- holding versus cash perso
+- conditions de ré-investissement
+	- plus value valeur origine VS valeur d'apport
+		- report d'imposition
+		- 60% dans activité éligible
+- 50% des parts de la holding en valeur?
+	- associé de la structure -> renoncement à la qualité d'associé
+- éléments de la LOI
+- clôture: 
+	- commissaire aux apports
+	- commissaire aux comptes
+		- rapport pour approuvé la valeur
+- /!\\ juge et parties
+- délais incomprésibles d'1 bon mois pour tout bouclé
+	- à faire le +tôt possible
+		- délais de 3 ans
+## 2023-04-12 - holding #2
+- TNS : 3 ans pour 
+- Warning :
+	- structure holding = coûts!
+		- si il y a deal, alors go
+		- si risque, alors il vaut mieux attendre et commencer en tant que salarié
+- nouveau scénario
+	- 20~30% du capital, eg. 1M de levée avec 100k de cashout
+	- cession totale à 3 ans -> holding intéressante
+	- on crée la holding seulement juste avant la levée de fonds
+- document pour valider la valeur de la boite
+	- pre-seed 2022
+	- lettre d'intention
+	- BP à jour
+	- méthode de valorisation de la boite ?
+		- justification de valo
+		- ARR à 3/4/5 ans?
+		- ou ARR*7/8
+- conseil : SARL (TNS)
+	- moins de charges sociales
+	- facture de presta 
+	- net = brut
+	- charge patronale = 35%
+	- création avec apport des titres
+		- capital social = 500k
+		- dividendes exonérés sur 10% -> 50k
+- SAS :
+	- charges sociales salariales (78%)
+	- dividendes sans limite
+	- holding non-active sans rémunération
+- :warning:
+	- futurs associés = n'aiment pas que les associés ne sont pas employés (pas de rém' via holding)
+	- URSSAF n'aime pas cette solution, salaire déguisé
+		- investir dans d'autres projets
+		- ou facturer des presta à d'autres
+		- conseil, pas de redressement
+	- solution : LPN -> rachat par holding
+		- :warning: il faudrait en reparler avec la banques
+		- ou on fait en 2 temps : clapclap fait l'acquisition
+			- temps #2 : holding rachètent les parts de LPN
+			- coûts session de titres : négligeables
+- conclusion
+	- ~3000 eur 
+	- EURL
+	- il faut trouver un moyen de justifier la valoriation de clapclap
+		- commission aux comptes : 1200 / holding
+## 2023-07-27
+- Clapclap
+	- salaires David -> mai+juin versés en juin
+	- stripe : faire un point fin juillet pour voir combien on peut verser sur BNP
+- LPN
+- TODO
+	- rdv septembre pour faire le point avec Matthieu
+	- Anne
+		- demande le coût du social pour éventuellement basculer sur Payfit
+		- Prime de vacances = dans le brut annuel?
+			- si oui, possible de le mensualiser? si oui, voir avantages/inconvénients de mensuel/annuel
+		- Fin aout : clôture de juillet
+		- LPN : OK si on envoie un Kbis au nom de Pauline?
+- Anne : vacances jusqu'au 21/08
+## 2023-12-12
+- cloture à faire rapidement
+	- prod immo
+	- CII - @fanny
+		- avoir le chiffrage AVANT la cloture
+		- obj : fin janvier
+		- derniers éléments de paie 2023 - équipe tech
+			- feuille de temps
+			- bulletins de paie?
+			- transmission Loïc Louvet
+		- 30% de 400k max -> 100K
+- pas de rdv de synthèse

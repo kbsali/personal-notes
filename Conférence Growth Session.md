@@ -1,0 +1,59 @@
+### 2024-09-10 Jarvi / Quentin Decré
+- industrialisation du bouche à oreille, recommendation etc...
+- Crisp
+	- automatisation de la prise 
+	- shortcut crisp - demandez en retour d'un aide au support
+		- !post -> "c'est toujours un plaisir de pouvoir aider, d'ailleurs si tu es vraiment content ça te dirait d'écrire un post pour nous?"
+	- selfie avec les clients -> proposition de post avec selfie
+	- video
+- libre mais guidelines
+	- faire des post perso (et pas compte entreprise)
+	- pas de lien dans le post
+	- photo dans le post
+- post d'influenceur
+	- 1er convertit super bien (40 leads), 2em puis 3em presque rien
+- orga
+	- 2 côté produit (lui + 1 dev)
+	- 2 côté sales
+	- support : tout le monde y participe
+	- marketing : lui avec accompagnement (Antoine Goret)
+	- 2 salariés ont des parts dans la boite
+- distri origine client
+	- 80% france
+	- le reste en cours avec ouverture active au Canada
+- obj 2024/25 :
+	- 1 M d'ARR
+	- ouvrir de nouveaux canaux d'acquisition
+	- ouverture Canada puis USA
+	- canal SEO à commencer rapidement
+- Pool d'advisors insentivés avec des parts
+	- Canada : même fonctionnement mais sans participation
+## Stratégie multicanal / Guest Suite
+- complément à une strat' outbound
+- 2 canaux ou + ...
+- quelle séquence?
+	- event based marketing
+	- Pain marché identifié
+	- "à l'opportunité" :
+		- un évènement, un salon etc...
+			- un changement de poste
+		- co-construction sales & marketing
+- récurrence : mensuel ou hebdo
+- copywrtting
+	- tester les messages (en interne, proches qui correspondent aux personnas)
+- important de visualiser la séquence
+	- Guest suite : 40 étapes, 60% ouverture, 30% taux de clique
+- scraping linkedin
+	- https://evaboot.com/
+		- abo le + cher pendant 3 mois puis les + bas le reste de l'année (les crédits accumulés restent)
+- enrichissement de données : dropcontact
+	- même astuce que pour evaboot : abo élevé avec accumulation de crédits
+- déliverabilité
+	- warm-up email
+	- email nominatif uniquement (catch all : on change de canal)
+	- custom tracking domain: lien du mail et email d'envoi doivent correspondre
+- tips
+	- ne pas externaliser
+- séquences
+	- hubspot : ok pour séquence email uniquement
+	- pour linkedin : lemlist

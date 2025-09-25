@@ -1,0 +1,64 @@
+### 2025-07-24
+- Kevin
+	- préparer nouvel env
+	- backup / restore db + image
+		- cloudflare + supabase
+	- brevo : voir pour transférer les templates sur un nouveau compte
+		- mise à jour des signatures
+		- logo dynamique :check:
+		- PB d'avoir plusieurs domaines?
+	- stripe
+		- PB d'avoir plusieurs domaines?
+- nom de domaine
+	- offres privées
+	- supa promo
+	- privalix
+- Clapclap
+	- 
+### 2025-07-18
+- SAAS
+	- Abo : XXeur / an + 4%
+	- Marketplace : 
+- Marketplace
+	- ASSO
+		- liste catalogues Asso
+		- filtre inscription RNA
+	- CSE
+		- liste catalogues CSE
+		- filtre inscription SIRET
+- Wiismile
+	- obj commission fournisseur 10%
+- liste fournisseurs conservés
+	- maj malt
+	- savonnerie des collines
+	- aprobio
+	- sainte colombe
+	- constant fromage
+	- ** mélusine **
+#### UI / parcours
+- décision : 1 seule base de données
+	- ça n'empèche pas d'avoir un nom / projet
+	- le risque : un email déjà en base pourrait bloquer/complexifier l'inscription sur le SAAS VS la marketplace Asso VS marketplace CSE VS marketplace Wiismile
+- SAAS :
+	- 1 page d'accueil avec 1 bouton / offre + 1 description succinte du vendeur
+	- new feature : avoir un bouton "offre secrète" avec un code (simple) d'accès
+		- (eg. vente transporteur pour Vendéelice)
+#### décision
+- David :
+	- cherche des noms
+	- s'occupe de monter la structure
+- Kevin
+	- crée la db
+	- mise en prod de clapclap v2
+		- adaption charte graphique
+		- mise en place des "sous-domaines marchand"
+			- mise en place page d'accueil marchand
+		- offre "achat express"
+	- compare les solutions d'envoi de mail (resend, brevo, klavyio)
+	- google workspace
+	- notion
+	- supabase
+	- vercel
+	- slack
+	- stripe (connect)
+	- amplitude ou google analytics?

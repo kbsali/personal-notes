@@ -1,0 +1,19 @@
+### 2025-01-09 Mise en place BP - Mathieu Hugonnot
+- outil : RCA
+	- package pour experts comptable
+- investissement, financement, impots, charges perso
+- il faut qu'elle soit active
+	- rémunération de mandat
+	- holding : nommée dirigeant de clapclap
+- charges
+	- loyer : 30% d'abattement
+	- CSG
+	- 20m2 de bureaux
+- impots sur le revenu
+	- plus de bulletin de salaire!
+	- il faut aller sur impots.gouv pour demander de prélever de l'argent
+- prévoyance
+	- voir avec Melaine pour un devis et envoyer à Mathieu pour comparaison
+- 2 virements
+	- loyer - "loyer période"
+	- rem - "rémunération de gérance"

@@ -1,0 +1,56 @@
+## 2022-12-14
+- clients
+	- gros
+		- DHL
+		- GLS
+		- process très lents
+	- contrats signés mais pas encore live
+	- donc petits transporteurs
+		- un peu d'operationnel
+- du coup difficile d'un point de vue financement
+	- dépendant du capital extérieur
+- zone : sud ouest (Toulouse, BDX, Biarritz)
+	- mais enjeux de couts de recrutement (non digitalisés)
+	- haute savoie
+- receveur
+	- 1 app / soft
+	- miliers de voisins relais
+	- soft
+- CTO cofounder
+	- subventions européennes
+	- donc 01/2022 CTO = Stéphanes
+
+## 2023-05-30
+- sud-ouest, 4000 voisins
+- UPS : signé!
+	- live début Septembre
+	- 4-600 voisins ala points relais
+		- intégré à la flotte de points relais
+		- 1 voisin / bloc
+		- 1 livreur / jour
+		- rémunératoin "point relais" donc moindre
+		- mais 1 seule livraison / jour
+- DHL : 2eme intention
+	- rémunération bcp + importante
+- modèle éco : rev-share
+	- relais : 30 cts / colis
+	- 2eme intention : 1 eur / colis
+- question
+	- demande de pouvoir accueillir ~20 produits
+		- normalement c'est du ecommerce donc pas un pb
+- idée
+	- "opération coup de poing"
+		- cosycolis -> marque qui matche avec les valeurs
+			- bières = ça marche
+			- miel
+			- saucisson
+			- jho
+		- "fear of missing out" ??
+		- voisins sont-ils mûrs?
+		- pourquoi pas faire un jeu concours
+	- tout type de voisin (urbain, péri-urbain, rural)
+- idée 2
+	- B2C : nous faire connaitre sur ce segment
+		- il y a un vrai intérêt "entre-aide"
+	- aujourd'hui 7000 voisins
+- 

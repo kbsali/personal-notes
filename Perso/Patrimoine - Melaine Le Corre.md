@@ -1,0 +1,130 @@
+## 2023-09-01
+- début d'activité 2 ans (janvier 2021), ~100 clients
+- 1 suivi / an d'1h
+- suivi ~2 fois par an
+- gestion pilotée VS gestion libre
+- crédit d'impots donné par l'espagne
+- outil : bdd rgpd compliance 
+
+- fiscalité / réduction d'impots (plutôt 2024 qd salaire FR en hausse)
+	- capital investissement, fonds "startup" : bloqué 7 à 10 ans, réduction d'impots de 20 à 30% sur montant placé (1500 - ...)
+		- risquée
+		- pas besoin d'anticiper : on se place à la fin de l'année
+	- Girardin industriel : bloqué 1 ans, réduction 10% garantie (2500 / 40.000) - financement de matériels
+		- prudente
+		- bcp plus compliqué de se placer, janvier/février on fixe le budget
+- situation : complexe pour faire du crédit
+	- ~500 eur de résiduel pour un possible crédit
+- moyen terme
+	- assurance vie : droits d'entrée 4.8%
+- long terme
+	- Neuf : loi Pinel
+	- SCPI : revenu non garanti, mais certains sont très sûrs
+		- placement sans frais
+		- vente : frais de sortie de ~10%
+		- revenu mensuel fiscalisé
+		- évolution du prix de la part
+		- possibilité de le faire à crédit
+		- nu propriété VS usufruitié
+			- ~ 60 (np) / 40 (usufruit)
+			- np: pas vendable sur la durée de démambrement
+		- souvent : 100 eur / part
+		- rendement : 4.5 ~ 6 % / an
+		- possibilité de transmission
+		- à partir du 13/09/2023
+	- Ancien : 17% de charge social + part résiduel impots (30%)
+		- reco : meublé avec un comptable
+			- amortissement, pour diminuer les recettes et donc la fiscalité
+		- NON reco : location nue
+		- /!\\ taxe foncière et réno
+		- +43% / 10 ans dans les plus grandes villes
+## 2023-09-05
+- immo ancien : taxé à 30% + 17.2 si non meublé
+## 2023-09-18
+- scpi
+	- on peut vendre qd on veut, la société a l'obligation de racheter
+		- alléa du marché
+		- épargne pour financer les sorties
+			- délais max 1 an pour sortir
+	- société spécialisée VS banques (scpi bancaire) dont ce n'est pas la spécialité
+- anciens
+	- les prix sont en train de baisser
+	- de bonnes affaires à faire
+	- pour nous : 2024/25 sans doute + facile d'emprunter
+	- solutions avec sociétés qui s'occupent "de tout"
+		- colocation dans bien meublé
+			- isolation phonique, bureau, douche, toilette
+			- appartement équipé totalement
+			- chambres louées indépendament
+		- "collocataire"
+- intérêts composés
+	- obligations = actions de l'état
+- assurance vie
+	- frais d'entrée (pas tous)
+	- scénario 1
+		- gestion annuelle : 1%
+		- entrée 4.8% = rémunération conseiller
+	- scénario 2
+		- entrée 1.2%
+		- frais de gestion annuel : 5/6%
+## 2023-10-04
+- 23k voiture + 30k impots cash-out
+- co-locataire : collocations meublées
+	- ticket d'entrée élevé
+	- offre petit montant / surface à venir
+- si ancien warning par nous même : bien demander les compte rendus d'AG pour voir s'il y a de grosses dépenses prévues
+- assurances vie
+	- droits d'entrée + tous les versements : 4.8% vs 0%
+	- frais de gestoin annuel : 1% vs 6%
+## 2023-10-19
+- SCPI
+	- demande autorité des marchés financiers "faire le point sur la valeur patrimoine"
+	- résultats Aout : bureaux région parisienne -> baisse valo
+		- problématique pour les SCPI gérées par des banques
+## 2024-04-15
+- Déclaration d'impots (BSPCE)
+## 2024-11-05
+- situation à date
+- fiscalité
+	- participation à des fonds d'investissement
+		- réduction d'impots sur les sommes engagées
+		- eg. 16% 5000 eur -> 800 eur réduction d'impots
+		- 7/10 ans, plus value exonérée
+		- à partir de 1000 eur
+		- à mettre en place chaque fin d'année
+	- FIP FCPI
+		- finance de l'innovation & DOM-TOM
+	- PER : exonération du montant engagé (eg. 10.000 eur investis -> 3.000 eur)
+		- possibilité de le faire au niveau de la holding
+	- holding : 
+		- équilibre dividende VS salaire
+			- dividende : non pris en compte dans la rémunération pour une demande de prết
+			- dividende : non pris en compte dans la retraite
+			- salaire : retraite!
+		- invest' si bcp de liquidité : SCI pour investissement
+- possibilité de faire la mise en relation avec comptable pour accompagnement perso/globale VS pro
+## 2025-01-17
+- immobilier : a des plans neufs ou anciens
+- prévoyance
+	- complément de salaire
+		- via la société
+		- défalcage des cotisations du bénéfice
+	- capital décès, invalidité conséquente
+		- une partie avec la société (défalcable, l'autre en propre
+		- capital
+			- cotisations non dé-fiscalisables
+		- VS rente
+			- dé-fiscalisables MAIS moins pertinent
+		- option "décès accidentel" = sur-coût
+	- complété avec les assurances vie
+		- prévoyance = pépin à courts termes
+- investissements
+	- placements financiers
+		- contrats de capitalisation (== assurance vie)
+		- usufruit de SCPI
+			- eg. 20.000 eur = droit de percevoir les loyers (~7/8000 / an)
+			- à voir d'ici qques temps
+		- immobilier
+
+## 2025-03-04
+- attestation fiscale pour déclaration aux impots

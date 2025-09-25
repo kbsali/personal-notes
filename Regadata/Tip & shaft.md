@@ -1,0 +1,14 @@
+### 2024-10-11 - PYL
+- x4 en CA
+- migration Sportall
+- compta, levée
+- CA 2024 : ~700k
+- sportall : sport de niche
+	- sortie de VOD factory : 75k -> 21k
+- paiement des factures en fractionné
+- ---
+- event hebdo à la cité de la voile
+	- lundi soir -> posreport en public le mardi
+- TODO
+	- exemple excel de classement
+	- 

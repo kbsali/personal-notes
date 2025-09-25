@@ -1,0 +1,198 @@
+## Présents
+
+
+## Avis général
+- moyenne globale bon
+- groupe plutôt bon, beaux progrès au 3em trimestre - encourageant
+	- qques baisses
+- Ambiance de travail un peu difficile, ils travaillent pour les éval
+	- changement souhaité l'an prochain
+	- /!\ ça apparaitra dans les dossiers
+
+## Delegués elèves
+- bcp de groupes divisés, pas de mélanges
+- travaux de groupes -> stables, ambiance de classe pas top
+	- confirmé par les profs
+## Delegués parents
+- globalement bon trimestre
+- chatGPT : devoir maison ok, mais attention aux mauvaises réponses
+	- /!\ pour les oraux
+	- il y aura + de devoirs sur table
+
+## Elèves
+- ACADINE Calice
+	- 13.56
+	- Catastrophique en allemand
+	- travail sérieux
+	- absences récurrentes, pénalisera la suite (interne)
+		- SES : pas venue aux devoirs, pas de devoir oral
+		- gros pb à l'oral
+		- 16 jours d'abences
+	- socialement bcp mieux en fin d'année
+		- souhaitable qu'elle retrouve son groupe d'amie l'an prochain si possible
+	- spécialités : validées
+- AYMARD – RENAUD Lou
+	- 12.98
+	- ensemble satisfaisant malgré qques lacunes
+	- très bien à l'oral, à l'écrit compliqué
+		- attention aux bavardages
+	- spécialités : validées
+- BERTRAND Maëlys
+	- 14.08
+	- PAP / dislexie
+	- travail sérieux, jolie progression
+		- très méritante
+		- pas de PAP au collège
+	- encourageant pour l'année prochaine
+	- spécialités : validées
+- BOUCHET Alexandre
+	- 11.63
+	- ensemble inégale, manque d'implication en cours, travail trop irrégulier
+		- meilleure attitude au cours de l'année
+		- ne force pas son talent
+	- spécialités :
+		- alerte maths
+- BRETAUD Adèle
+	- 15.56
+	- absente -> USA
+	- très bon trimestre, bravo sérieux tout au long de l'année
+	- **félicitations**
+	- spécialités : validées
+- BRIAND Lilly
+	- 13.31
+	- fragilités, ensemble satisfaisant, travail sérieux
+		- écrit un peu compliqué malgré des progrès
+	- spécialités : validées
+- BROZEK Garance
+	- 15.11
+	- bon ensemble, niveau globalement solide, très littéraire
+		- fermé en Maths / Physique
+		- + impliquée
+	- spécialités : validées
+- BUSSON Pierrick
+	- 11.34
+	- aménagement d'emploi du temps
+		- mieux appréhender la scolarité
+		- encourageant pour l'année prochaine
+	- s'est isolé de la classe
+	- STIDD : validé
+- CLARACQ Eugénie
+	- 14.28
+	- bon ensemble, travail sérieux, éviter les bavardages dans certaines diciplines
+		- écoute en classe indispensable
+	- spécialités : validées
+- COCHERIL Cassandre
+	- 16.68
+	- excellent trimestre, travail et implication sans faille
+	- spécialités : validées
+- CORBARD – LE DEAUT Elliott
+	- 16.25
+	- très bon trimestre, bilan pour de bon augure pour l'année prochaine
+		- pb de bavardage en fin d'année
+	- spécialités : validées
+- CORMIER Anna
+	- 13.93
+	- globalement satisfaisant, implication & attention perfectibles, dommage
+		- bavardages
+	- spécialités : validées
+- COUÏC Melissande
+	- 13.76
+	- trimestre tjs satisfaisant, encouragements
+		- fragile en histoire-géo
+	- spécialités : Maths et Histoire fragiles / HGSP -> alerte
+- DAGORNET – SEVELLEC Diane
+	- 14.46
+	- très bon trimestre avec qques fragilités, attention perfectibles dans certaines disciplines
+	- spécialités : validées
+- DAHAN – GLASS Colin
+	- 12.58
+	- nets progrès grâce à un travail soutenu, dommage que le travail soit trop irrégulier
+		- davantages d'efforts l'année prochaine, est tjs fatigué
+	- spécialités : validées
+- DEBIES Jeanne
+	- 15.89
+	- très bon trimestre, travail et implication sans faille toute l'année
+		- grande maturité
+	- spécialités : validées
+- DELAGE Gaspard
+	- 15.96
+	- très bon trimestre, travail et implication sans faille toute l'année
+	- spécialités : validées
+- FOUASSIER Rebecca
+	- 15.68
+	- très bon trimestre, travail et implication sans faille toute l'année
+	- spécialités : validées
+- FRANGEUL Mona
+	- 14.76
+	- nets progrès, travail soutenu, plus volontaire
+		- poursuivez sur cette voie
+	- spécialités : validées
+- GARNIER Lise
+	- 14.62
+	- nets progrès, travail soutenu, plus volontaire
+		- poursuivez sur cette voie
+	- spécialités : validées
+- GLORIOD Titouan
+	- 11.43
+	- trimestre inégal malgré des progrès, irrégulier
+	- spécialité : bac pro... & STIDD
+- GOUSPILLOU Adèle
+	- 11.90
+	- trimestre inégal, investissement trop irrégulier, trop de bavardage
+		- difficulté à prévoir en 1ere si pas de changement
+	- spécialités : validées
+- GUEZENGAR Fanette
+	- 12.82
+	- progrès encourageants, poursuivez sur cette voie
+	- spécialités : validées
+- LECUREUR Elyo
+	- 14.73
+	- nets progrès, attitude volontaire malgré les bavardages (mais c'est mieux)
+	- spécialités : validées
+- LE GUERN Lise
+	- 15.80
+	- félicitations, progrès et bcp de participation
+		- réaction sur les bavardages
+	- spécialités : validées
+- MADEC Lila
+	- 16.25
+	- très bon trimestre, travail et implication sans faille, félicitations
+	- spécialités : validées
+- MAGNIN Clémentine
+	- 17.64
+	- excellent trimestre, travail et implication sans faille, félicitations
+	- spécialités : validées
+- MAURA Joséphine
+	- 11.57
+	- trimestre inégal, investissments irréguliers malgré qques progrès, très émotive
+		- scolarité difficile
+	- spécialités : validées
+- MERGUI – RENARD Milan
+	- 14.82
+	-  très bon trimestre, travail et implication sans faille, félicitations
+	- spécialités : validées
+- NORMAND Fanette
+	- 14.47
+	- globalement bon trimestre, implication inégal, dommage
+	- spécialités : validées
+- NOURDINE Ilyes
+	- 12.21
+	- trimiestre un peu décevant (physique & maths excellent), toutes les disciplines doivent être travaillées!
+	- spécialités : NSI mais sans changer de lycée
+		- à discuter (propose de le faire par le CNED)
+- ORHON Nina
+	- 17.08
+	- excellent trimestre, travail et implication sans faille, félicitations
+	- spécialités : validées
+- PANTEL – FREZZATO Zélie
+	- 14.84
+	- bon trimestre, bravo pour les progrès et sérieux
+	- spécialités : validées
+- SALIOU – CORRERO Kira
+	- 16.77
+	- excellent trimestre, travail et implication, félicitations
+	- spécialités : validées
+- SAUTEJEAU Lou-Andréa
+	- 16.66
+	- excellent trimestre, travail et implication sans faille, félicitations
+	- spécialités : validées

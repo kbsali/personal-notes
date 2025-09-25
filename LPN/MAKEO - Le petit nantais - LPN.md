@@ -1,0 +1,145 @@
+## 2023-02-28
+
+Marie, directrice commerciale MAKEO
+Aurélien, chef de projet & dev @ MAKEO
+
+- tech
+	- API REST - Symfony
+		- symfony 5.3
+		- REST fait main
+			- pas de swagger
+	- backoffice
+		- Angular 12
+	- app
+		- Ionic (surcouche angular mobile) v5
+			- Angular 14
+		- hybride, apple store / google play
+	- db
+		- mysql
+		- 3Mo
+		- pas d'accès extérieur, ssh + CLI
+		- 22 tables
+			- 936 utilisateurs
+- gitlab auto hébergé
+	- 2 repo
+		- api + backoffice
+		- app
+	- déploiement continu
+- hébergement OVH
+	- VPS
+		- 158Go -> 10 Go utilisé
+		- 4 core + 8Go
+- Mon petit vendéen
+	- 1 appli Symfony qui gère les 2 app
+	- Discriminant sur bcp de tables
+	- App: 1 build LPN + 1 build LPV
+	- build
+		- ios : build avec avec MAC -> app xcode prêt à la publication
+		- android : génère le fichier "aab" prêt à être envoyé sur le store
+- Site vitrine
+	- wordpress
+	- OVH
+- Paiement : monetico
+	- 1 TPE pour LPN
+	- 2 sous-compte LPN / MPV
+	- intégration compliquée
+- 1 ou 2 dev + Aurélien en chef de projet + dev
+	- Aurélien : 
+		- publication des applis
+		- support
+- derniers 6 mois
+	- qques maj pour être raccord avec Android
+		- changement : splash screen -> maj nécessaire
+	- suppression de compte -> obligation d'apple
+- MAKEO
+	- App android, PWA, Web
+	- 15h de maintenant renouvelée
+		- décompté au temps passé
+		- traçage des interventions / consigné
+	- maintenance - 70 eur / heure 
+		- réactivité
+		- proritaire
+	- dev hors maintenance
+		- 65 eur / heure
+## 2023-05-10 / Aurélien / Makeo
+
+- capistrano
+	- back
+- APP
+	- 2 commandes :
+		- format AAB : npm build-lpn:android-aab-linux
+		- npm run-lpn-android / run-mpv-android
+	- ANDROID
+		- dépendances
+			- jar signer (android studio)
+			- capacitor (npm)
+		- génération keypass & storepass
+		- AAB compilé
+			- upload sur play console
+	- IOS
+		- compte dév apple (gratuit)
+		- nécessite un MAC + 1 iphone déclaré
+		- on build
+		- ça ouvre xcode
+		- "Product > Archive" : génère une archive
+		- soumettre à Apple... 30 min avant de le voir arriver sur le compte apple developper
+			- différent de "upload"
+		- temps de validation de publication entre 2h et... 10 jours!
+		- TEST : testflight à installer sur l'iphone
+	- Misc
+		- abonnement Android : 25$ / lifetime
+		- abonnement iOs : 99$ / an
+		- push notif : firebase
+- ### TODO
+	- Pauline donne tous les accès à Kevin (Firebase, Apple store connect, backoffice)
+	- Pauline donne accès au Backoffice à Kevin (et David)
+	- Aurélien donne accès à Kevin à (Google Play Console)
+		- ou Pauline?
+	- Aurélien confirme date du dernier paiement pour la location serveur
+	- Aurélien confirme combien d'heures d'accompagnement il reste de dispo
+		- contrat de maintenance : 15h échéance 2023-10-14
+			- reste 6h
+	- si besoin d'aide : ouverture d'un ticket
+		- délais de réponse de 48h
+	- Marie contacte Kevin pour faire un point commercial
+## 2023-06-29 - Marie
+- contrat de maintenance : fin le 14 octobre, il reste 8h sur 15h de contrat
+	- 849 eur HT / an / 15h
+	- résiliation début Septembre
+- contrat hébergement : renouvellement le 1er novembre
+	- 455 eur HT / an - 2 application (LPN, MPV)
+	- résiliation : 30 jours avant par email
+	- orga avec Aurélien
+## 2023-07-06 Popo & Val / TVA
+- Abonnements en cours
+	- OK adobe (tva intra EU)
+	- KO wix.com
+	- KO Abeille
+	- KO Microsoft
+- TODO
+	- @valentin
+		- ajoute Avril & Mai dans "outil saisie tva le petit nantaisv2"
+		- facture microsoft
+	- @pauline
+		- résilier Abeille
+		- résilier microsoft
+		- demander remboursement frais de relance
+## 2023-07-17
+- lpn-app
+	- missing
+		- npm install -g @ionic/cli
+			- compatible ionic 7 ???
+		- pb de peer dependencies
+			- npm install --legacy-peer-deps
+			- export NODE_ENV=lpn; ionic serve
+				- page quasi blanche
+		- comment décider quelle API est attaquée?
+- lpn-back
+	- composer install
+		- ERR : Your lock file does not contain a compatible set of packages. Please run composer update.
+## 2023-07-25
+- BACK
+	- flex -> pas migré, donc pas possible de mettre à jour?
+	- db -> pas dans docker
+		- j'ai fait, mais pas possible de jouer les migrations puisque pas possible d'installer les dépendances
+		- https://symfony.com/blog/upgrade-flex-on-your-symfony-projects

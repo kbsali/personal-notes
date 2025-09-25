@@ -1,0 +1,41 @@
+# 2023-03-08
+
+- Formation ingénieur généraliste (alternance)
+	- (Valentin -> même école)
+	- industrie, Vendée
+		- fabrication des outils, ingénieur amélioration continue
+		- flux d'info & matériaux, repérer les goulets (amélioration qualité & sécu => économie d'argent)
+- Safran (mission Alten - Fougères) -> transfer project
+- Daher / St-Nazaire
+	- plateforme logistique Airbus
+	- amélioration continue + dev VBA
+		- Macro VBA Excel -> extraction données ERP/SAP
+		- auto-didacte VBA
+- (formation FITEC)
+	- 2.5 mois (UML, HTML, CSS, JS, C# (.net, MVC), Agile/scrum)
+- Talentsoft (outil RH)
+	- 600 personnes dont 200 techs
+	- dev back -> montée en compétence intense
+		- outil de planification de formation
+	- 1 an après : move en front dont React.js
+		- opportuniste : bascule vers React.js
+	- --> 2.5 ans .net + react.js
+	- suite au rachat par Cegid -> out
+- Creative Lift 
+	- nouveau langage : Python
+		- 12 personnes dont 6 freelances
+	- full remote (entreprise à Paris)
+		- culture individualiste, freelance, autonome
+		- tentative de mob-review
+	- kanban avec daily, et ensuite plus de communication
+	- startup d'1 an (live demain!)
+		- optimisation de pub video
+- :warning: pas d'XP node
+- but
+	- travailler et progresser en équipe
+	- orga structurée
+	- culture du clean code (pas de quick & dirty)
+	- rem' -> 50k + 5k variable -> 52k minimum
+		- offre existance de CTO à 60k (mais trop tôt)
+	- se considère medior/confirmé
+	- télétravail : 

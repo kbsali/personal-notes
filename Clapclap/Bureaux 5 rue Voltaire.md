@@ -1,0 +1,45 @@
+## réu 2023-01-17 (w/ @Alexandre & @Olivier)
+- divers
+	- plantes (@mael en cours)
+- cuisine
+	- microonde (@alexandre)
+	- @youssef
+		- façades
+		- bar
+		- phonebox (porte & moquette)
+		- réagrage sol phonebox (d'où sacs de ciment)
+- salle réu Clapclap
+	- @youssef
+		- porte cuisine : ajusté
+		- porte plateau : manque poigné
+		- étagères
+	- hdmi 5m (@alexandre)
+	- tableau blanc 100 x 150 (@mael en cours)
+- plateau ClapClap
+	- étagères (@youssef)
+- entrée
+	- miroir? sur mesure?
+- phonebox berny / douche
+	- rideaux pour cacher la douche (@alexandre prendre longeur tringle)
+	- porte (@youssef)
+	- pression eau chaude douche (@mael appelle un plombier)
+	- table basse + 3 fauteuils / pouf (@alexandre)
+		- mange-debout -> repris par Berny (@olivier)
+- salle de réu du fond
+	- manque de déco (eg. tableaux, trop gris et un peu sombre @alexandre)
+- toilettes berny
+	- @youssef
+		- verrou à réparer
+		- doubler le passage entre toilettes et petite salle de réu (bruyant)
+	- (miroir posé par @olivier)
+- salle de réu Berny #2 (triangle)
+	- (coin repos)
+	- canapé (arrivée prévue ~18/01)
+	- table basse & 2 fauteuils / fatboy
+	- rideaux si résonne tjs
+	- @youssef
+		- prise électrique
+- bureaux Berny #2
+	- trouver une solution / meuble d'appoint pour la box
+	- luminaire plafonnier -> blanc qui pique
+	- table/bureau en + (en cours)

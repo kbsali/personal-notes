@@ -1,0 +1,53 @@
+### 2024-10-01 Erlend (Paris), Tancrède (Nantes), David & Kevin
+- Erlend : CPO, UX, Monétique, CSM
+- Tancrède : Marketing & Commercial
+- Historique
+	- Erlend = e-check & cashback dans les années 2000
+	- eBuyClub
+	- 2019 : lancement du projet
+	- 2021 : CTO = Guillaume qui a une ESN à Limoge
+		- Presta R&D pour Legrand, ministère
+- Présentation Clapclap
+	- Réseau social d'achats groupés
+	- Messagerie
+	- Groupe
+- Possibles synergies
+	- ~1000 CSE inscrits, ~400 actifs
+		- demande d'avoir un module de paiement / cagnotte pour les salariés
+	- MCS : 7000 groupés d'acheteurs dont 6000 CSE
+		- pourquoi pas une carte + cagnotte "Clapclap Pay"?
+- Soreward
+	- virage "marque blanche"
+		- 1er cas d'usage = interCE Happypal
+			- customisation = look & feel ET acceptation
+	- idée : carte multi-wallet avec
+		- budget CSE
+		- + cashback si achat sur le réseau Clapclap
+			- eg. si achat sur catalogues partenaires : "cashback compte double"
+	- système de filtrage de cartes
+		- MCC : Merchant Category Card
+			- pour exclure certains marchés (eg. Carburant, alimentaire)
+			- ou ID marchands (white/black list de certaines enseignes)
+	- non-consommé : ~5% (VS 10/20% chez les autres)
+		- relances auto avant date d'expiration
+		- date d'expiration : à définir au moment de la distribution (6, 12, 24 mois, forever...)
+		- les clients récupère le non-consommé et décident de qu'ils en font
+	- import liste de clients
+		- civilité, nom, prénoms, email, numéro de mobile (obligatoire : activation & 3D Secure)
+	- carte dématérialisée / physique
+		- apple pay / google pay
+	- partenariat https://www.charitips.com/
+- cartes physiques
+	- minimum de 3000 cartes commandées
+		- gardées en stock et postées au cas par cas pour les distributions
+- pricing
+	- setup 9.990 eur (création webapp à nos couleurs) + 7500 eur / an
+		- api : création bénéficiaire, récup solde, crédit d'un nouveau solde
+	- frais de gestion : 4% (SAV niveau #1), 3% si SAV niveau #1 géré par le client
+	- 5eur / carte physique
+- limitation
+	- règles URSSAF
+		- Carte cadeau Noel : l'alimentaire courant est exclu (vin c'est ok)
+		- Carte cadeau vacances
+			- pas de plafond d'exonération (~200/400 eur)
+- Temps d'intégration : 10 semaines pour cartes virutelles (+10 semaines pour les cartes physiques)

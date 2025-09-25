@@ -1,0 +1,8 @@
+- commission fournisseur = variable
+- reward organisateur individuel
+	- cagnotte membre à dépenser sur Clapclap
+	- produit gratuit
+	- NADA
+- asso
+	- complexe pour le %age à cagnotter
+- suggestion fournisseur...

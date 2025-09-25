@@ -1,0 +1,43 @@
+### 2024-11-22 Jennifer Hevin
+- prise 
+- possibilité d'ouverture de droits visualisation
+	- comptable
+	- assistante
+- carte business en + pour gérer les soucis de filtre anti-fraude
+- 
+### 2023-07-18 - Thierry Vezin
+- Axepta = outil de vente à distance
+	- produit récent (2 ans)
+		- en remplacement de Mercanet
+	- très similaire à Stripe
+	- 2 modes d'intégration
+		- direct : on gère nous même
+		- plugin : prestashop, woocommerce
+	- apple pay
+- solutions de paiement
+	- cross border
+		- wallet étrangers (Allemagne ou Belgique...)
+			- direct debit
+	- virement instantané - instanéa
+		- pour les paniers moyens élevés
+		- irrévocable (au contraire d'un virement SEPA)
+		- /!\ ne fonctionne pas avec les comptes B2B
+	- paiement fractioné / différé
+		- FLOA
+		- instantané
+- cartes de paiment France
+	- co-brandée -> CB/Visa ou CB/Mastercard
+	- Visa et Mastercard -> scheme fees en hausse
+	- donc insité les clients à aller sur du paiment "CB" qui est franco-français
+	- commission monétique CB pure : 0.35%
+		- commissions redistribuée : 
+			- banque d'origine du porteur : 0.30%
+			- 0.05% banque qui s'occupe de l'acquisition
+				- 50/50 + réseau (CB, Visa, MasterCard)
+		- en fonction des stats le taux peut augmenter
+- solution marketplace
+	- Encaissement pour compte de tiers
+	- PAS POSSIBLE
+	- -> solution de replie : MANGOPAY
+	- offre purement BNP de marketplace avant 2024
+- Alexandra -> reprise des affaires de George

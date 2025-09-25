@@ -1,0 +1,14 @@
+# 2923-11-21
+- Altman :
+	- 2013, 7 dont 3 associés
+		- collaborations de long terme
+	- Claude 2017
+		- marketing
+	- Jean Marie
+		- financier
+	- Thierry
+		- m&a (Rotchild)
+	- outils de pilotage financier simples / compréhensibles et transparents
+- gestion , orga, strat', dev durable, recrutement
+	- compétences externalisées
+	- prise en main opérationnel

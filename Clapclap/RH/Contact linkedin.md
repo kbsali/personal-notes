@@ -1,0 +1,1 @@
+Bonsoir PRENOM, j'ai vu que tu assisteras au meetup React de jeudi. Malheureusement je ne pourrai pas y être cette fois-ci. Je te contacte parce que chez Clapclap on vient d'ouvrir un poste de lead dev reactjs/next.js/typescript et j'ai pensé que ça pourrait peut-être t'intéresser... let me know, K

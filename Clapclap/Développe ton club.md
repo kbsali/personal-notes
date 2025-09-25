@@ -1,0 +1,18 @@
+### 2025-07-18 Thomas Couillebault & Clément Bonneau
+- co-fondateur Agence Legio (département Vienne)
+	- visibilité en ligne
+- Clément
+	- sport, communication, partenariat
+- Légio : dev partenariat
+- Idée : développement de collecte de fond pour certains clubs
+	- "développe ton club"
+	- "agence globale pour accompagner les asso sportives"
+		- collecte de fonds (Clapclap)
+		- partenariat sportif
+		- formation (Caliopo) au sponsoring
+	- aller vite pour créer la plateforme
+	- on va dev en interne les outils d'animation, accompagnement
+	- pour le reste ouvert aux discussions pour les autres outils
+- business modèle
+	- eg. wiismile : 10% de commission sur toutes les ventes
+- 

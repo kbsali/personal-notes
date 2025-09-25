@@ -1,0 +1,19 @@
+## 2024-02-08 - Alice Lauriot
+- impact, transition social, env
+	- 3 catégories d'impact
+- tickets entre 300k / 3M (seed, serie A, B)
+	- B2C : communautaire
+	- B2B : BA?
+- 75k investisseurs sur la plateforme
+- donc sélection très poussée en 2 étapes
+	- 1 - deal flow en interne (2 rdv + doc)
+	- 2 - due deal de 15 jours avec comité d'investissement
+- timing : ~4 mois entre 1er contact et argent versé
+	- 1 mois production des livrables
+	- 36 jours pour les mises
+	- 1 mois ...?
+- SPV créé systématiquement
+- ticket mini 1k, moyen 5k (60% en co-invest 40% en solo)
+- juridique géré en interne
+- conditions figées avant de lancer la campagne, à prendre ou à laisser
+- 

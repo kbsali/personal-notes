@@ -1,0 +1,38 @@
+### 2024-06-12 - Guillaume Belissent
+- à date 150/200k visites / an
+	- flux physique
+- idée modèle achat groupé RSE etc...
+- partenariat
+	- comment j'aide les agros à vendre
+	- comment j'aide les fournisseurs à vendre
+- étude de la carte Agrikolis / clapclap
+	- concetration sur zone 44
+	- gros potentiel sur la Vendée avec une zone de chalandise de 15km
+	- relais actifs = icone noire
+- idée :
+	- clapclap sélectionne une short list de qques points actifs
+	- Agrikolis les contacte pour leur dire qu'on va faire un test
+- livraison :
+	- distribution de entrepot -> fermes
+	- OU fournisseur envoit dans un hub d'Agrikolis
+	- prix :
+		- presta relais : 1 eur / carton - palette de vin
+		- presta relais : 10 eur pour frigo américain
+- test
+	- Bière Mélusine en Vendée
+		- prix au flash
+		- problème non colis non-nominatif
+		- ok pour le test, mais à terme il FAUDRA colis nominatif
+			- ou au moins code EAN / carton
+	- 1 / 3 points relais sud-Nantes
+		- Montaigu
+		- Les Herbiers
+		- La Roche sur Yon
+	- livraison cible : 08/07 pour distribution 14/07
+		- 3 semaines de ventes
+		- retrait : samedi 13/07 entre 9h et 12h
+- date de retrait 
+	- tous les jours 17h-19h
+	- samedi toute la journée
+- relais surgelés
+	- 

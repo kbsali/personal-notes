@@ -1,0 +1,733 @@
+
+### 2022-10-26
+
+- comment va?
+	- good
+	- je prends mes marques sur la v0
+	- appréhension
+		- avec bootstrap
+		- mais ça rentre
+	- pas trop perdu!
+- discussion sur le ticket "rendre publique la route `/v/[salecode]`"
+- revue des PRs ouvertes
+
+### 2022-11-04
+- covid etc...
+- s'éclate sur la v0
+	- intéressant d'être mis à contribution
+	- les améliorations arrivent au compte goutte
+	- faire de + petites PRs + souvent
+- sujet scrapping
+	- scripté?
+	- webscrapper
+- bouton "je veux" -> définir le fonctionnel
+- bootstrap : compliqué, notamment les composants tout fait
+	- ne pas hésiter à repasser en html/css
+
+### 2022-11-09
+- bootstrap
+	- css brut
+- se sent + autonome sur v0 que sur v1
+- avance bien, 2 derniers bien productifs
+- ne pas hésiter à regarder la doc svelte + repl + v0
+- trop cool les compétences design
+- discussion tickets à venir
+	- notamment redesign création CG
+
+### 2022-11-23
+- db un peu + compliqué, mais rien d'insurmontable
+	- des fois même avec des explications c'est compliqué
+	- stratégie d'intro + validation de stratégie d'implémentation définitive
+- merge & deploy
+- longue discussion autour des groupes, migration etc...
+
+### 2022-11-30
+- semaine? ça va
+	- derniers jours un peu + rock'n'roll et challengeant avec le nouveau funnel
+		- composant modal pas top
+- datepicker en cours
+	- POC presque prêt
+	- adaptation mobile
+- bouton panier -> mobile pas évident qu'il faut payer... :thinking:
+
+### 2022-12-08
+- semaine?
+	- ça va, fatigué -> Rhume! vivement le weekend!
+	- moins efficace que les semaines passées
+- sales_location.name -> user.fullname
+- default group = slugify(user.fullname) :ok: !
+- cette semaine
+	- front pur : refaire la page de CG
+	- plein de petits bugs à régler au fil de l'eau
+- vacances : semaine du 26/12
+- 01/2023 : commencer à faire de la v1 qques jours par semaine, focus "front / UI / UX"
+
+### 2022-12-14
+- ça va bien, bossé sur plein de choses différentes
+	- figma
+	- correction de bugs
+	- features
+- sur la v0 je suis à l'aise, donc pas de pb de switcher, peut-être que ce sera moins vrai sur la v1
+- + d'A/R avec David pour qu'il valide
+	- notamment le wording à valider avec lui
+
+### 2023-01-11
+- vacances cool, repos
+	- pas de congés de prévu avant Juin a priori
+- vraiment content d'être sur la V1
+	- bcp de typescript
+	- et moins seul
+	- et c'est le produit qu'on va sortir
+- discussion react/svelte
+	- React bcp + verbeux, + rapide de prendre en main svelte
+- très front aujourd'hui donc à l'aise
+	- content de l'orga, de l'archi
+	- mise en route rapide
+- futur : j'aimerais bien monter en compétence sur la partie + back/controller/rpc
+	- obj : vue d'ensemble du projet
+- retro :
+	- quitter la V1 pendant la douloureuse expérience Vendure
+	- donc là c'est cool de retrouver un truc super maintenable
+- discussion gestion de projet / orga tickets / notion
+- potentiellement intéressé pour la partie gestion de projet / notion
+
+### 2023-01-18
+- productif parce que dans ma zone de confort
+	- design
+	- hâte de faire du back
+		- corrigé du padding & template email pas que cool
+- SEO done!
+- à faire
+	- support : formulaire de contact contextualisé
+		- créer 3 templates "quasi vide" avec le contenu du message envoyé par l'utilsateur
+- discussion autour des APIs et proxy d'API etc...
+
+### 2023-02-08
+- 2 semaines de formation
+	- un peu : mobile / react native
+	- web : react (apolo client)
+		- Johann a pris le lead sur l'archi front
+	- back : graphql (apolo server, typegraphql), typeorm, docker
+	- ci : github actions
+	- ts partout
+	- futur
+		- sécurité, déploiement
+- retour : 
+	- bien, mais un peu compliqué sur la partie back (un peu perdu)
+		- mais avec les exemples je finis par y arriver
+		- Nicky récupère la PR email pour avancer
+- discussion autour de la suite, rapprochement D&V
+
+### 2023-02-22
+- rh
+	- Loïc : dernière semaine entière + mar/mer les suivantes
+	- Maël : maj
+- content de la page offre
+	- filter bar -> manque gérer empty state
+	- content d'avoir pu toucher à la db
+- side project
+	- bot discord : refacto
+- Next
+	- retravailler formulaire création de commande
+	- peut-être repenser de manière plus globale l'identité globale du site
+- misc
+	- un peu de frustration de faire bcp de front
+	- rdv pris pour entretien mi-parcours wild code school
+	- demande si on sait déjà si on souhaite continuer avec lui ou non.
+
+### 2023-03-08
+- point mi-parcours WCS
+	- vraiment bien
+	- Johann : aurait aimé avoir le formateur aussi
+- semaine formation
+	- CI avec "github actions" (connaissait déjà avec le projet sur lequel ils sont en avance)
+		- aujourd'hui c'est + facile
+	- discussion autour de l'histoire du versioning
+	- là aussi en charge du front en react "pur" (pas de next)
+- bot discord -> pebblehost
+- clapclap
+	- page de créat ++
+		- pb bouton crisp -> prévoir un picto fake en mode dev
+	- design/ui
+		- noir noir, blanc blanc
+		- font -> montserrat
+	- perf -> cold start
+		- cache et autre optim
+	- boy scout rule : amélioration/refacto continue
+	- voudrait améliorer sa vélocité
+
+### 2023-03-15
+- voir avec Diane si j'ai bien signé le doc "point mi-parcours"
+- optim / perf : suivre les exemples de supabase/youtube
+- vélocité : plutôt content! :)
+	- refacto aide bcp
+	- orga projet bcp mieux
+		- avec atelier tech + light qu'avec Theodo
+			- sympa d'avoir + de visibilité sur le reste du projet
+- support Loïc
+	- stratégie pure React -> besoin d'être rassuré
+- discussion sur la stratégie de décommitionnement v0
+- discussion autour ticket en cours -> 1ere étape de présentation de CG
+### 2023-03-22
+- discussion sur la stratégie de décommitionnement v0
+	- on attend la fin des dernières CG en cours
+- 1ere étape de présentation CG
+	- DONE!
+	- fatiguant, alors que ça paraissait simple a priori (compatibilité css entre navigateurs)
+	- globalement je tente de ne pas aller vers du CSS spécifique et de plutôt utiliser tailwind
+	- suggestion : repasser à un formulaire à plusieurs étapes
+		- code + propre car pas de scroll sur la partie droite de la page
+- discussion "sticky" vs "fixed" qui cause problème avec le footer
+	- tentative de solution complexe
+	- finalement il "suffisait" de ré-ordonner certains composants
+- discussion autour des "custom hooks"
+	- petite explication sympa :) MERCI
+- motivé pour
+	- les cours
+		- obj : déploiement (après la CI -> la CD)
+	- ET les profils pro
+- discussion
+	- windows (clé payante pas chère), Gwen...
+### 2023-04-05
+- playwright ne marche plus... pas de tests d'intégration :(
+- supabase en local : pas possible d'installer la dernière version :(
+- présentation de la nouvelle home
+	- sélection de 4 catalogues
+	- liste des univers -> shallow routing
+	- a propos
+- formation
+	- déploiement : VPS, caddy, nginx (docker), webhook -> Github actions
+- on tente de trouver playwright ensemble... rapidement
+### 2023-04-12
+- snapshot storybook
+- home
+	- carousel
+		- sous-estimé le temps de dev "a la mano"
+		- ça a servi de leçon pour une prochaine fois
+			- composant complexe
+	- content du découpage en composants réutilisables
+		- itéré sur du très précis vers le + générique
+		- class -> grid
+	- page avec carousel + grid
+	- header
+- espace utilisateur / organisateur
+	- beau projet, pas besoin de passer par Figma
+- sinon
+	- de + en + à l'aise avec la V1, cool!
+	- de + en + à l'aise avec JS/TS (notamment types génériques)
+	- de + en + à l'aise avec Tailwind/css
+### 2023-05-03
+- ça va! :)
+- bonne ambiance, bonne émulation, agréable de voir que le produit fonctionne
+- done
+	- home : + complexe que prévu, challenge technique pour maintenabilité
+- en cours
+	- ajustements sur la home
+	- formulaire pour commercial D&V
+- freetech day + dej'ackathon
+- formation chaud
+	- bcp bcp de choses à faire et plus que 2 dans l'équipe
+	- POO pour le back (express)
+- projet perso
+	- fastify + prisma +  postgres + docker
+- fin de contrat... se positionner courant/fin Juin
+### 2023-05-10
+- projet Wild très prenant
+	- projet perso off
+- formulaire D&V
+	- côté back -> RLS / supabase admin
+	- intéressant de faire du back
+- question : où placer le service générique?
+	- pour l'instant on reste sur l'emplacement existant : route/api/...
+- landing
+	- #1 liste
+	- #2 la carte, avec gros challenge pour la partie mobile
+- test test -> "type complexe" :)
+### 2023-06-01
+- content de toucher à différents sujets que je maîtrise moins
+	- progression en SQL notamment
+		- discussion ORM >> SQL
+- encore un peu de mal à estimer le temps d'une tâche
+	- peut-être demander de l'aide tôt
+- show case : the project! :)
+	- vraiment impressionant
+	- reste un peu de boulot qd meme
+	- et déploiement -> solution en cours
+- discussion sur la suite pour lui
+	- on veut qu'il reste, mais on attend confirmation de la levée
+### 2023-06-07
+- semaine passée un peu légère
+	- poster -> petit challenge "print" : nouveau
+		- challenge A5
+			- retours sur le code qui ralentit la mise en prod, ça a créé de la frustration côté "client" (David)
+			- prochaine fois : on merge + déploie + vite et on corrige ensuite
+	- WIP : desired delivery date & comment
+	- WIP : refonte header / menu
+- à venir :
+	- nouvelle home avec calendrier
+	- parcours : tunel de création (multistep) basé sur le travail de Sébastien
+		- bouton '+'
+		- choix catalogue avec prévisualisation
+		- adresse livraison
+		- date de fin (+ option)
+		- message
+	- todo : discussion à 3 ?
+- motivé pour la nouvelle home
+	- app avec de vraies fonctionalités sociales
+- vacances :
+	- 1 semaine en Juin
+	- 1 ou 2 semaines en Aout (dont 1 de "révisions")
+### 2023-06-16
+- vacances : reste à prendre
+	- reste 3 semaines + 1 semaine de révision
+	- semaine de révision  : le mois précédent l'examen
+- examen : date à confirmer + tuteur invité?
+- WIP : la home avec les sections
+	- côté db : ok
+		- ! pas de soft-delete sur les selections -> delete cascade
+	- admin : ok
+	- front : ok
+		- affiliate : non pris en compte
+		- sort : 1, 2, 3... 0 = hero section
+		- sort : offer.position au sein d'une section
+- discussion sur la suite : catégories
+### 2023-07-05
+- Vacances / Congés / Exam
+	- Date examen : semaine du 04/09/2023
+	- @Kevin demande Katell les jours encore dispo pour Johann
+	- @Kevin voit avec @David pour vraiment se positionner rapidement
+- Dev
+	- Après 2 semaines de break, pas compliqué de s'y remettre
+	- Frustré de ne pas avoir terminer tout ce qui était à faire avant de partir
+	- discussion autour du feature flag, mis en place pour la nouvelle home
+- discussion projet Wild
+	- avancement projet
+	- oral blanc
+	- congés = dossier + préz
+- WIP
+	- segmentation:
+		- click
+		- smooth scroll
+		- scroll -> sélection menu
+	- la suite : MAP!!!
+		- il faut qu'on définisse bien le fonctionnel
+### 2023-07-12
+- un peu trop seul sur la partie front depuis le départ de Loic
+	- livré à soi-même, très souvent seul à bosser sur ses sujets
+	- besoin d'analyser ENSEMBLE :) les gros tickets
+	- espérons que passer à 100% sera bénéfique pour la suite
+	- tendance au perfectionnisme...
+	- agréable d'être sollicité sur des sujets qu'il maitrise :)
+- WIP
+	- map -> modal de sélection de département
+	- discussion autour de la map et des solutions de zoom/dézoom etc...
+### 2023-07-26
+- retour : sujet redirection -> ne pas hésiter à demander sur quelle solution se diriger plutôt que de tenter qque chose (sujet a priori très simple)
+### 2023-09-13
+- Retour
+	- ça roule, même si un peu fatigué
+	- retour sur la présentation fin de parcours
+- "fierté" de l'équipe en place :)
+- obj perso dev
+	- amélioration de la vélocité
+		- échange! communication orale
+		- front : + autonome
+			- besoin de réfacto ou non?
+		- back : demande de feedbacks ++
+	- sujets tech sur lesquels s'améliorer
+		- par ex : UI/UX
+		- back en général
+		- système?
+			- vercel = complexe à débugger
+			- pb d'"alert fatigue" -> trop de bruit = on ne regarde plus les pb
+- techops day
+	- maj de dépendances toutes les 2 semaines
+	- nettoyage bug/remontées Sentry à 3 en simultané -- mode test
+- point RH / vacances etc...
+### 2023-09-20
+- ça va?
+	- yes
+	- reprendre le rythme clapclap, mais cette fois plus d'interruptions régulières
+		- c'est mieux comme ça!
+	- nouvelles du collègue de projet : nouveau projet
+- vélocité
+	- en progression, les curseurs sont bien "positionnés"
+- feature
+	- nouveauté : appris et touché à la DB -> RLS
+	- de bout en bout
+- kiwiRH
+- Next step
+	- fonctionnement design avec David
+	- mockup plutôt que des design aboutis
+	- discussion rapide sur les histoires de footer
+### 2023-10-25
+- ça va?
+	- grand-mère : ça va
+- Figma : est-ce que c'est vraiment nécessaire?
+	- seul frein : l'existant (Seb) qui pourrait être exporté
+	- transférer tout sur 1 seul fichier
+- Vélocité
+	- curseur sur la refacto vs pas de refacto
+	- bien clarifier le fonctionnel
+- points d'amélioration
+	- app dir/ avec des simplications architectureaux apportés
+- :warning: migration swiper
+- :warning: techops day : régulièrement on le zappe
+	- refacto : formulaire?
+- stratégie de PR
+	- refacto
+	- fonctionnel
+	- bug fix
+### 2023-11-15
+- petit incident bug
+- gros ticket
+	- un peu frustré de bosser sur des gros tickets et donc pas bcp de mise en prod
+	- 2 gros chantiers
+		- parcours paiement sans compte
+		- refonte design system
+- accumulation de dette technique
+	- signal -> state / props drilling
+		- ou composition en attendant ?
+			- component props
+		- ou context
+	- app/ dir -> server component
+		- GROS intérêt pour
+			- session
+			- auth
+			- interaction avec la DB
+- techops
+	- swiper : on y est presque!
+### 2023-12-06
+- content d'être sorti des 2/3 gros chantiers
+	- :check: swiper : CHECK
+	- design system
+	- paiement sans compte
+- idée 2024 :
+	- dark theme?
+- sympa de créer les tickets ensemble
+- warning avec la dette technique
+	- refacto obligatoire 20% du temps post-levée
+	- api : documenter les règles de nommage des routes
+- documentation
+	- priorité au métier (eg. "participant CG ajouté à la contact_list de l'orga")
+	- 2em temps
+		- règle de dev (eg. REST API)
+		- design
+		- ...
+- reprise des side projects
+	- server discord (stack à définir, plutôt partant pour nextjs avec prisma & postgresql dans docker)
+- retours
+	- tjs des petits pb de vélocité
+	- idée : ne pas hésiter à faire part des problèmes rencontrés, même ceux qui ont déjà été réglés
+### 2023-12-20
+- vacances
+	- courtes à Noel parce que ski fin janvier
+	- ça tient, a fait pire :)
+- props drilling
+	- store - zustand (vs react context & redux, jotai)
+	- perf, render de composant
+	- discussions sur la suite, orga des composants, state, appel SWR etc...
+	- POC in progress
+		- il faut voir comment on peut adapter ça à Storybook
+	- super intéressant de rentrer dans React
+	- ? regarder les bonnes pratiques de nextjs
+	- quid des server action?
+- chantier : reward bar
+	- vertical VS horizontal : ce serait bien, mais vraiment pas prio
+	- haut en bas VS bas en haut
+- la suite :
+	- annuaire
+	- dashboard orga
+### 2024-01-10
+- discussion migration vers app/ router
+	- interrogation sur la nécessité d'avoir une API?
+	- et quand on aura une app?
+	- -> à garder dans un coin de nos têtes pour l'avenir
+	- moins de props drilling
+- "meilleur des 2 mondes": par défaut côté server, mais on a la réactivité à dispo dès qu'on en a besoin
+- TODO - ATELIER
+	- organiser un atelier de présentation / discussion / mise en place de convention sur `app/` dir avec @Nicky
+	- se mettre d'accord sur ne PAS utiliser `useEffect`
+		- `useEffect` ok pour interaction DOM
+		- `useEffect` ok pour synchro de state avec l'extérieur
+		- refacto possible avec Analytics
+	- feature flag = rend la vie + facile
+- DONE - page annuaire avec filtreS
+- TODO - Authent
+- reco : inspi ship-fast
+### 2024-02-21
+- moral : ça va, moral bof
+- produit / tech
+	- ça déroule bien en ce moment
+- rh
+	- conseils / questions
+	- ESN taille humaine
+		- the tribe
+		- lonestone
+		- theodo
+		- humanit
+		- sfeir
+		- zenika
+	- éditeur
+		- GDC / Hipay / iAdvize
+		- Doctolib / Malt / Decathlon
+	- avis profil linkedin
+	- lettre de reco
+	- idée : gist avec des snippets qui couvrent l'ensemble de tes connaissance
+		- api, db, tailwind, react
+### 2024-03-13
+- la suite?
+	- proposition potentielle Jérémy - "ça m'est tombé dessus"
+	- pas encore déclenché les autres pistes
+	- revue CV : propre
+- projet perso
+	- bot discord : drafty qui a pas mal d'utilisateurs -> en cours de migration v1 vers nextjs (avec un backoffice)
+	- discussion sur les bots discord
+		- voire migrer vers discord
+		- économie 650 eur / an
+- clapclap
+	- zustand ou legendapp pour state management
+		- ça devient urgent!
+### 2024-04-30
+- comment va?
+	- ça roule
+- state management / context
+	- https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/
+		- react context pas si mal
+	- il faudrait vraiment trouver le bon pattern / lib
+- discussion roadmap grande maille
+	- à discuter / valider avec MCS
+	- projets motivants
+		- lancer un nouveau projet c'est tjs intéressant surtout que maintenant Nicky et Jojo ont de la bouteille
+		- messagerie in-app
+- orga : pas mal d'aller/retour à venir :)
+- stratégie commerciale
+	- MCS bascule qques clients?
+	- force commerciale MCS?
+### 2024-05-22
+- comment va? ça va
+	- fatiguant ces dernières semaines à cause déménagement
+		- c'est mieux -> Passé
+- hâte de bosser sur de nouvelles grosses features
+	- discussion "macro panier"
+	- a priori
+		- dashboard orga
+		- macro panier
+		- admin v2
+			- motivé pour ce projet dashboard/admin -> projet UI/UX intéressant
+		- amélioration communications (email, sms)
+			- documentation!
+				- infos techniques, stats / recap etc...
+			- suivi des envois
+- pas mal de pb lié à des APIs tierces
+- /!\\ SMS soft bounce!
+### 2024-06-05
+- problèmatique conversation orga/fournisseur
+	- présentation des 3 solutions discutées avec Nicky
+	- GO pour la version many2many
+- famille / grand mère
+- sujets à venir
+	- RGPD
+	- analytics / matomo / amplitude?
+- changement funnel création de commande
+	- 1ere étape "présentation"
+	- 2eme étape "annuaire > choix catalogue"
+	- etc...
+- présentation du calendrier! :)
+### 2024-07-03
+- ça roule?
+	- petit changement de programme vacances / JO
+	- potes / maison Marseille
+- feature - commande pour autrui
+	- "state hell" -> pas de synchro "localStorage / context / shoppingCart"
+	- renommage pour être + clair :
+		- groupbuyCarts -> groupbuyCart -> profileCart -> profileCartProducts
+	- :warning: on aurait dû faire la refacto / renommage AVANT de bosser sur la feature
+	- la suite
+		- checkout page
+	- :warning: conflit en pagaille parce que plusieurs PR en parallèle avec Nicky
+- TODO - anticiper les nécessités tech des 2/3 prochains projets pendant mes vacances (2/3 semaines)
+### 2024-09-25
+- ça va?
+	- good mood
+	- un peu fatigué après ses vacances !!! WHAT?!?
+		- vacances sportives déconnexion dans la tête, mais pas physique
+		- et reprise du basket (loisir) en + du bad
+	- reprise compet' "magic" (echainement de tournois)
+	- gamelle
+	- avant les vacances l'efficacité diminuait
+- pression
+	- pas mal d'urgences à gérer
+	- pression galvanisante! impression d'être util
+- frustration
+	- sur des grosses features qui ne sont pas game changer
+	- pas bcp de sujets "passionants"
+	- hâte de commencer à bosser l'admin V2 par ex
+		- gros enjeux UI qui n'ont pas encore été abordés
+	- depuis le retour de vacances
+		- trop d'aller/retour et micro modif sur les différents cas d'usage
+- gros sujets
+	- mise en place de filtres?
+	- asso
+- satisfaction du travail accompli
+	- dashboard orga en particulier
+- retour frustrations Nicky
+	- review de PR
+		- :warning: être qd même mis au courant qd il s'agit de PR `front`
+		- fatigue de notifications
+			- pourquoi pas désactiver?
+			- Nicky fait des grosses PR vs Jojo qui en fait des fats
+		- problème de concentration, et donc optimisation du temps de focus
+	- gestion de la création de tickets
+		- sujets UI discutés à l'oral mal retranscrits?
+		- ou mal pas bien assigné
+		- et ticket créé avec un manque de précision / context
+			- idée : créer une colonne DRAFT pour les tickets qui pourraient être urgents mais pas encore bien définis
+### 2024-10-09
+- basket, santé etc...
+- discussions frustrations
+	- commencer un projet de 0
+	- backoffice v2 : ce n'est que partie remise
+- sujets du moment
+	- ticket admin
+		- intéressant, remettre le nez dedans
+			- mais très long, pas très efficace
+		- voir pour trouver des alternatives à SWR
+			- l'essentiel est du POST
+		- évaluer la maj à la V5?
+- discussion autour de la roadmap MCS
+	- notamment le multi-site
+		- questionnement perf
+		- vercel? cold start?
+- souci perf en local !!!
+### 2024-10-23
+- perf / lenteur dev
+- ça va : même si c'est pas le plus fun au niveau de l'intérêt des projets dernièrement
+	- ressenti bof
+	- c'est plus sur un plan perso
+		- santé : coup de vieux (genou, main, hyper tension)
+- les nouveautés sont motivantes
+	- mais changements constants
+	- bcp de refacto
+	- mais "je me console avec le résultat" qui est souvent top
+	- autonomie : ça forge!
+- mais on garde en tête que commencer un projet de 0 serait qd même + motivant
+- swipper tjs problématique / frustrant
+	- discussion sur l'affichage des catégories
+		- en vertical
+		- filtre plutôt que ancre / déplacement
+		- ce serait un vrai soulagement (barre de catégories super chiante à gérer, très bugguée)
+- amélioration : lien "retour" -> jamais trop clair, et ne fonctionne pas à cause du mini scroll
+### 2024-11-27
+- :warning:
+	- refacto address type : tu ne semblais pas emballé... mais c'est important de le faire!
+	- pas tjs très tendre avec Nicky qd tu lui parles
+	- attention à ne pas (re)tomber dans le souci du détail "good is better than perfect"
+	- hier : bug en prod et refractaire à partir dans sa correction...
+	- arrivée 10h, 1.5h de pause, départ 17h15...
+- santé
+	- pas bcp mieux...
+	- poignet pas encore bien, donc tjs pas de basket
+	- décès de la GM de Jess : on ne s'y attendait pas
+- pro
+	- hâte que la refonte soit live, ça va être bien
+		- nouveaux composants,
+		- nouvelles requètes
+	- un peu de changements qui a fait qu'on a bossé sur des choses qui ne seront finalement pas utilisées
+	- showcase de la nouvelle home + navbar etc...
+	- encore bcp de boulot
+		- comment on peut t'aider?
+		- ne pas oublié de déplacer la todo-list dans les groupes
+- vacances
+	- OFF : toute la semaine du 23/12
+	- OFF : Prague 20/01 au 25/01 à confirmer
+	- OFF : Ski du 17/02 au 22/02
+- annonce augment' : semble content!
+- leçon #X
+	- si tâche "sensible" à exécuter, le faire à 2 pour avoir 2 paires d'yeux!
+- review rpc / sql
+- :warning: Bien communiqué avec jojo pour les sujets back qui sont développés!
+	- eg. messagerie : pas du tout mouillé
+### 2025-02-12
+- warning :
+	- arrivées systématiques vers 10h
+	- départs ~17h30
+	- grosses pauses
+	- longs à délivrer
+- santé
+	- poignet guéri
+	- moins mal au genou
+- vacances
+	- Bourg-Saint-Maurice (+ neigeux que les Pyrennées)
+	- rien de prévu pour l'instant
+	- qualif Magic Bologne en Mars pour tournois en Avril
+	- excuses à nouveau d'avoir posé les congés de Prague un peu tard
+- boulot
+	- content de ce que devient l'app
+		- malgré les multiples versions/ A/R c'est bien
+		- futur intéressant : full messagerie
+	- content d'avoir touché à la messagerie
+		- et là (campagne onboarding) : il va y avoir de l'admin et du back
+	- pourquoi pas faire du "realtime" sur ce composant?
+	- conventions / optimisation sur les currentUser
+		- hâte de mettre en place un système de session et/ou store
+	- échange sur TECHOPS
+		- mise en place de sprint planning avec/sans techops
+		- nécessité de maj du backlog techops, ET que les techops soient cleans/bien décris
+	- BIEN que tu prennes le temps de découper les gros projets / tickets en petits tickets
+		- problématique d'echainement de PRs qui aboutissent à de grosses PR
+		- si refacto au milieu d'une fonctionnalité : bien communiquer dessus
+	- gros échange sur le getCurrentUser
+		- prévoir un dej tech sur le sujet
+### 2025-04-02
+- comment va?
+	- un peu stressé avec la grand-mère :/ 
+		- CHU puis hopital nord (St Herblain)
+		- Pneumocystis
+		- pas d'acharnement thérapeutique (sur sa demande)
+- boulot
+	- ça va malgré tout
+	- un peu fatiguant les allers/retours de manière globale
+		- rollback notamment
+	- peut-être utiliser + souvent les User Tests
+		- notamment pour les gros "choix" importants
+		- mais ça peut prendre du temps
+		- figma? trop chronophage
+		- impatience de David
+			- dev direct, souvent c'est ok
+			- mais pour les fonctionnalités + grandes (eg. profils) ce serait bien de tester plus
+		- rollback couteux, et ça introduit de la dette technique
+	- user test
+		- les sessions ont été plus longues que je pensais
+		- ~45 min / test
+		- IA pour compiler les infos/retours/résultats
+		- formation figma?
+			- oui pourquoi pas!
+			- bien en accompagnement du dev front
+	- court terme
+		- David sur Keynote
+		- Johann implémente
+		- MAIS figma + user test sur les gros dev
+	- ⚠️ peut-être que ça donne l'impression que je passe du temps à code
+		- mais c'est bcp de tests sans avoir de maquette
+	- et c'est quand même le dev qui me fait kiffer le plus
+	- **Hâte d'avoir un projet + challengeant**
+		- là on met à jour de petites choses
+		- court terme pas vraiment de projets à démarrer "from scratch"
+	- bouton retour "LOL" ⚠️
+- ⚠️ TEAMS - David s'est senti exclu
+- vacances?
+	- break pour tous les ponts : 02/05, 09/05, 30/05, 02/06
+	- 3 semaines probablement en été (avec du sans solde si besoin)
+### 2025-06-18
+- comment va?
+	- ça va, avec le beau temps
+	- basket -> je continue mais compliqué physiquement, moins de bad
+		- il faudrait faire du vélo pour muscler les jambes
+- gros sujets dernièrement
+	- un peu trop de temps
+	- nouveau workspace pour la landing
+		- bcp de récup de code à droite à gauche
+	- boutons -> erreur à la mise en route
+- discussion de la suite de la roadmap
+- Congés -> sans doute les 3 dernières semaines d'Aout

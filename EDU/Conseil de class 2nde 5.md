@@ -1,0 +1,162 @@
+- présents
+	- Mme Bucheron - principale, physique
+	- Mr Quentin - EPS
+	- Mme  - Math
+	- Mr Rabu - francais  ciné
+	- Histoire geo, emc
+	- Mr Seniet - SES
+	- 1 seul délégué : Alexandre Bouchet
+	- Pas de CPE
+- Intro
+	- TSO rouvre bientôt avec les avis, phase provisoire (définitive au 3eme trimestre)
+		- dossier papier si souhait voie techno
+	- fin des cours + restitution manuels scolaires : 9 Juin
+	- période ré-inscription des élèves : 9 Juin
+	- possibilité de faire des stages en entreprise
+- Principale - Bucheron
+	- résultats bons
+		- sauf qques élèves ~11 de moyenne
+	- Mais classe bavarde, travaille "seulement" pour les évaluations
+	- Attitude, activité en cours -> difficile de faire travailler
+		- pb d'autonomie, potentielles surprises en 1ere avec le rythme qui s'accélèrera
+		- sans doute des restes du collège où le travail à fournir n'était pas 
+		- pas agréable de travailler avec cette classe
+		- compliqué (SVT pareil)
+	- Ce n'est pas la responsabilité des profs de verser l'info, il faut être bcp + proactif (en cas d'absence notamment)
+	- sous le stress ça travaille bien
+	- bon niveau d'expression (oral et écrit)
+- Délégué élève
+	- les élèves ont conscience de l'implication un peu trop légère
+- Délégués parents
+	- bon taux de retour
+	- 24 réponses (pour 21 élèves)
+	- 68% de réponse
+	- satisfait à très satisfait globalement
+	- 4% peu satisfait: élève en difficulté?
+	- rapport aux profs : satisfaisant sauf avec 1 prof
+	- retour prof : gros problème de révision
+		- solution : en Math il y a un DS toutes les semaines
+		- les notes & devoirs sont les déclencheurs de révisions
+	- groupement des évalutations
+		- compliqué de faire autrement même si les profs essayent de s'organiser entre eux
+		- il FAUT absolument qu'ils prennent conscience que le travail régulier leur permettra d'être plus à l'aise pendant les grosses concentration d'épreuve
+	- problème au niveau de l'accompagnement pesronalisé
+		- x-learning?
+		- les professeurs ne s'en occupent pas
+		- ne pas hésité à aller voir les profs pour se renseigner sur les possibilités de soutien
+	- Posture générale : une partie de la classe n'est pas engagée
+		- les bavards ne sont pas assez solidaires, il y aurait moins de pb s'il y avait moins de bavardage
+		- peut-être un problème de dialogue profs-élèves / parents
+	- usage d'internet fréquent
+	- orientation général pour tous les élèves sauf 1
+		- 
+	- pas de harcèlement
+- Bulletins + 
+	- Acadaine Calice
+		- fragilité d'intégration (angoisse du lundi matin, internat Savenay)
+		- sérieux, encouragements
+		- Spécialités : ok
+	- Lou Aymard
+		- attention à l'attention en cours (bcp de bavardages)
+		- Spécialités : ok
+	- Maelys Bertrand
+		- PAP (disortho), bloc scientifique solide, continuer vos efforts, sérieuse
+		- inquiète, attentive
+		- Spécialités : ok
+	- Alexandre Bouchet
+		- qques progrès, trimestre convenable. généraliser les efforts. Capable de mieux (trop de bavardages, non chalance)
+		- Spécialités : ok
+	- Adele Bretaud
+		- inquiète/angoisse, mais motivée/impliquée. Ensemble très satisfaisant. Sérieuse
+		- Spécialités : ok
+	- Lilly Briand
+		- 2nd trimestre plus compliqué. Ensemble convenable malgré qques résultats en baisse. Continuez ainsi, + d'effort sur les matières plus fragiles. Bon état d'esprit
+		- Spécialités : ok
+	- Garance Brozek
+		- ensemble très satisfaisant, travail sérieux, mais trop de bavardage et investissement. Elle est sérieuse sur les matières qui l'intéressent (manque de maturité? ne travaille que pour les notes)
+		- Spécialités : ok
+	- Pierrick Busson
+		- difficile d'évaluer objectivement le niveau. Plus détendu
+		- STI2D : ok (-> lycée de secteur pour retrouver ses amis)
+	- Eugénie Claracq
+		- travail sérieux mais attention peut être amélioré / trop de bavardage
+		- Spécialités : ok
+	- Cassandre Cocheril
+		- ensemble solide, félicitations
+		- Spécialités : ok
+	- Elliot Corbard
+		- Bel ensemble, sérieux et implication sauf sur certaines disciplines
+		- Spécialités : ok
+	- Anna Cormier
+		- rentre tard chez elle. sortie de lycée 19h45 tous les soirs (avec Garrance). Très timide
+		- Spécialités : ok
+	- Melissande Couic
+		- bcp de sérieux et d'implication, bonne progression. Bcp plus à l'aise. encouragement à poursuivre
+		- Spécialités : ok
+	- Diane Dargornet
+		- ensemble satisfaisant, travail sérieux doit être généralisé à toutes les disciplines. un peu de bavardage. Un peu de manque de recul
+		- Spécialités : ok
+	- Colin Dahn
+		- résultats en baisse, implication et travail doit être + soutenue. Attentif aux bavardages. Pourrait mieux faire, manque de travail, ça ne passera pas en 1ere. Changer d'attitude pour 1ere générale
+		- Spécialités : réserve sur Maths et SES pour l'instant
+	- Jeanne Debies
+		- bons résultats, encourageant pour la suite. Aucune inquiétude. Séjour à l'étranger très positif
+		- Spécialités : ok
+	- Gaspard Delage
+		- ensemble solide, poursuivez sur cette voie. Un peu trop discret
+		- Spécialités : ok
+	- Rebecca Fouassier
+		- excellent ensemble, travail de grande qualité, féliciations pour la bonne attitude.
+		- Spécialités : ok
+	- Mona Frangeul
+		- ensemble satisfaisant mais avec moins de bavardages ce serait mieux. Manque de constance
+		- Spécialités : ok avec un doute sur la possibilité de faire Grec
+	- Lise Garnier
+		- Qques progrès à noter même si l'ensemble est donc convenable, un peu trop de bavardage
+		- Spécialités : ok
+	- Titouan Gloriod
+		- Qques progrès sont à noter même si l'ensemble reste fragile. Implication reste le plus souvent irrégulière, les bavardages doivent être moins présents
+		- Spécialités : un peu juste même si demande d'un BAC Pro menuiserie
+			- /!\ il faudra demander une 1ere techno pour faire un BAC Pro
+	- Adèle Gouspillou
+		- Qques progrès sont à noter même si l'ensemble reste fragile. Implication reste le plus souvent irrégulière, les bavardages doivent être moins présents pour enviager une 1ere générale.
+		- Spécialités : réserve sur la SES
+	- Fanette Guezengar
+		- ensemble inégale, fragilité dans plusieurs disciplines malgré de réels effort. Continuer les efforts. Semble s'être isolée -> pour améliorer. Absences non régularisés (pb familiaux?)
+		- Spécialités : ok
+	- Lise Le Guern
+		- Bel ensemble, niveau solide, attention aux bavardages qui peuvent nuire à votre entourage
+		- Spécialités : ok
+	- Elyo Lecureur
+		- ensemble inégale, travailler de façon plus soutenu et moins de bavardage. Besoin d'être attentif
+		- Spécialités : ok
+	- Lila Madec
+		- Ensemble solide, bcp de sérieux et d'implication, poursuivez sur cette voie, Félicitations
+		- Spécialités : ok
+	- Clémentine Magnin
+		- Excellent ensemble, bon travail, félicitations
+		- Spécialités : ok
+	- Joséphine Maura
+		- bcp d'absences sans régularisation. Ensemble bien inégal, implications trop irrégulières. Il faut se montrer plus sérieuse. Blocage à l'oral
+		- Spécialités : ok
+	- Milan Mergui
+		- Bel ensemble, travail sérieux et volontaire, curieux et sûr de lui. Continuez
+		- Spécialités : ok
+	- Fanette Normand
+		- Bon ensemble, bloc scientifique solide. Implications inégales. Manque de confiance à l'écrit
+		- Spécialités : ok
+	- Ilyes Nourdine
+		- ensemble inégale avec bloc scientifique plutôt solide. Plus se concentrer en cours
+		- Spécialités : ok
+	- Nina Orhon
+		- Excellent ensemble, très bonne implication, félicitations
+		- Spécialités : ok
+	- Zélie Pantel
+		- Ensemble globalement très satisfaisant, encouragements pour être plus homogène
+		- Spécialités : ok
+	- Kira Saliou
+		- Très bel ensemble, travail de qualité. Mais trop de bavardages avec notamment des élèves en difficulté (dommage pour les félicitations)
+		- Spécialités : ok
+	- Lou-Andréa Sautejeau
+		- Excellent ensemble, félicitations pour l'attitude.
+		- Spécialités : ok (question sur le grec?)

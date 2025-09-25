@@ -1,0 +1,33 @@
+
+- dernier résultat d'exploitation
+- capitaux propres
+- CA prévi
+- RC dirigeant nécessaire?
+	- protection  capital perso
+	- pas la peine
+- RC pro
+	- protection activité
+- matériels et locaux = multi-risque (incendie/vol etc...)
+	- adresse
+	- pas de bail / presta de service
+	- locataire ou sous-locataire?
+	- surface : 100m2
+	- matériels = ~15k eur (pas de mobilier)
+	- TODO :
+		- récupérer le contrat de presta
+		- type de protection mis en place
+		- niveau de franchise
+			- au + bas : montant + élevé
+			- eg: 300 eur
+			- offre haut/bas
+- Olino
+	- 2 ans
+	- levée 2M eur
+	- obj : rendre facile et transparent les propositions d'assurance
+		- eg. devis = proposition + détails des garanties
+		- RIB + kbis + paiement et c'est bon
+	- déclaration de sinistre
+		- télédéclaration
+		- puis interface humaine avec chargé de contrat
+	- 300 clients aujourd'hui
+	- obj : série A bientôt avec international

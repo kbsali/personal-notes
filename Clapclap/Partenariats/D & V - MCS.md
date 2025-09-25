@@ -1,0 +1,2035 @@
+### 2025-07-17 Mathieu cessation d'activité
+- prévenir les fournisseurs pour annoncer que la société s'arrête
+- PV de liquidation signé le 16/07/2025
+	- KBIS semaine prochaine
+- on bloque la création de nouvelle commande
+- matériel
+	- 13.000 matériel informatique -> 2.500 eur en valeur comptable
+	- Pierre décide de la valeur vénale du matériel
+- Fournisseurs :
+	- ON:
+		- google workspace
+		- vercel
+		- supabase
+		- brevo
+		- react admin
+		- crisp
+		- stripe
+		- github
+		- sentry
+		- cursor
+		- cloudflare
+	- OFF:
+		- banques? -> contacter Mathieu
+		- novapuls
+		- olino
+		- libeo
+		- notion
+		- vinci
+		- canva
+		- digitalocean
+	- Fabrizzio
+		- probance
+		- bulldozer
+		- oduna
+### 2025-06-17 Synchro hebdo
+- ajouter une date de début
+- Benjamin : revoir la façon de gérer les dates de livraison
+	- ne pas communiquer de dates de livraison?
+### 2025-06-11 Roadmap Clapclap / Benja & Benoit & David
+- offre multi-fournisseur
+	- D&V bientôt prêt, passer en test général d'ici la semaine prochaine (semaine #25 /#26)
+	- en cours : génération facture globale, suite : bon de commande
+	- obj : lancement en septembre
+- UI/UX
+	- en cours : parcours inscription & onboardning
+		- amélioration SEO, partage d'URL...
+- WANTED
+	- gestion des groupes d'achat
+		- D&V : 1) on crée un groupe, et 2) on choisit des admin
+		- important que clapclap s'oriente vers ça (notamment pour le suivi dans hubspot)
+		- /!\ co-administration d'un groupe
+	- CG Asso
+		- possibilité d'avoir un même catalogue compatible asso ET entreprise
+	- Catalogue : pages produit & filtres
+	- !!! Environnement de test !!!
+	- améliorations CRM
+		- perte de temps fiche & suivi
+		- prochaines actions (eg. actions du jour)
+	- Data / BI
+- Should
+	- Hubspot
+- Would
+	- multi-address
+### 2025-06-04 Benja & Cyril
+- Pierre -> ClapClap
+	- il faut montrer au fond qu'on va faire du CA via Clapclap
+	- idée : 10 minettes au téléphone + qqu'un issu du vin qui propose du vin sur Clapclap
+		- mise en route trop courte
+- dans le projet de rachat
+	- compliqué de mettre Clapclap en avant
+- projects à gérer
+	- DV, MCS, B2B, site B2C, Hubspot, Clapclap
+- il faut qu'on continue d'avancer avec Clapclap comme jusqu'à maintenant
+	- Pierre monte son équipe et la gère
+- roadmap
+	- Pierre
+		- multi-fournisseur -> à tester
+		- vin : franco au carton
+	- Convergeance
+		- multi-site
+	- Transfert de compétence
+		- internalisation de la compétence?
+		- externalisation?
+			- Ezequiel (BWA)
+			- envoyer stack tech à Benjamin
+		- Nicky ou Johann mobiles?
+- Grosses intérogations sur la suite
+	- techniquement Benja pourrait reprendre
+	- fonctionalités : sans doute aussi
+	- vision dev business & stratégie
+- Business plan -> vendredi (Cyril, Alex, Benoit)
+	- expliquer du CA et l'EBE
+	- Adviso 15h-17h
+- intérêt à ré-investir une partie?
+	- why not, ça dépend du projet
+- SI ça ne fonctionne pas
+	- Revente à qqu'un du milieu du vin / concurrent
+	- Pierre n'exclut pas de faire un LBO et je continue à fond sur Clapclap
+	- 30M de valo + 7M de dette séniore -> 37M
+		- + dette opérationnelle (Péguet etc...) pas besoin de rembourser
+### 2025-05-22 Sabrina, commerce / assignation
+- date de prochaine action
+	- cas d'usage : "pas de réponse" NRP -> non prio
+	- cas d'usage : "rappelez demain" -> prio
+	- Solution : type de note : NRP, Appel Décroché, etc...
+		- aidera à la priorisation des prochaines actions
+### 2025-05-22 Mathieu, Cécile, Carine - processes
+- BNP Paribas / EBICS :  OK
+### 2025-05-22 Mathieu Regadata, impots, urssaf
+- ursaff Regadata
+	- 
+- impots
+	- 300 eur -> remboursementsfrais pro = ne pas déclarer (inclus dans le montant total)
+	- DONE
+### 2025-05-21 Caroline RH
+- convention collective différente -> Eurécia pas possible, donc 
+- Roman : anticiper les congés d'Aout
+- Pauline : 39h/semaine
+- Si l'équipe grandit
+	- GTA : Gestion de Temps de Travail
+	- règlement intérieur
+	- accord aménagement du temps de travail (à publier sur la DRIP - inspection du travail)
+	- Avantage
+		- prime de partage de valeur
+		- Mutuelle : Alan (+ chère que celle du groupe qui est payée à 100%)
+			- Mutuelle : délais d'1 mois
+			- Prévoyance : fin d'année en cours
+			- @Caroline fera une estimation des coûts
+		- tickets restaurant : 60%/40% de 9eur (5.40 pour l'employeur) -> ~20 tickets / mois pour les jours travaillés
+		- CET (Compte Epargne Temps) -> récup' des congés non posés en numéraire
+		- PEE (Plan d'Epargne Entreprise) -> si plafond CET
+		- Convention de forfait jour -> nombre de jours travaillés = Cadres Autonomes (218 jours / année)
+		- Prime de vacances avec la convention Syntec versée en Juillet
+		- Affichage
+		- DUER Document Unique des Risques
+			- @Kevin envoie photos du lieu de travail
+	- Lundi de Pentecote : solidarité, CP à poser
+### 2025-04-29 Cécile Compta
+- Regadata
+	- Justif 50 eur cash
+### 2025-04-29 Benjamin
+- paiement commission : on ne change rien, 1 CG prise en charge = 1 paiement de commission pour chacun des fournisseurs concernés
+- clapclap gère un "macro bon de commande"
+	- il est envoyé au fournisseur principal ET secondaire
+- clapclap gère un "macro facture" + "macro paiement"
+	- à la place des factures et paiements de chacune des CG
+- le déclenchement de la prise en charge de cette campagne de CG est fait via API par MCS
+- sujet coût logistique pour les offres 1+1
+	- chaque sous-produit a son coût logistique
+	- il faut le renvoyer systématiquement
+- franco aux cartons
+	- devient une nouvelle prio
+	- produit simple -> 1 produit acheté = 1 carton
+	- produit type offre -> `sum(Components.Quantity)`
+### 2025-04-14 Benjamin, Fab
+- metadata produits
+	- metadata dynamiques VS figées
+	- idée:
+		- krion -> ajouter un booléen "synchro avec clapclap?" pour les metadata dynamiques
+		- middleware "ala Lengow"
+- Fab : GTM
+	- vue de page + click sur un bouton
+- Benja : bon de commande multi-fournisseur
+	- rien à faire, tout est en place
+### 2025-04-14 Benjamin, multi-fournisseur
+- coût de log' fixe / produit
+	- à ajouter à la facture : "frais de préparation"
+	- mieux % VS coût fixe?
+	- **offer_product.logistic_cost_vat_excluded**
+- offre 1+1 avec 2 fournisseurs différents
+	- 1 produit avec 2 sous-produits
+	- une commande indiv sur ce genre de produit est "splitée" en 2 sous-commandes
+- bon de commande séparé / fournisseur
+- les CGs des fournisseurs externes sont faturées avec le virement associé
+- quantité limitée autorisée à la vente
+	- TODO : vérif que ça fonctionne correctement
+- synchro date de fin de toutes les CGs multi-fournisseurs
+	- obligation de choisir une date de fin la plus proche de la date souhaitée
+	- TODO : liste déroulante des dates dispo, ajouter liste de date de fin autorisées
+- Franco
+	- vin = coût logistique basé sur 10 cartons minimum
+	- TODO : chercher une solution simple?
+	- ne concerne que les catalogues de vin (écart entre prix max/mini le plus grand)
+- obj
+	- #1 rendre un catalogue multi-fournisseur
+		- bons de commande séparés
+	- #2 coût logistique / produit
+	- #3 offre 1+1 avec des sous-produits de différents fournisseurs
+	- #4 Franco au carton
+- ---
+
+### 2025-04-14 Fab, point tracking marketing
+#### tracking marketing
+- suivi stat
+- 3 champs ala UTM
+  - origin (origine de la conversion, eg: site-dv)
+  - campaign (nom campagne pub "p25cse"...)
+  - media (eg. seo, meta social ads, ...)
+- eg. salon CE : origin: site-dv, media: salon, campaign: p25salonlille
+  - acquisition OK, rétention KO
+- 1 campagne lbf + 1 campagne bière
+  - mardi ou mercredi
+### 2025-04-04 Benjamin / catalogue multi-fournisseur
+- hubspot : 30% de rabais!
+	- démarrage
+	- autonomie "marketing automation" d'ici 2 mois
+	- lot 2 : sales commencera en Mai 2025
+	- atterrissage début 2026
+		- clapclap + agile
+		- mais D&V + complexe (pas mal de monde à former)
+	- réunion de suivi toutes les semaines + 5 ateliers sur des sujets thématiques
+- catalogue multi-fournisseurs
+	- gestion commande ET logistiques
+	- donc intégration dans l'ERP de MCS
+	- comptablement : pas d'achat / revente pour ces produits là
+		- il y aura de facture de "prestation de service" de MCS -> Clapclap (gestion produit, SAV etc...)
+		- parce que Péguet & Gamba = 1 seul fournisseur (sinon c'est des stocks et commandes différents)
+	- MCS prend en charge les bons de commandes
+		- facturation clapclap "classique" sur les produits commandés
+	- Clapclap notifie MCS mais PAS le fournisseur
+	- lorsque MCS valide une commande
+		- IDEE : généré un **`orders`** par fournisseur
+		- on génére
+			-  une facture de commision / fournisseur
+				- ⚠️ on va avoir besoin de gérer des taux de commission par catalogue + fournisseur
+				- X virements / fournisseur
+			- recap orga
+			- email etc...
+			- facture individuelle "au nom de"
+				- sur une même facture on aura X "au nom de"
+				- OU 1 facture pour chacun des fournisseurs
+				- (vérif avec Mathieu)
+		- PAS de bon de commande fournisseur
+	- synchro catalogue
+		- MCS ajoute un champ "provider_id" dans les calls
+- OBJECTIF : mise en ligne mi-Mai
+- TODO
+	- Kevin : id de Melusine & Arbre vert à Benjamin
+### 2025-03-31 Compta / Mathieu factures ventes
+- la quercynoise & novamex
+	- il faudrait les factures de vente en face de chacune de ces CG
+	- facture récap
+	- regul vente avec facture adressée à 1 seul client "la quercynoise" & "novamex"
+	- en 2025 : on demande aux fournisseurs de nous mensualiser les factures
+- avoirs
+### 2025-03-28 Cécile compta
+- Stripe -> virements
+- voir avec Mathieu et David pour l'ensemble factures d'achats Novamex & Quercynoise
+	- identifier les virements
+	- et décider si on fait 1 seule facture ou 1 / CG ou 1 / virements
+- Euroteleservice
+	- 3300 eur TTC
+- les avoirs
+### 2025-03-27 Pierre, catalogue multi-fournisseurs
+- #### projet multi-fournisseur
+	- modèle "campagne" avec date de fin de CG imposée
+	- le fournisseur B reçoit une commande globale de l'ensemble des CG pour envoie à Péguet
+	- facturation fournisseur B de eg. 10% de marge + 25% de log'
+		- MCS refacture Clapclap pour la log' après coup
+	- :warning: les commissions sont à gérer par fournisseur
+		- eg. au sein d'une même commande avec 2 fournisseurs différents, il faut pouvoir appliquer 2 commissions différentes
+	- Pierre est OK pour ajouter d'autres ref de bières au catalogue MCS
+- #### projet boutique asso
+	- eg. Bière personnalisée dispo sur une boutique privée réservée aux membres
+	- idée :
+		- on crée un sous-domaine / asso avec 1 catalogue
+		- ce catalogue est une commande express
+		- communiquer sur le financement de l'asso
+	- donner le choix du % cagnotté (5, 10, 15%)
+	- ##### TODO
+		- partager la marge entre le fournisseur ET l'orga
+- #### projet récompense
+	- pour les (très) grosses commandes
+		- imaginer une marge de récompense / cagnotte passer un palier
+	- produits gratuits pas intéressants parce qu'on ne récupère pas la TVA
+	- autre option : chèque cadeau
+	- 3 options
+		- offre de produits
+		- offre de l'argent
+		- offre des points à convertir sur une autre plateforme (eg. ReducCE)
+- #### projet V&B
+	- adresse livraison aux CSE qui ne peuvent pas recevoir d'alcool
+	- idée
+		- ouvrir une commande sur une boutique V&B (sans franco)
+	- but du jeu : envoyé le + possible de monde sur ces "points relais"
+	- gros enjeu optimisation livraison/logistique
+		- il ne faut pas que la livraison dépasse ~4 semaines
+		- il faut que les participants soient informés
+			- communiquer sur la messagerie
+	- STOP : on attend le retour de V&B avant d'avancer
+- #### projet Ambassadeurs
+	- idée :
+		- organiser des dégust' pour inviter des potentiels ambassadeurs **Vin**
+		- envoyer des boites avec qques produits d'essai (eg. produits d'entretien)
+	- landing page claire
+		- envoyer de leads
+### 2025-03-26 CODIR Associé
+- transfert Maison Péguet -> MCS
+	- calcul des prix de cession
+		- mise en application autonme 2025
+	- objectif 49% ???
+		- pour être sûr d'être à 50%, système de devis
+- !!!!!!!!! STOP ! C'est de la merde, arrêter de prendre des notes !!!!!!!!!!
+### 2025-03-25 Benja, catalogue multi fournisseur
+- côté MCS au niveau de l'ERP 2 options
+	- entrée de stock à 0eur (c'est Clapclap qui gère l'achat/revente/commission)
+		- mécanique de facturation avec ligne(s) à 0eur
+		- dans Krion les prix des produits non-MCS seront bien renseignés mais pas remontés dans l'ERP
+- côté Clapclap
+	- split de paiement entre les différents fournisseurs
+	- envoi du bon de commande à MCS seulement
+	- génération des différentes factures de commission
+	- gestion import Krion avec le provider_id
+	- front : basculer sur offer_product multi-provider
+- logistique
+	- 2 options
+		- date de fin de commande figée et on passe commande au fournisseur le stock nécessaire seulement (ala VEEPEE)
+		- stock déporté (compliqué, notamment pour l'alcool)
+			- Péguet Logistique est agréé (droit alcool, douane etc...)
+				- droits acquittés (vins & bière)
+					- on lève les droits au moment où les produits sortent de l'entrepot
+				- droits suspendus (spiritueux)
+					- dépositaire doit payer les droits
+					- prio basse : complexe et cher
+- remise en question du modèle éco Clapclap
+	- aujourd'hui marketplace de fournisseurs (ala Groopay)
+	- catalogue multi-fournisseur donc 3-4 catalogues génériques
+		- marketplace au niveau du catalogue
+- CODIR associé
+	- what for?
+### 2025-02-19 Mathieu / compta
+- Skoaz
+	- lancement campagne CII 2024
+		- production immobilisée
+		- mise en prod de la prod immo
+	- modif pour amélioration de l'outil
+		- 2024 -> 
+### 2025-02-17  catchup Fab, Benja
+- sujet type d'orga : CSE, Asso, Particulier
+	- temps 2 : Ambassadeur (à travailler)
+- offres
+	- vendeur LBF avec 2 ou 3 catalogues invisibles dans l'annuaire
+		- marques internes (Calio, LFB, Netwash)
+		- équivalent catalogue papier
+		- offres par pack/palette
+	- fournisseur MCS -> Clapclap sur Clapclap
+		- offre Arbre Vert -> appartient à Clapclap
+- type promo & catégories niveau 1+2
+	- @benja prépare les données pour le vin en batch
+- type de promo
+	- prix de l'offre
+	- D&V
+		- prix bouteille
+		- prix lot
+	- LBF
+		- offre de gratuité avec modif sur commande indiv api : 1 seule ligne / produit (et pas 1 payante + 1 gratuite)
+	- TODO
+		- normaliser 1=2 -> 1 seul produit, et 1+2 -> 2 produits
+### 2025-02-11 revue catalogue LBF
+- comment remonter les catégories/sous-catégories?
+	- remontée des catégories
+	- fonctionnalité : filtres plutôt que anchors/ancres
+	- /!\ catégories spéciales à mettre en place
+- comment flagguer les produits avec gratuité?
+	- Pierre : visuel un peu brut...? WTF
+	- revue des visuels
+	- envoyer les "type d'offre"
+- comment renseigner différentes remises pour des lots de produits?
+	- étudier la possibilité d'afficher les offres "1+1" sur des cards de 2 de large
+	- détails offre via des visuels
+- nb visuels
+	- vin : 1 fond blanc + 1
+### 2025-01-29 suivi Roadmap (Benja, Benoit, Fab)
+- Klavyio : webhook activiation
+	- Krion & Clapclap!!!
+- point Probance
+	- todo :
+		- intégration des tags js probance
+		- intégration des pixels FB
+	- Fab: quelle utilisation de probance?
+		- obj 1 : animation des participants (mais pas celle de David)
+			- + retargeting (par ex relance panier)
+				- MAIS des paniers ne sont pas persistés en base
+				- email
+				- facebook
+					- intégration d'un pixel Clapclap pour animation
+		- obj 2 : remontée de revenue pour piloter les taux de transformation des emails
+- Acquisition organisateurs
+	- Paid media & Klaviyo
+- Strat'
+	- T1 : déploiement Klaviyo rapide
+		- facile
+		- mise en place d'un cahier des charges pour projet "CRM & Automation groupe" avec Hubspot (T1 2026)
+	- 1eres stats
+		- les participants de petites commandes ne reviennent souvent pas
+		- les autres si
+	- Pierre : finalement va à contre courant de ce qu'on avait dit
+		- les communications ne sont plus au nom de Clapclap pour les marques inconnues mais les marques elles-même
+- CRM - Hubspot
+	- 2025 : CRM light @ clapclap
+	- 2026 : Hubspot
+		- license : 50k / an
+		- marketing automation : 20k / an
+		- 50k investissement
+		- OUT
+			- Module CRM Krion out : donc moins de coûts (budget : 200k -> 100k)
+			- Probance out : 2k / mois
+		- prochaine démo avec Clapclap
+		- équipe emballée pour l'instant
+			- choix touchy
+			- outil de groupe qui pourrait faire passer un palier
+- TODO?
+	- offre LBF 2025 : possibles ajustements à faire notamment pour les produits avec gratuité
+### 2025-01-22 Préparation PAS (Benja, Benoit, Fab, David)
+- modèle de rétention
+	- Krion & probance
+	- avec des limites
+	- solutions + complètes à l'étude (Hubpsot)
+- acquisition
+	- assez pauvre côté DV
+	- KRION ok pour suivre des campagnes en court etc..
+		- mais PAS pour l'acquisition "eg. CSE chaud pour ouverture de CG..."
+	- possibilité d'améliorations à la marge de KRION
+- présensation David du "Masterplan Clapclap"
+- Fab : décider quelle boucle "lancée"
+- question Benoit
+	- doublement du VA en 2024
+		- == doublement nb d'organisateurs?
+		- combien d'orga ont relancé des CG? et avec augmentation du VA?
+	- Mélusine : 2023 VA moyen = 810, 2024 = 950
+- Propositions
+	- Acquisition @ Nuits (Léane ou autres)
+	- Rétention/Activation @ Nantes (Pauline & Roman)
+	- /!\ outillage CRM à développer
+- A faire tech
+	- synchro des mise en place de nouvelles offres
+	- génération des CSV de "bons de commande"
+- A faire offre
+	- identification des offres compatibles "cagnottables" pour Asso
+		- eg. Saucisson, Chocolat
+- Ne pas perdre de vue l'objectif "réel"
+	- il faut Prouver qu'il y a une inflexion dans la courbe de VA
+- Fabrizio :
+	- Pense qu'il faut VRAIMENT pousser les orgas Particulier
+	- "uberisation" de la CG
+	- Tester les PDDs
+- valider la traction sur les particuliers en 2025
+	- groupes publics, notamment pour les assos
+		- "augmenter votre nombre d'adhérents en publiant sur clapclap"
+- outillage
+	- AB Tasty
+		- 40k eur
+		- test à venir sur le Presta
+		- Point payplug : 17.000.000 eur en 2024
+	- CRM
+		- KRION n'arrivera jamais aux besoins du groupe
+		- Hubspot
+			- intégration 2026
+			- lancement du projet S2 2025
+		- à court terme
+			- Klavyo ou Lemlist?
+	- support client
+		- on maintient Zendesk & CRISP
+	- Landing page / homepage
+		- Dorik?
+### 2025-01-15 Séminaire Codir
+  - root((PAS 2025))
+	  - (Clapclap)
+		  - VBS - Vin Bière Spi
+		  - Vins
+			  - Asso
+		  - Bière
+			  - offre prépa chez Mélusine
+			  - ajouter les stocks de bière MCS
+			  - paix dieu
+		  - Communication (Léane)
+			  - tjs se présenter comme étant Clapclap
+			  - équipe mise en place à Nuits
+			  - présentiel salon CE, LBF
+			  - messages portés par la plateforme
+	  - (DV)
+		  - Vins
+			  - (Produits d'entretien)
+				  - Offre 1 : AV + Calio, Ariel
+					  - Aqcuisition faite par Clapclap
+				  - Offre 2 : Calio, Ariel
+					  - Acquisition faite par MCS
+					  - CMCAS
+				  - MCS Achète
+	  - (Site B2C)
+		  - notoriété
+		  - Shopify
+			  - 1 site / marque
+			  - 1 site multi-marque
+		  - opportunités volume...
+	  - (B2B)
+		  - Utopia / Oe
+			  - 2024 : 100.000 eur
+			  - 2025 : 150.000 eur
+		  - BiboVino
+			  - dans la sélection Vin Clapclap
+		  - boutique DV
+			  - animation commerciale des franchisés
+		  - Soufflet Vigne
+	  - (Logisitique)
+		  - Gamba / Quercier
+### 2024-12-05 Benja, Fab', Benoit, point Roadmap
+- Fabrizzio :
+	- maquettes figma pour les fiches produites
+- Suivi roadmap
+	- ...
+### 2024-12-04 Pierre, Timothée, Benjamin : Lead Gen
+- tests avec Fabrizzio pour des participants puis des orga
+	- orga : 20% de vrais leads
+- test projet Afrique
+- QUALIFICATION : problématique de qualification de leads
+	- typeform : pas aussi puissant qu'espéré
+	- donc dév de Mediatik
+		- questionnaire avec vidéos
+		- gestions de conditions
+		- création de compte Krion via API
+	- idée : créer des CGs sur Clapclap via API aussi
+		- + groupe whatsapp
+	- pas mal de déchet
+		- filtre par appel téléphonique
+		- résultat : le gros des leads seraient intéressants pour Clapclap sur des offres à 400eur
+		- pro : restaurateurs, ...
+- CONVERSION / Transformation
+	- "Ari" : Automatisation Relation Individuelle
+	- ventiler automatiquement les leads sur différentes offres
+	- modèle éco historique avec CSE -> basé sur la consommation mimétique (via le prescripteur)
+	-  LRM : Lead Relationship Management
+- obj clapclap
+	- notoriété de la marque
+		- sur les salons
+			- "spécialiste de la CG"
+			- avec qques marques phares
+		- par ads
+	- enjeux
+		- prouver qu'un client génère plus de CA en N+1 vs N
+			- eg. +120% par fidélisation et diversité d'offre
+	- NON : pas d'acquisition de clients
+	- OUI : conversion et fidélisation
+- obj D&V
+	- on doit faire mieux, + de CA que l'année denière
+		- helfrich continue de croitre
+---
+- PRIO
+	- refonte navigation
+	- interfaces Krion -> synchro group_buys
+	- interfaces Probance
+	- Asso
+	- Datalake supabase -> Azure
+	- interfaces Krion -> metadata products
+### 2024-11-21 Benja suivi Roadmap
+- teams/powerbi @mcs
+- krion
+	- lancement dev pour LBF
+		- metadata autre que celle du vin
+		- metadata dynamique
+	- à venir : remonter de ces données dans l'API Clapclap
+	- multi-société
+		- fiche client LBF + les-crus.com
+		- synchro CG de Clapclap sur ces sociétés
+	- une fois en place : prêt à recevoir les ouvertures de vente de Clapclap via l'API
+		- info
+			- groupe
+			- contact principal
+- in progress
+	- recherche : OK
+	- filtres : TODO
+- PRIO pour 03/2024
+	- High
+		- Groupes / contact principal
+			- refonte navigation
+			- migration de données
+		- API probance
+		- API krion
+	- Low 
+		- filtres
+		- co-admin
+		- cagnotte
+		- multi-site
+- PAS prio
+	- améliorations autres
+- Prospection / Getari
+	- David n'y croit pas et l'a dit à Pierre
+	- Thimotée a présenté la stack tech à Benjamin
+	- outil de gestion de leads
+		- workflow d'animation spécifique à chaque branche
+			- CIB : envoi de catalogue
+			- krion : création de fiche
+			- Communication : envoi SMS & email automatique
+				- appels loggués avec API Ringover
+				- + prompts chatgpt pour résumé la conversation & classifier
+			- Moteur de workflow "n8n"
+		- getari = seulement interface de visualisation de contact
+	- présentation à un prospect
+	- extraction de 6 faits principaux de l'IA
+	- communication multi-canal
+	- API Getari/CC
+		- remontée d'évènement clé
+			- eg. inscription
+			- eg. 1ere ouverture de CG
+			- eg. 1ere arrivée au franco
+### 2024-11-14 Benja suivi Roadmap
+- Pierre
+	- possible de vendre en Belgique?
+	- salons CSE : gros doutes sur l'intérêt d'avoir la marque D&V sur les salons
+- Constats
+	- stagnation de la vente du vin
+	- limite de reach des CSE
+		- + compliqué d'acquérir de nouvelles parts de marché
+	- comment retrouver de la croissance?
+		- D&V classique
+		- nouvelle verticale : LBF
+		- CG B2C en complément de la CG à 1000eur, avoir une autre offre avec 500eur / prix bouteille + elevé
+			- https://vin.direct = CG à 400 eur
+			- site ecommerce "classique"
+		- offre B2B : restau, hotel etc...
+	- D&V devrait rester la CG à 1000 eur
+		- engagement fort de l'orga pour faire du volume
+	- sur 6000 groupes actifs / saison
+		- 1000 groupes : 1000/1400 eur TTC
+		-  56% groupes < 2000 eur TTC (~30% du chiffre)
+	- Pierre ne veut pas baisser le franco avec D&V
+		- OK sur différentes marques
+	- nouveaux groupes : ~400 / saison en 2024
+		- B2B2C - CSE = stagnation
+		- B2C2C - particulier = pousser là-dessus via Clapclap
+			- moins d'enjeux d'être ISO avec D&V
+			- migration des petits clients actuels seulement
+	- but du jeu
+		- rendre Clapclap + intéressant et laisser les groupes demander eux-même leur transfert
+- AUTRES SUJETS
+	- stop Dynisos et Bacchus -> on se concentre du vin.direct
+	- acquisition de leads : Pierre & Timothée
+### 2024-11-06 RH Caro
+- mySilae début 2025
+- nouveau bulletin de salaire
+- Roman
+	- abo remboursement Naolib
+	- prime d'ativité - OK
+- Johann
+	- demande abo
+- augmentation : communiquer courant Janvier
+- objectifs
+	- voir avec Benjamin pour exemples
+- médecine du travail : OK
+- prime de vacances
+	- % salaire brut annuel année N-1
+		- 10% du CP
+	- il faudrait le valoriser, garder en tête que cette prime sera augmentée avec les augmentation de salaire
+	- pourquoi pas arrondir à la hausse et le communiquer
+### 2024-11-05 Benja, David -- Navigation / filtres
+- page de CG / offre
+	- homepage 
+		- mise en avant de produit
+		- bannière
+	- navigation par catégorie
+		- page pour chaque catégorie
+			- bannière -> mise en avant produit
+	- filtres associés à chacune de ces catégories
+	- navigation par univers (eg. Domaine Machin, Cuvée Truc...)
+- PDD
+	- idée
+		- Si tous les PDDs, on ne crée la CG QUE lorsqu'il y a une commande indiv
+		- Si PDDs partiels = on crée une CG par PDD sélectionné (avec date de fermeture imposée)
+		- Si pas de PDDs = on crée une CG par adresse de livraison
+### 2024-11-05 Probance
+- next step :
+	- Benjamin & Kevin mettent à jour Miro
+	- Kevin - objectif CSV 2024-12-15
+	- Customer & Transaction & GroupAffiliation : journalier
+		- historique day #1
+		- soft delete pour GroupAffiliation ?
+### 2024-10-25 Codir prépa visite annonce
+- Idée : annoncer ça aux différents groupes ~ 30 min/groupe
+	- 14h-14h30
+		- DV / sales & market (visio + tables out)
+		- Gonzague, LBF, Claplcap
+	- 14h30-15h30
+		- MANAGERS (Fabrizio et...)
+	- 15h30-16h30
+		- SI, Compta, RH, Opérations
+	- WARNING : pas de remplacement du commerce
+		- support, nouvelles verticales
+		- on ne parle pas de Vin, ce sera début 2025
+	- Présentation
+		- 2 slides LBF
+		- 2 slides Clapclap
+		- 2 slides organigramme
+- CV de David & Kevin
+	- lancement de Clapclap
+- Essai de La Bonne Formule
+	- un projet en test
+	- pas de gros changements
+	- communication du test, via Clapclap
+	- Aucun impact sur les équipes
+	- Pas d'annonce encore sur l'accélération du printemps (on attend les conclusions de fin d'année)
+	- Idée : partager le lien de la commande
+- Départ de Gonzague - départ le 31/10
+	- présentation de la nouvelle orga
+		- qui dépend de qui
+- PROGRAMME
+	- Benjamin, Kevin : Technique (2h lundi matin)
+	- Cyril, Mathieu, Pierre, David, Kevin : BP (lundi apres-m)
+	- Benjamin, David, Kevin : Roadmap produit (2h mardi)
+### 2024-10-23 Benja suivi Roadmap
+- revu roadmap clapclap
+- arbitrage prio
+- metadata
+	- proposer un format json pour échange des données
+	- récup avis "vivino" et "avis vérifiés"
+- La Bonne Formule
+	- pourquoi vouloir en faire une "marque"?
+	- "expédié par LBF" serait
+- synchro client / groupe
+	- la bonne formule
+		- Krion / ERP : enjeux de suivi des ventes & commandes
+		- animation à gérer depuis Clapclap
+	- D&V
+		- vrai besoin de synchro des ventes ouvertes pour qu'il n'y ait pas de double-animation commerciale (si vente sur Clapclap, ne pas relancer pour absence de vente D&V)
+### 2024-10-09 Benja suivi Roadmap
+- notion de groupe
+	- CSE = notion très importante
+	- eg. CSE DPR est un groupe "stable" et les élus changent mais pas le groupe
+- membre type individual / enterprise
+- logistique : 1 contact / adresse
+- contact de réception lié à l'adresse
+- SI avancée sur notion -> point d'avancement dès la semaine pro
+	- obj : avancer plus en détail sur 2/3 sujets prio à Nuits
+### 2024-10-09 Mathieu / Caroline
+- temps de travail Eurécia
+	- absence, maladie
+- pas de pointage
+- paiement des salaires
+	- sylae : fichier de virements - SEPA
+	- bulletin démat' sur Eurécia + notif
+- demande accès
+	- urssaf
+	- netentreprise
+- convention collective : SYNTEC
+	- prime vacances en Juillet
+	- version synthétique???
+- augmentation de salaire, modification de poste, modification de statut, coefficient, changement d'adresse du bureau, changement de temps de travail, temps partiel
+	- passer l'info à Caroline
+		- avenant aux contrats de travail
+- nom de l'OPCO (en cas de nouvel alternant ou formation)
+- convetion de formation Roman
+### 2024-10-07 Mathieu - Compta
+- visite médicale : est-ce qu'ils sont obligés de la faire?
+	- ou le simple fait de les notifier suffit?
+- contact compta - Cécile
+- contact paie - Caroline
+	- notamment concernant Romane
+		- augment' 20eur
+		- remboursement abo transport
+	- gestion des congés
+- contact trésorerie - Carine
+- temps #1 on continue avec Libéo
+- ---
+- TODO
+	- https://docs.google.com/spreadsheets/d/1Ljq9tggQSP8pnzvZf_qsiMISUjEvZDPFW4DFSNzxyDg/edit?gid=963721867#gid=963721867
+		- ajouter un lien vers la facture
+		- temps #2 : import de fichier txt sur Cuadra
+	- donner accès à Stripe
+	- 
+### 2024-09-25 Benja suivi Roadmap
+- livraison camion avec haillon ou pas
+	- stat?
+- LBF
+	- catalogues papier pas encore arrivés
+	- peu de communication pour l'instant
+	- retours Pierre
+		- cool : facilité de commander / navigation
+		- manque : peut-être réfléchir à une solution de découverte de produits (vidéo)
+			- production
+			- hébergement des vidéos
+	- retours Benjamin
+		- ajout de produit 1=X offerts -> possiblement confusant
+			- peut-être ajouter par step de X
+- LBF suite
+	- Probance - macro estimation ~5/10 jours
+		- visiblement les enjeux sont bien compris par Blandine
+		- complexité basse
+	- Log
+		- reprise par Gamba - Cyril est sur le sujet
+- La Grande Bascule
+	- automne 2025 : on commence à basculer des clients
+	- printemps 2026 : fin de la migration
+	- Prévision salon CSE D&V/Clapclap
+		- quels sont les points bloquants qui nous empêcheraient de basculer sur clapclap
+		- LBF
+			- pas d'animation commerciale
+			- les commandes passées sur clapclap tombent dans Krion sans connaitre le groupe
+		- pour D&V
+			- pas possible de rester sur ce fonctionnement
+			- il faudrait peut-être trouver un mapping "groupe clapclap" / "group d&v"
+			- besoin d'avoir une synchro des commandes ouvertes Clapclap / D&V
+				- pour permettre un suivi commercial / animation très précis
+	- Roadmap MCS
+		- pas mal de choses :
+			- adapter Krion & ERP pour gérer LBF
+				- ERP = facile
+				- Krion = ressource BWA, donc déblocage budget
+- Discussion Agrikolis
+- Equipe commerciaux itinérants : ~10aine
+	- objectif : # mise en place sur nouveaux CSE
+	- objectif : CA
+- étudier la possibilité de faire de l'AB Testing
+- Roadmap Communue
+	- Vente multi-site
+		- PDD = pas de minimum de commande
+		- Si minimum non atteint et que l'orga "cloture" sa vente, s'il y a des frais de port il faut les régler immédiatement
+	- groupe / multi-admin
+		- problématique similaire sur Initiative
+	- options de livraison
+		- premium : roll VS palette, présence D&V, heure de livraison, date de livraison impérative (par ex pour répondre à une problématique de location de salle)
+		- temps #1 : gestion de compte sur D&V et page vente sur Clapclap
+	- code promo sur une vente : 20 eur pour 200 eur d'achat -> en cagnotte
+		- 2.95% cagnotté du CA TTC
+	- solution de parrainage
+### 2024-09-24 Benjamin, Fab -> Probance
+- Tour de table
+	- Blandine - Probance depuis 20 ans
+		- delivery / installation des projets
+		- installation MCS
+	- Probance
+		- St-Cloud / Valence / Montréal / Tokyo
+		- 70 personnes
+	- Erwan 2 ans
+		- Suivi, récup' projet MCS
+- Intro
+	- existant
+		- datamart : import des données Krion & Prestashop
+		- permet à Fab' d'animer les campagnes
+		- spécificité des groupes d'achats
+		- D&V avec 1 commande au printemps + automne
+		- on ne touche à rien
+	- futur
+		- aimenter un nouveau datamart spécifique à Clapclap
+		- utilisateur : profil mixte orga / participant
+- discussion modélisation
+	- renommage 
+		- campagne -> vente groupée
+		- producteur / offre = 1:*
+	- intro sur les campagnes marketing en cours de dev
+	- probance : batch nocturne
+		- liste des modifications
+		- VS source de vérité complète générée de Clapclap
+		- panier : pas de panier en db
+		- relance visite, relance panier abandonné etc...
+			- script probance
+			- solution d'intégration d'un tag
+		- campagne : les dates ouverture/fermeture doivent être communes à toutes les ventes associées
+- deadline
+	- obj : animation campagnes LBF au printemps
+		- Février 2025
+### 2024-09-19 Benjamin / Metadata
+- Business Central = ERP 
+	- stock
+	- metadata : certaines infos sont nécessaires pour les douanes / logistique
+	- nouvelle société = table sociétés
+		- MCS Produits d'entretien
+	- saisie côté ERP -> synchro avec Kiron
+- Krion = CRM + PIM
+	- PIM 
+		- gestion produits & gestion offres
+	- metadata = figées et remontée de l'ERP
+	- info marketing de chaque produits
+		- très générique
+	- metadata PIM = gérées depuis Krion (si duplicate ancien produit, la +part des infos sont récupées)
+-  proposition
+	- json key/value/type
+- **TODO**
+	- format du json renvoyé par MCS
+	- réfléchir côté Clapclap comment les métadata peuvent se convertir en filtre
+		- sur prestashop : filtres = contextualisé selon la typologie de produits
+- BIBOVINO
+	- ticket dans la boite
+	- migraton chez Péguet
+	- shopify -> suivi de commande, compta, ERP, 
+### 2024-09-11 Benja, Fabrizio suivi roadmap
+- La bonne formule
+	- catalogue print : trop tard déjà parti en prod
+	- Camille envoie les images des produits
+	- David & Benoit valident le catalogue en ligne
+	- Thomas valide les adresses de livraison
+	- automne 2024 : Péguet Log
+	- printemps 2025 : Gamba
+	- société : "MCS Produits d'entretien" (et non MCS Distribution)
+	- 100% Clapclap
+		- moins de force commerciale
+		- scénarios de communication différents de MCS
+		- pas de saison
+		- animation marketing côté Clapclap
+- Probance
+	- utilisateur clapclap peut 
+		- organiser une CG
+		- être membre d'un autre groupe
+	- aujourd'hui :
+		- synchro organisateur : Krion -> Probance
+		- une interface "probance" pour récupérer les infos utilisateurs
+	- demain
+		- côté plateforme "clapclap"
+		- objectif : printemps 2025
+		- migration de Brevo -> Probance
+		- Blandine & Erwan @ probance semble prête à nous accompagner sur la mise en place
+			- Mathilde @ MCS est très forte avec l'outil (ciblage, rédaction, config probance)
+			- Equipe de Camille : studio de créa (images, vidéo)
+	- mise en avant de produit
+		- import de la base produits du Prestashop
+			- eg. retargetting panier, produits complémentaires, meilleures produits, meilleures ventes etc...
+	- acquisition organisateur
+		- mise en place de 3 scénarios avec 3 funnels différents pour qualification et mise en contact avec commercial "local" (en fonction du département renseigné)
+		- 3 types : asso, CSE, particuliers
+	- équipe fabrizio
+		- Mathilde -> emails / probance
+		- Jeanne -> réseau sociaux & ads (meta, google ads et bientôt linkedin ads)
+		- Alternante -> traffic management / SEO
+		- Alternante -> growth marketing / linkedin
+- Futur moyen terme
+	- obj #1 : automne 2025
+	- bascule client sur Clapclap -> intégration CRM bcp + poussée
+###  2024-09-11 Compta Mathieu Hugonnot
+- Inextenso très arrangeant, pas bloquant
+- déclaration TVA juillet/aout (avant le 24)
+- FEC (fichier écritures comptables)
+- Paie aussi
+- signature : en cours, il y a eu problème de compréhension sur le cashout des 50k -> 50-50 vs 60-40
+- Sodéro : acte de cession, à relancer
+- holdings
+	- quel type : SASU vs EURL
+	- à étudier : si les actions MCS doivent être liées à la holding plutôt qu'en perso
+		- perso : si cashout fiscalité + haute
+	- déroulé
+		- échange de MCS group
+		- création de holding
+		- mise à jour du KBis avec holdings en mandataires de clapclap
+		- transfert parts MCS -> holding perso
+		- transmission
+			- démembrement : usufruit & nue-propriété
+			- donation de la nue-propriété?
+	- coûts
+		- création : ~1200 eur (frais inclus)
+		- chaque opération juridique
+			- commissaire aux apports ~1000 eur + ~1500 eur
+		- compta, bilan, secrétariat juridique annuel : offert
+	- SAS vs SARL
+		- quel est le statut : 
+			- président SAS
+				- 1000 eur net -> 1300 eur brut + 40% charges patronales = 1800 eur
+				- avantages :
+					- mode de fonctionnement : assimilé salarié, pilote auto
+					- URSAFF : + compliqué
+						- 1ere année, accompte et régularisation
+						- après on est ok, modulation de cotisation
+					- + simple (caisse de retraite etc...)
+					- fiscal
+						- optimisation rémunération & dividendes
+						- rémunération minimale
+						- + dividendes n'est pas socialisés, flat-tax 30%
+			- gérant SARL
+				- optimisation de rém (travailleurs non salarié, assimilé salarié)
+				- URSAFF des indépendant
+				- mandataire social
+				- 1000 eur net -> coût = 450 eur (URSAFF + autres (loi Madelin))
+				- case URSAFF dès qu'on se paie des dividendes
+				- capital social minimum : 1000 eur
+				- 10% dividende sans charge social
+- mise à jour du BP
+	- les augmentations de rem' 2025 changent la gueule du BP
+### 2024-09-05 Benja, Pierre mise en place PDD
+- B2B2C
+	- création de lead via Facebook
+	- créer un maximum de regroupeur
+		- renvoi sur Domaine & Village ou La Bonne Formule
+- La Bonne Formule
+	- test avec 2 CMCAS
+	- Pierre : on ouvre tout
+- rappel fonctionnement PDD
+	- 3 types : Agrikoli, La Poste, Réseau "National Box"
+	- Agrikoli
+		- intégration logistique complexe
+		- envoi de code barre etc...
+		- interfaçage via Gamba
+			- Gamba envoie les numéros de colis directement avec Agrikolis
+	- La Poste
+		- on ne livre pas directement aux points relais
+		- on livre sur un hub La Poste qui ventile eux-même
+		- solution : La Poste viennent eux-mêmes chercher les colis de Gamba vers les points
+	- Réseau "National Box"
+		- facile : on envoie les palettes chez eux nous-même,
+		- limitation du nombre de palettes
+		- MAIS pas d'interfaçage système
+	- Conclusion : problématique d'intégation côté Logisticien
+- PIerre
+	- déjà un pool d'acheteurs indiv
+		- idée = insiter à passer commande groupée, mais ne pas refuser de commande indiv
+	- Calcul du franco
+	- Calcul du prix du carton
+- Site La Bonne Formule : dépriorisé
+- Page offre / CG
+	- header : image statique -> vidéo
+- Fonctionnement Map Mélusine
+- Franco : 1200 eur
+- !!!!!!!!!!!! PROBLEME : Gamba ne sera jamais prêt à très court terme !!!!!!!!!!!!
+	- projet remis au Printemps
+- discussion avec Benja
+	- **synchro entre les 2 systèmes**
+	- mise en place de la notion de **groupe**
+- catalogue pour salon CE Nantes : qui gère les offres (Laure-Anne out)
+### 2024-08-27 Benja suivi roadmap
+- **prio** : préparation **La Bonne Formule**
+- Fabrizio
+	- liens direct produit dans les newsletters, donc lieu de livraison déjà choisi
+	- dans probance : email lié à un regroupeur
+	- question : quel est le résultat de ce genre de campagne
+	- idée : s'inspirer des magazins grands enseigne (eg. carrefour)
+	- page campagne
+	- fiche produit
+		- page ou URLs pour modale
+- probance
+	- point à venir pour gérer une base clients multi-offre
+		- code boutique "vin"= XXX & code boutique entretien = YYY
+- roadmap clapclap
+	- messagerie in-app pour tous
+	- backoffice v2
+		- fournisseur
+		- force commerciale des fournisseurs
+- roadmap "La bonne formule"
+	- prépa commande - export CSV
+		- Identifiant chiffré pour facilitation de la communication en interne
+	- marchandise reçue
+	- date lancement campagne : mi-septembre / début octobre
+- demande de Pierre
+	- affichage prix barré, prix public
+		- "économiser 40 eur"
+		- + total économiser sur le panier
+		- comparer avec des affichages de %age de réduction
+- bascule Clapclap
+	- gros enjeux / besoin d'outils d'animation commerciale
+	- 2 options
+		- backoffice Clapclap
+		- utilisation du CRM MCS (Krion)
+- Fiche produit
+	- modif 2024 :
+		- prix unitaire de chaque produit au sein d'une offre
+		- ajout du détail produits au sein d'un coffret
+### 2024-07-12 codir
+- **Projet produits d'entretien**
+	- nom projet : "La Bonne Formule"
+	- 35 produits destockage
+	- 10 produits indus
+	- Cyril : logistique
+		- tout se passe sur clapclap
+		- bon de préparation
+		- point à discuter pendant le séminaire
+	- dépôt de marque en cours
+	- tarif
+	- stratégie D&V : site vitrine avec prix ref
+	- obj
+		- dernière semaine d'aout catalogue
+		- 1ere semaine de septembre : si internet pour justifier les prix (prix de ref) "la bonne formule" B2C (Shopify?)
+		- tout ou partie de ces produits sont commercialisés sur clapclap
+		- Marc: graphiste packaging produit
+		- moyen terme : publication sur Amazon
+	- destockage
+	- marque blanche : fausse bonne idée
+		- "la marque en moins"
+		- bcp de bruits, bcp de concurrence, les produits se ressemblent tous
+		- d'où l'intérêt d'avoir notre propre marque
+		- justification de "non connaissance de la marque" : ce sont des marques pro
+			- Mash (pro, plus : Ariel, green : Xtra) -> trop grosse proximité avec Dash, ça ne marche pas
+			- Calio : lessives
+				- 5 produits (5L, 3L, 1.85L)
+			- Netwash : gammes de produits transversal (sol, dégraissant, vaisselle, etc...)
+		- "efficacité professionnel au service des particuliers"
+	- stratégie "gratuité"
+		- 19 eur -> 7.50 eur (prix de "Touhais Distribution")
+		- 29.99 eur -> 1 acheté, 2 offerts
+		- 39.90 eur -> 1 acheté, 2 offerts
+		- mais communication basée sur "vente en lot"
+	- clapclap : mise au panier : ajout d'1 produit, 3 ajoutés au panier (démo deliveroo)
+	- matière sèche VS produit
+	- montée en gamme
+		- concentration
+		- basse température (20° = économie d'énergie)
+	- 1 référence = 20k eur à produire, 5 ref = 100k eur
+		- 3L = plus cher parce que + de matière sèche
+	- 75k d'achat de destock
+	- ~175k de produits propres
+	- obj : 500k de chiffre d'affaire
+	- test
+		- avant & sans catalogue
+		- 10.000 catalogues envoyés chez VPR(?)
+		- 1 bout chez D&V, 1 bout chez Clapclap
+		- obj de livraison en même temps
+		- cible bien supérieur au vin avec la lessive MAIS panier moyen sans doute plus petit
+			- 100 eur / panier = déjà très bien
+			- obj même chiffre d'affaire qu'avec le vin
+	- marge
+		- destock : 25%-40%
+		- indus : presque 50% pour certains produits
+	- on peut tout faire en strat', important d'être cohérents
+	- dépôt de marque : Sepalopac, Marc : graphisme
+	- stratégie interne
+		- les équipes MCS ne sont PAS impliquées
+		- recrutement alternante commerciale
+		- phase de test : projet isolé (par ex : pas de Business Central)
+			- il faut bcp d'agilité tant qu'on n'a pas encore validé l'idée
+			- gestion de stock :warning:
+				- shopify stock TRES limité, le reste sur clapclap
+	- problèmes internes
+		- certains départs, taupes qui ont partagé des choses avec Helfrich?
+			- Avantage par rapport à Hellfrich : rapidité d'exécution
+- **Stratégie Marketing digital**
+	- chèque cadeau : fausse bonne idée
+	- amélioration du site => meilleure conversion
+		- 40% automne -> 45% printemps
+	- retargeting sur des ads = ok
+		- obj retargetting : 1.500k eur
+	- le SEO amène aussi des commandes B2C
+	- Lead B2C : projet **Dyonisos** (équivalent search-map)
+		- obj: doublement du CA (35k -> 70k)
+	- Base de données "froides"
+	- Test V&B
+		- efficace
+		- mais TROP de freins (désorga interne, directeurs qui freinent pour tout)
+		- mise en place d'un autre partenariat
+		- achat d'une boite?
+		- Axe de dev
+			- recheche nouveaux PDD auprès de nos clients
+			- il faudrait savoir isolés les cohortes de participants
+				- "au bout de combien de fois on transforme un prospect"
+	- Ads
+		- meta & google performance max
+		- augmentation de google performance max
+		- 800k eur revenu
+			- ⚠️ redondant? 400k
+		- meta 
+			- 1/2 des leads -> Bacchus - direct?
+			- 1/2 des leads -> nouveaux participants dans leur entreprise
+		- 2/3 = clients existants, 1/3 nouveau
+			- obj : mise en place de flux différents "nouveaux VS existants"
+				- discours différents : "retourne voir ton regroupeur" VS "viens chez nous"
+- **Obj produits d'entretien Automne 2024**
+	- SMCAS : base de 20k email froids à tester via Probance
+		- électriciens / gaziers
+	- re-targetting : MCS fournit le contenu et Clapclap met en oeuvre
+		- mise en place d'un pixel
+		- qui anime les campagnes?
+		- scénarios Probance à mettre en place
+		- privilégié **meta** pour le re-targetting
+		- complexité sur clapclap : multi-target
+		- important de tracker les personnes qui ne se sont pas inscrites pendant une visite
+			- communication MCS Vin et Produits d'entretien
+			- communication Clapclap sur l'expérience
+	- DPR???
+	- Vente flash?
+		- eg. pendant 48h remise encore + forte
+		- conversion pauvre, mais génère bcp de traffic
+	- communicatoin restreinte à CMCAS pour discrétion
+- **Obj Automne 2025**
+	- tout passe par Clapclap
+	- bascule clients T2 sur clapclap
+		- aucun enjeux à basculer les T1
+		- il y a qques spécifités pour certains grands comptes à adresser avant bascule
+	- discussion logistique : limitation Gamba
+	- génération de lead B2B2C
+		- ubérisation des commerciaux (en remplacement de D&V)
+- **Projet incubateur**
+	- WAAAAAAAT
+### 2024-07-03 Benja suivi Roadmap
+- Peguet logistique : nouveaux entrepots
+- Déménagement équipe commerciale Beaune -> Nuits St George + Chalon
+- présentations
+	- Amplitude
+	- Ventes publiques
+		- discussions ventes publiques DV vs Clapclap
+	- Catalogues populaires / sélection / multi-marques
+	- retour utilisation messagerie in-app
+		- DV : solution "similaire" en test/dev
+- roadmap des prochaines semaines
+- retour présentation ABTasty
+	- il y a bcp de possibilités
+	- 25€ / an, achat en ligne en hausse -> donc si +5% = 700k€ potentiellement intéressant
+	- enjeux : augmenter le nombre de participants aux commandes
+		- facilité la prise de commande
+		- comment convertir un participant en organisateur
+		- captage d'email + animation
+### 2024-06-19 Benja suivi Roadmap
+- animation
+	- suivi de chaque commandes VS année passée
+	- "téléphone pour comprendre les pbs"
+		- animation organisateur
+	- animation commandeur (email réguliers)
+- solution = probance
+	- dev sépcifique pour faire des cohortes/listes d'envois spécifiques
+		- date début/fin de campagne etc...
+		- intérêt : marketing = indépendant pour faire l'animation
+		- date anniversaire, date dernière commande = simple
+		- mise en avant de produits à des dates spécifiques = + complexes
+	- warning
+		- intégration complexe
+		- très orientée "mono offre"
+- mass mailing piloté par le business
+- BREVO 
+	- eg. "scénario j-3 à envoyer à tous les commandeur tag=laposte"
+- sujet Parrainage
+	- test bannière
+	- refus des orga CE : CG = pour les salariés, mais pas ok pour les commandeurs qui ramènent leur famille
+		- pb : sujet du volume
+		- ou : association avec adhérents payants (donc les non-adhérents ne peuvent pas accéder aux CG)
+- ---
+- résumé
+	- roadmap Clapclap
+		- Animations
+		- Backoffice v2
+		- commande pour autrui
+		- instructions retrait
+	- roadmap MCS: 
+		- CRM : productivité - outillage animation des commerciaux
+			- suivi regroupeur
+			- appel, refus, qualification des motifs de refus pour rappel postérieur
+			- partenariat V&B -> produits MCS livrés dans les V&B
+				- 8 magazins seulement
+				- et peu de contacts : seulement les buveurs de bière
+				- "foire au vin virtuelle"
+		- refonte expérience regroupeur
+			- focus "viralité"
+### 2024-06-12 - Mathieu H. Budget Clapclap
+- signatures BSA-Air : obj 30/06
+- banques
+	- changement d'associé -> accords signés des banques "renonce mise en oeuvre exgibilité du remboursement anticipé"
+- Novapuls
+	- renonce aux BSA - décalage décaissement de tréso
+	- possibilité de mise en place d'un échéancier - négo 1 ou 2 ans
+	- obj facilité de paiement pour la tréso
+	- proposition : 2000 eur / mois pendant 1 an à compter du 01/2025
+- compta
+	- fichier écriture comptable - fec
+- suivi compta / BP
+	- nombre de commandes en live
+	- X versions du BP affiner régulièrement (point au 30/06 - mi-année)
+	- charges variables importantes
+		- transport (achat et revente)
+		- stockage
+		- prépa commande
+		- taux de marge et EBITDA
+- marché
+	- saison printemps 2024 
+		- offres "Cloitre St Martin"
+			- 2.99 / bouteilles
+			- contraintes : 3 cartons / personne, 1 palette mini (~800 eur)
+	- achat de vin
+		- courtier -> échantillon -> dégust -> lot bon / besoin -> achat
+			- 1/2 = référence suivie (= fonctionne bien)
+			- 1/2 = achat d'opportunité
+				- cessation d'activité, rachat du stock
+				- déstockage
+				- spéculation à la hausse : les viticulteurs ne vendent pas forcément tout de suite
+	- achat bière
+		- totalement différent - production industrielle
+	- bière @ clapclap
+		- opération wiismile 
+			- catalogues b&v de MCS
+			- saucisson
+			- Ninkasi
+			- madeleine ?
+			- mise en avant
+		- vendredi 14/06 : rdv Néodif avec de bonnes marques
+			- ambitions?
+	- lessives
+		- destockeurs
+		- mise en place d'une marque propre
+		- internalisation de la logistique = obligatoire à moyen / long terme
+			- livraison = sujet clé pour le repeat
+### 2024-06-04 - Kevin @ Nuits
+- animation
+    - mesure pour savoir ce qui se passe
+    - relance
+- 300/400.000 eur de CA
+    - combien de commandeurs / regroupeurs
+    - X visites
+    - X commandes
+    - animation = clé pour que le projet soit un succès
+        - si pas d'animation, pas de commande
+- retro planning
+    - construction d'une offre pour mi-juillet
+    - catalogue papier mi-septembre pour prise de commande en ligne?
+        - tests à mener
+            - client ville
+            - client campagne
+            - client sans catalogue
+        - client bien connu, on peut comparer l'attitude des commandes VS vin
+    - client historique : CMCAS EDF (15.000 personnes)
+    - fin de commande fin Octobre
+        - livraison fin Novembre (prépa 01/11 - 15/12 max)
+- a priori pas de sujet
+- animation ultra importante
+    - relance J-1, J-3
+    - période de validité de l'offre, mais l'orga décide de ses dates de fin de commandes/campagnes
+- important de mesurer l'état des CG
+    - pour pouvoir lancer d'autres CGs avec d'autres clients
+- RGPD
+    - DPR fournie une liste de contacts avec accord d'intégration sur clapclap
+    - critère de sélection clients : il faut qu'ils soient d'accord
+    - sujet "opt-in" clapclap/MCS
+        - les db de contacts doivent être partagées -> OPT-IN à modifier
+- :warning: pour l'animation
+    - pour l'instant on n'envoie pas de SMS aux "commandeurs" (mais oui "regroupeur")
+    - :warning: attention pour les gros groupes : il faudra gérer l'envoie différemment
+    - TODO : retravailler le contenu des emails
+        - @david envoie le contenu des emails envoyés
+            - @benoit fournit des versions "corrigés" à intégrer
+        - idée : avoir une solution pour tagguer les produits qu'on peut intégrer dans les emails de relance
+        - On teste les j-3 + j-1 format "D&V" pour la campagne Vin Wiismile
+    - taux d'ouverture de la newsletter, taux de conversion du tunnel d'achat
+- ouverture nouvelle mercuriale aux regroupeurs Clapclap existants
+    - mise en avant sur l'annuaire de catalogues
+- :warning: il faut mettre des frais de franco bas
+- PRIO BENOIT
+    - animation
+    - suivi des conversions
+    - redirection de la page profil vers la vente en cours S'IL n'y en a qu'une
+        - idée : lien "profil+ID-catalogue" : si vente du catalogue en cours alors on redirige
+- sujets conversions
+    - marketing automation : Probance
+        - module "probance" sur Prestashop
+        - taux d'ouverture, de clic etc...
+        - ET taux de conversion d'un panier (eg. achat j+7 après envoi de mailing alors on associe l'achat à la campagne)
+        - :warning: ce n'est pas de la science exacte : les campagnes google et facebook peuvent aussi s'attribuer l'achat
+    - google analytics
+        - remettre en place
+        - mise en place des taux de conversions, mise au panier
+        - TRES orienté "commandeurs"
+    - sujet "acquisition regroupeur" en cours avec refonte du site "D&V"
+    - portail organisateurs
+        - Matomo (pas Analytics)
+            - est-ce qu'il partage son lien de CG
+            - est-ce que les mails sont bien partagés
+        - pour l'instant c'est très manuel, le parcours client orga n'est pas facile à comprendre, franco élevé
+- Partenariat avec LA POSTE
+    - Gestion de projet : S.I Benjamin, Ludo commercial
+    - intégration du réseau de PDD sur Clapclap?
+    - livraison de palettes sur des centres de tri La Poste
+        - distribution sur les PDD de La Poste
+    - ~800 PDD mais qui ne sont pas tous actifs
+        - activation d'un PDD = temps long
+    - animateur indépendant
+        - date fixée à l'avance
+        - PDD choisi
+        - envoi de SMS aux commandeurs pour récupération
+    - pas possible avec n'importe quel fournisseur
+        - contraintes fortes (eg. format d'étiquettes (4R), colissage etc...)
+        - intégration profonde avec échanges EDI
+    - facile d'intégrer de nouvelles mercuriales sur ce modèle
+    - PDD : idée initiale "mettre chaque Français à moins de 15 min d'un PDD"
+- Destockage
+    - destockeur agréé "L'Oréal Mass Market"
+        - la foire fouille, stockomanie
+    - qques produits MDD
+    - intéressé : le modèle est marrant
+        - n'adresse pas encore les CE et donc intéressé
+    - exemple d'une commerciale qui vend pour 10k de produits / mois directement chez les CE
+    - liste de MDD : contact Belge, Espagnol et Français
+    - 15M de CA (10 salariés)
+    - carré / propre
+    - catalogue Clapclap
+        - listing / participants
+    - :warning: attention au stock!
+- e-commerce?
+    - mise en avant des produits
+        - exclu web, promo -> différents outils marketing
+        - cross selling
+    - il faut surveiller et améliorer le taux de transformation
+    - panier moyen individuel bcp plus faible sur Clapclap
+        - 120€ cc VS 200€ D&V
+    - à intégrer dans la roadmap
+
+---
+#### TODO
+- emails - nouvelle version
+    - j-1 j-3
+- gestion de stock -> vérif que c'est bien en place
+### 2024-05-13 - Pierre & Benoit
+- chaine de valeur
+	- industrie
+		- CIBLE
+	- marques (qui produit ou fait produire)
+	- grossiste (optionnel)
+		- supply chain
+	- distributeur
+		- si on s'arrête là on prend 10% de marge
+	- consommateur
+- orga cible / fonctionnalité CC
+	- offre + supply chain
+- Question : pourquoi l'offre D&V ne fonctionne pas?
+	- pas de marketing digital, les marques opèrent la force commerciale
+- rôle Clapclap
+	- customer success
+- projet "produits d'entretien"
+	- mise en place d'une force de vente
+	- on ne mentionne jamais D&V, Clapclap fera le lien vers D&V via le Customer Success
+	- 1 - force de vente terrain lève de nouveaux clients
+	- 2 - Clapclap lance la 2eme offre (D&V ou autre)
+- besoins
+	- 2024
+		- saisie d'une commande indiv pour qqu'un d'autre
+		- tech : supply chain
+		- récup des bases de données CE
+	- 2025
+		- marketing digital
+	- BESOIN du catalogue papier -> le catalogue fait venir le client sur le site
+		- élaboration de différents scénarios et tester
+- offre produits d'entretien
+	- élaboration de l'offre avec David -> aller voir les industriels
+	- 50/70 références max dans un 1er temps
+	- pourquoi cet univers?
+		- taux de pénétration très fort
+			- 85% des salariés MCS ont passé commande
+		- très agressif sur les prix
+		- grille de prix
+		- pas de DDM (date de conso)
+		- préparation simplifiée
+		- dimension RSE -> rechargeable
+		- et tout le monde en stocke
+		- avantage prix
+- offre D&V
+	- bloqueurs
+		- minimum de commande 1000 eur = trop!
+		- supply chain : livraison à 28 jours
+	- campagne automne
+		- bières
+			- problème = les marques
+		- soft
+- OBJECTIF Septembre 2024
+	- livraison sous 10 jours max
+	- lessive
+	- bière et soft
+- discussion abonnement pour franco gratuit
+### 2024-04-15 - rédaction protocole
+- AG aggrégation de BSA AIR
+	- "vous vous portez fort par l'apport des bénéficiaires"
+	- 1 - AG extraodinaire "augmentation de capitale" -> conversion des BSA AIr en action
+	- 2 - ...
+	- sujet "pré vs post"-money
+- rémunération
+	- montant : maintient rémunération actuelle 2024
+	-  42% charges patronales + 22% charges salariales
+		- TNS -> 35-45% de totales de charges (VS 64%)
+	- pas de bonus, pas d'incentives -> grille de rem'
+	- pas de dividende (LBO ou dividendes...)
+- calendrier d'ici 2025-10
+	- 2024-09 -> 1ers résultats multi-verticale
+	- séquensage : 500k
+- conditions supensives
+	- convertion BSA air > actions réalisés
+	- banques ont confirmé que rien ne change après cession
+		- WARNING contrat de prêt : clause standard de changement de contrôle
+- conseil de surveillance
+	- gourvernance de groupe
+- gouvernance
+	- secret absolu que Clapclap rejoint le groupe
+	- verticales à adresser
+		- parfum d'Europe (société Parfum direct)
+			- LBO 2025? -> cession majo à Naxicap
+			- build-up "MCS / Parfum d'Europe (CA 50M / 9M Ebitda vs 60M avant) / Produits d'entretien"
+				- univers de la voiture
+				- Produits d'entretien -> caveillant??
+			- produits d'entretien récents : 2M 2024, 5M 2025
+		- volume : 3M semestre (5M sur 1 année) de VA qui passent sur Clapclap (obj. printemps 2025)
+			- mise en place d'une nouvelle force de vente "nouvelle verticale"
+			- déclenche le passage à la rem' supérieure
+		- stratégie Marque Blanche & destockage (eg. soldeur)
+- stratégie
+	- conditionnement -> poche biodégradable Villefranche
+	- sur les commandes longue durée : besoin de mettre en place des promos
+	- produits d'entretien
+		- marque dégriffée, bio, pro, etc...
+- Helfrich sur Clapclap?
+----
+- todo
+	- lettre de mission
+	- grouvernance?
+	- maj SIRET
+	- AGE
+		- bsa air
+			- cession
+			- adhésion pacte mcs
+			- 
+	- banques + BPI -> notifier et vérifier qu'elles sont ok
+	- demander à Novapuls "accord de renonciation à conversion de leur BSA Air"
+	- LPN : vérifier s'il y a caution et qui est caution
+	- faire signer doc "loi Amont" aux salariés (Fidal / 2nd temps)
+	- demander absence de nantissement à Quentin (Fidal)
+- --- 
+### 2024-06-03 - prépa signature
+- conversion BSA air en action -> ASAP : obj fin du mois
+- accord écrit de renonciation de la mise en oeuvre de la "clause d'exigibilité anticipée du prêt" des établissement bancaire (BNP, CM, BPI)
+	- protocole à fournir
+- Audits : partage drive
+	- emprunts : contrats de prêts à fournir?
+	- CII : partagé doc skoaz
+	- contrats de travail
+	- contrats client ou fournisseurs
+	- audits tech - à voir avec Benjamin
+- Sybil & Inextenso : courant Aout/Septembre
+	- fournir la lettre de mission d'inextenso
+---
+- nouvelle offre septembre 2024 : produits d'entretien
+	- mise en place d'une équipe prépa commandes / logistique
+	- étiquette imprimables pour commande individuelle
+	- obj : 30% de marge brut puis 45% de marge
+	- (-) PAS de mise en place WMS sur différents entrepots
+
+### 2024-04-03 - discussion cession
+- doutes / craintes
+	- pérennité : engagement 2 ans
+	- objectif commun : monter une structure égémonique
+		- structure universelle de CG en entreprise
+			- avec plusieurs verticales (boisson MCS, parfum d'europe + 2/3 autres verticales à déterminer)
+			- catalogues avec grand nombre de produits (250 MCS, 20000 parfums)
+				- moteur de recherche
+			- STOP salon - stealth mode
+			- ajouter des services?
+				- billeterie?
+			- pas d'obj de renta à court terme
+			- obj : 09/2025 pour sortir du bois
+		- développement plateforme et développement de l'offre
+- base de LOI de l'année dernière
+	- semaine 15
+	- craintes et objectifs
+- concurrence
+	- gr.app
+	- up? sans doute pas
+	- Helfrich
+- bascule Clapclap
+	- tous les clients ne basculeront pas
+	- obj : masse d'utilisateurs & d'offres
+- craintes
+	- rétributions
+	- ambiance, entente, distance
+- verticales
+	- chocolat - prod, logistique
+- la suite
+	- LOI -> protocole -> ?
+		- rdv sur place 1 ou 2 journées pour rédaction protocole
+	- due diligence
+	- direction du projet
+- vision, fonctionnement, etc...
+	- accompagnement? "fly the nest"
+### 2023-07-07 - PDD et campagne rugby #2
+- D&V
+	- PDD nécessaires si on travaille avec les "sous-clients"
+	- PLV ?
+		- 3000 catalogues à imprimer
+	- pas de bascule de certains dossiers vers Clapclap
+	- obj : 600k de nouveau CA (~300 commandes)
+		- bascule des anciens clients "manuels"
+	- montée en charge sur les PDDs
+		- obj : couverture national
+			- 80% population a accès à un PDD à 20 min de chez elle
+			- agri-colis, la poste
+		- définition PDD : 1 lieu + 1 date
+		- pour l'instant : essais locaux
+			- qques 100-aines
+			- Grand-ouest : commandes des ACEFs
+- Rugby : on maintient avec lancement Septembre
+	- Nouvelle-Aquitaine = envoi les db (mais arivée trop tard)
+	- commerciaux repartent en guerre fin-aout
+	- PLV bouclée
+### 2023-05-22 - rugby #1
+- commande groupée via clapclap en Septembre
+- ligues Occitanie & Nouvelle Aquitaine
+	- 800 clubs / 1800 en France
+	- en charge des communications
+	- direct aux licenciés pour 1 des 2 ligues
+		- via les clubs pour les autres
+- facturation cagnottage
+	- wallet de MCS @ clapclap
+	- émission d'une facture au nom de l'asso
+		- sans HT parce que pas assujétie à la TVA
+	- ajouté le logo du fournisseur
+	- problème HT vs TTC
+	- petit problème sur la relation Asso
+		- gestion cagnottage = MCS?
+### 2023-06-07 - intégration API
+- [ ] @kevin
+	- [ ] APPELS de test pour commandes indiv
+- [ ] @benjamin
+	- [ ] vrais produits : noms OK, mais pas de visuels ni de description marketing
+	- [ ] valeurs possibles pour 
+		- [ ] packaging : Lot, 
+		- [ ] content : Lot, Bouteille
+		- [ ] ...
+- [ ] Offre
+	- [ ] ERREUR si l'offre n'existe pas
+	- [ ] drivé par un `external_id`
+### 2023-05-24 - intégration API
+- produit individuel :
+	- quantity 12, 24, 36
+		- mcs : contentQuantity
+	- prix unitaire (bouteille)
+- produit offre
+	- contentQuantity : 1
+	- 1 lot = 31.80
+	- prix global / quantity
+- on envoie tjs le "Prix_HT_CG" & "Prix_TTC_CG"
+- pb pour le calcul de la TVA pour les lots
+- :warning: il faudra stocker le prix TTC ET HT
+- Offer
+	- nécessaire? peut-être mieux de le faire manuellement
+		- en cas de changement de modèle de données
+- API product / offer_produts
+	- Active : true / false -> en cas de rupture
+		- si changement de dispo en cours de commande, c'est MCS qui gère
+	- UN et un seul produit
+- WARNING
+	- notification de la date de livraison
+		- solution : au moment de notifier Gamba, notification Clapclap aussi
+- TODO
+- [x] @benja exemple de produit
+- [x] @kevin prépare authent' api
+- [ ] @kevin prépare api produit
+- [ ] @kevin prépare api clôture de CG
+- [ ] @kevin prépare une offre de test en pre-prod
+	- [ ] 3102 3202 ...
+- [ ] @kevin
+	- [ ] maj des appels commande indiv
+		- [ ] prix HT
+		- [ ] quantite
+### 2023-05-15 - Benjamin - touch base
+- actu business
+	- 2 semaines encore
+	- dépasser l'an dernier today
+	- marketing : probance -> scénario de relance
+	- commerce : offre spécifique fin d'année
+		- gamme effervescent - sprite :)
+- liste définitive produits
+	- préparation de l'offre
+- nouveauté chantier marketplace?
+	- izberg
+		- présentation de l'accompagnement transfo site écommerce -> marketplace
+			- Pierre intérêt structurant
+			- IT = petit sujet
+			- aller chercher des vendeurs, producteurs
+			- pas une marketplace classique
+				- expédition en CG
+				- regroupement de commandes
+		- ~15/20 jours de conseil
+			- validité du Business plan
+			- SWAP -> risque d'y aller ou pas
+			- proposition et décision à venir
+		- expertise, sans doute un peu biaisé
+			- mais intéressant d'avoir leur point de vue
+- DEMO 22/05
+	- Diane sera là?
+		- mutation étranger
+-  @TODO
+	- update PartnerID
+	- test "order individual"
+	- test avec "vrais" produits de test (product.id)
+### 2023-05-04 - Benjamin - touch base
+- actu business
+	- 2 semaines encore
+	- dépasser l'an dernier today
+	- marketing : probance -> scénario de relance
+	- commerce : offre spécifique fin d'année
+		- gamme effervescent - sprite :)
+- liste définitive produits
+	- préparation de l'offre
+- nouveauté chantier marketplace?
+	- izberg
+		- présentation de l'accompagnement transfo site écommerce -> marketplace
+			- Pierre intérêt structurant
+			- IT = petit sujet
+			- aller chercher des vendeurs, producteurs
+			- pas une marketplace classique
+				- expédition en CG
+				- regroupement de commandes
+		- ~15/20 jours de conseil
+			- validité du Business plan
+			- SWAP -> risque d'y aller ou pas
+			- proposition et décision à venir
+		- expertise, sans doute un peu biaisé
+			- mais intéressant d'avoir leur point de vue
+- DEMO 22/05
+	- Diane sera là?
+		- mutation étranger
+-  @TODO
+	- update PartnerID
+	- test "order individual"
+	- test avec "vrais" produits de test (product.id)
+- offre : 
+	- produit individuel avec prix à la bouteille
+	- lot : 
+		- type offre
+			- 1 = 2 (2 x Vin 1)
+			- 1 + 1 (vin AOP + VdF)
+			- 1 = 3 (3 x Vin 1)
+		- packaging "lot"
+- 25k client finaux, 115k prospects dont actifs/vérifiés
+- queues
+	- réponse 200 tout le temps
+	- futur : callback de controle post-process
+- enpoint commande indiv / achat
+	- missing :
+		- orderAmount + amountLine
+	- :warning: quantity : nombre de bouteille pour les produits "bouteille", nombre de lot (1 en général) pour les lots...
+- Payment
+	- Lemonway : 1500 eur / mois abo + 1% commission
+		- 6/7M eur / an
+		- interfaçage avec les flux B2C tiers existants
+			- eg. Décathlon
+		- frais de gestion KYC
+		- <> aggrégation -> 20M / volume annuel
+- Marketplace :
+	- Izberg : proposition d'accompagnement et mise en place 
+	- Mirakl : semble très bien, mais très cher (salon Mirakl)
+		- 15k / mois de licence
+### 2023-04-14 - Benjamin - PIM, prépa campagne
+- Veille outils
+	- PIM - Kwabel, Akeneo
+	- Marketplace -> pousser vers chez nous
+	- mais aussi diversification de catalogue
+	- et segmentatoin d'offre via Clacplap
+		- Marketplace : Iceberge, Mirakl, Wisaplace
+		- PSP : Stripe, Lemonway
+			- Stripe : 1.5% + 0.25 cents (négo à partir de 60k?)
+- Campagne "Je peux pas j'ai Rugby"
+	- 3 produits bières
+	- destination clubs
+	- external ref
+	- API
+		- commandes individuelles pour la gestoin de stocks
+			- avec adresse de livraison de la CG
+		- fermeture de CG
+			- appel REST avec clé d'authent
+- Next
+	- Benjamin envoie la doc à Kevin
+### 2023-02-16 - Benjamin & Pierre - brainstorm "le club"
+- verticale vin avec plusieurs providers
+	- jusqu'à 1000 ref
+		- système de gestion de filtre/recherche
+		- critère ala Ankorstore
+			- grosse remise / meilleure promo
+	- idée : on filtre par geo-ip
+	- on ne laisse pas le regroupeur choisir ce qui est dispo dans l'offre
+- univers positionnés à la netflix
+- 1- le bon plan, 2- le petit prix, 3- le local
+- parallèle rue -> boutiques independantes et intersport (d&v / casual) & galerie lafayette (luxe, marques haut de gamme)
+- obj 2024 : bascule des regroupeurs existants sur clapclap
+- roadmap
+	- phase 1 : 1 offre = 1 marque
+	- phase 2 : 1 offre = multimarque
+	- restriction d'accès offre
+		- accès public
+		- accès privilégié -> url = accès
+		- accès privé -> 
+	- espace regroupeur
+		- calendrier/planning de CG
+		- mes commandes
+		- stats
+		- liste des sous-clients
+		- @benjamin nous donne accès à l'espace regroupeur de test
+	- espace producteur
+		- api
+		- maj des catalogue
+		- prix public / prix remisé
+			- ! warning ! _DGCCRF_ -> justifier le prix public annoncé
+			- @d&v se renseigne sur les enjeux légaux
+				- responsabilité du producteur
+- offre
+	- base : 8%
+	- supply : ??% + coûts fixes de préparation
+### 202 2-12-07
+- Offre -> fournisseur
+	- id, name, description, startDate, endDate, franco, logo, banner
+- Product
+	- id -> **external_id**
+	- reference (position dans le catalogue papier -> position)
+	- offerId, active (bool)
+	- univers (-> famille)
+	- prix HT vs TTC (pas tjs la même TVA)
+		- non quand étranger -> seuil 10k tout confondu en Europe, lorsque seuil dépassé = TVA de pays de destination
+		- réévaluation des prix étrangers pour frais de port + droits d'accise
+		- possible solution? -> avoir une entité dans chaque pays avec les prix qui s'adaptent
+	- packaging (carton, lot, coffret) + content (bouteille, bib, ...) + quantity (1, 6, 12...) = conditioning
+- Order
+	- ID: order.id
+	- PartnerID : **external partner ID**
+	- OrderBatchID : group_buy.Id
+	- canceled -> soft-delete?
+	- firstname, lastname, phone, mail
+	- address.id (+ details) du Group_Buy
+		- :warning: PDD -> Point De Distribution (ferme, agris colis etc...)
+			- prévoir un "external_address_id" qui ne sera QUE renseignable via le backoffice
+	- contact de l'organisateur du Group_Buy
+- OrderItems
+	- lineNumber (1...)
+	- OrderID
+	- ProductId -> **product.external_id**
+- GroupBuy update
+	- PartnerId / OrderBatchId (group buy id) / validated (true / false)
+- D&V PUSH
+	- OrderBatchID / Status (validée, en préparation, expédiée, livrée)
+- Logistique
+	- Gamba & Erota? Troye
+		- GT Solution, Chronopost, Schencker
+		- FTP -> fichiers de commande
+		- Flotte Gamba interne -> TMS (Transport Management System)
+			- dépôt de fichier FTP avec status de chacune des livraisons
+			- WMS  (Warehouse Management Ssystem)
+	- Station chargeur : Télia
+		- EDI -> Gamba consolide les infos
+- **TODO**
+	- ETA début des hostilités fin janvier
+	- envoyer un exemple de fiche produit Clapclap pour vérif côté marketing D&V
+	- FACTURATION -> à discuter 
+		- qui facture qui? comment se reversées les commissions?
+			- idée :
+				- clapclap facture les clients
+				- 1 - D&V facture clapclap avec commission incluse
+				- 2 - D&V facture clapclap SANS commission + Facture de commission de Clapclap
+		- paypal : déblocage manuel
+			- 25% des commandes bloquées chez eux (paiement en 3 et 4 fois)
+		- payplug : totalement automatique
+		- alma : totalement automatique (48h)
+### 2022-12-14
+- Gestion de l’offre
+	- Retour de ClapClap sur la taille acceptable des offres pour assurer une bonne navigation sur le site
+		- 30..50 produits max
+	- Confirmer le positionnement d’offre dédiée pour ClapClap avec mix de nos univers
+		- en cours d'analyse
+	- Voir s’il est possible sur ClapClap d’avoir des offres partenaires, qui permettraient d’associer plusieurs offres sur la même commande groupée
+		- multi-offres -> liée une seule commande de plusieurs fournisseurs
+		- ou 1 offre multi-fournisseurs
+		- eg. conserve de fois gras + vin
+-   Gestion des SAV
+	- Echange sur le modèle de réseau social => est-ce qu’il ne faut pas garder des interactions côté ClapClap pour développer le côté réseau social, même si le traitement effectif des SAV est fait par le producteur ?
+		- brique de communication "interne" à Clapclap
+		- description/présentation concept réseau social
+			- friending, blabla
+		- notations / avis des fournisseurs
+			- pas dans un 1er temps
+		- attente D&V : animation de marque sur Clapclap par les équipes D&V
+		- SAV : canal de communication avec le membre
+			- cf. mode de communication airbnb
+			- + brique chat ala messenger
+				- connexion Zendesk du fournisseur???
+			- :warning: il va sans doute y avoir besoin de suppléer les mauvaises gestions de certains petits producteurs non-équipés en SAV
+-  Modèle ClapClap
+	- Quand seront disponibles les commandes publiques pour savoir si nous pourrons utiliser les PDD au printemps sur ClapClap, ou si nous faisons des commandes classiques avec diffusion des codes ?
+		- opportunité de joindre plusieurs commandes groupées sur un PDD où on envoit déjà une livraison
+			- => publication d'une commande publique
+			- Pierre voudrait tester ce canal de communication rapidement
+			- ACF -> pas sur Clapclap dans un 1er temps
+			- PDD Dijon et/ou Nantes -> sur Clapclap
+-  Facturation
+	- Echange sur le modèle à mettre en place entre nous => Mathieu se joindra à nous pour cette partie
+		- Stripe : 2.2%
+		- Arrivée de Jessica
+		- Modèle "place de marché" -> mise en relation B2B2C
+			- modèle Ankorstore
+			- commissionnaire opaque
+		- Chrono de facturation?
+			- racine de facturation différente
+			- admin fiscale -> il faut que les 2 côtés soient "logiques"
+		- D&V + MCS = stock
+			- D&V = vend & commissionnaire
+- NEXT
+	- David & Jessica @ Paris janvier
+	- D&V @ Nantes mi-février
+	- Facturation:
+		- Mathieu & Benjamin
+	- On avance sur les APIs
+### 2022-12-23
+- external_id
+	- addresses
+	- offers
+	- products
+	- group_buys
+- group_buys
+	- besoin : is_public
+	- d&v : affairs (mises en place)
+		- affairs <-> addressES (1-n)
+	- problématique : 1 group buy @ clapclap = 1 affairs @ D&V?
+	- **API** 
+		- POST / create -> retourne URL de la CG
+- Offer
+	- discussion public/private
+		- a priori toutes les offres D&V seront publiques
+- D&V : offre commune -> 350 produits
+	- avec Clapclap-> segmentation en plusieurs offres d'une 50aine de produits sur 4/5 familles/univers
+- products
+	- metadata
+		- degree, sugar, aromas, mouth, acidity...
+- STACK
+	- kryon
+		- CRM qui organise les offres & CG
+		- se synchronise avec prestashop
+	- business central
+		- ERP : logistique & commande
+- Facture
+	- @david devait envoyer un exemple de facture
+		- on commande pour D&V
+		- ala Ankorstore
+		- question : D&V doit-il mettre ces factures en compta?
+			- se renseigner auprès d'autres boites
+				- "comment les fournisseurs reçoivent les factures?"
+
+### 2022-11-30
+- récap de la réu de Vendredi dernier
+	- changement de modèle : on ne garde plus que Clapclap grand public
+	- logistique / supply chain : il faudra aborder le sujet à un moment
+- D&V très orienté **regroupeur**
+	- :warning: fatigue de la distribution, donc distrib alternative type agricolis
+	- Offre / Univers
+		- Offre printemps / Autonme :
+			- 230 vins
+			- 100 bières
+			- 10 spi
+		- Univers = marque = zone géographique - ~40 univers avec 5-20 ref
+			- `regroupement de marques
+			- Pierre colin : vins de france typés bourgogne
+				- gros marché
+				- :warning: hors appellation
+			- Colin Seguin : vins... Mathieu Hugonot, etc...
+			- Bordeaux rive gauche
+			- Bordeaux rive droite
+		- (appellation = tu payes pour l'endroit où à pousser le raisin)
+			- rapport qualité/prix imbattable par rapport aux appellation
+			- eg. Bourgogne et vins de France
+	- possibilité d'avoir des offres "compatibles" expérience d'achat Clapclap
+		- on peut adapter l'offre à la possibilité d'expérience utilisateur
+- La moitié des ventes = ventes en lots -> 50% de réduction
+	- La sélection du regroupeur -> "les conseils de Bernard"
+
+- Périmètre de l’offre : Est-ce que nous partons sur le partage de notre offre globale ou sur différentes offres par univers ?
+	- Si nous partons sur la stratégie offre globale : comment va se comporter le site en termes de navigation au travers 300 produits
+		- on se dirige vers une collection d'offres / univers
+		- @David et @kevin reviennent vers D&V pour # prodtuis / univers idéal
+		- @Benjamin essaye de récupérer la liste des produits avec le + d'info possible
+			- @Benjamin voit comment segmenter les offres
+		- 60% du CA vient des régions historique (Bourgogne...?)
+	- Si nous partons sur la stratégie offre par univers : est ce possible de lier des offres ensemble côté Clap Clap pour avoir un montant de commandes sur l’ensemble des offres ?
+		- Futur
+		- Si l'offre est pertinente le minimum sera atteint de toute façon
+- Planification atelier interface ClapClap – DV
+	- Définir le calendrier et la fréquence des échanges entre Kevin et moi.
+		- connecteur sync produits (dispo produits)
+		- et des offres...
+		- @benjamin propose 2 dates d'atelier d'ici la fin 2022
+			- dev prévu 01/2022
+- Traitement des SAV et Retour
+	- Quelles politiques de retour avez-vous en place pour le moment ?
+		- mise en relation, clapclap ne gère pas les litiges
+		- prévoir une API pour faire du remboursement en 1 clic
+	- Exemple un client ne reçoit pas le bon produit, ou un client fait une réclamation sur la qualité du produit ?
+- Rôle du **regroupeur** dans les offres Clap Clap
+	- **regroupeur** -> **organisateur** et donc référent
+		- responsable de la réception et distribution des colis
+		- pas de limite de taille de co-achat, même si dans un 1er temps on est plus axé sur les petits/moyens
+			- :warning: pas de différence **CE / gros groupe** , mais il y a un sujet pour la gestion des commandes
+		- bénéfice?
+			- à réfléchir (cagnotte, produits offerts)
+	- PDD (Point De Distribution)
+		- idée : mutualisation de grosse commande avec d'autres petits regroupeurs
+			- profiter d'une livraison pour mutualiser la logistique d'une commande (sans besoin d'avoir recours à de nouveaux regroupeurs)
+				- -> cas d'usage du fournisseur qui organise sa propre commande
+			- ACEF grand ouest (~20 aine de PDD)
+				- @benjamin se renseigne sur le nombre de commandes concernées
+				- facebook ads localisés pour générer du traffic
+- Possibilité de vous envoyer non pas nos offres seulement, mais également nos commandes groupées avec les dates et adresses de livraison
+
+### 2022-11-10 - Benjamin - prépa API
+* archi tech
+* Crion - outil de gestion de CG
+	* ensemble des offres
+		* prix barré / prix CG
+		* Quantité limitée par millésime
+	* sync produit et offre 1 fois / saison
+	* **PUSH** gestion dés/activation
+	* gestion de stock
+		* temps réel trop compliqué
+		* X canaux de ditrib (boutique classique, belgique, lot, clapclap + logisticien)
+		* **PULL** api de vérif de stock
+			* v1 : dispo oui / non
+			* v2 : stock temps réel + produit de remplacement
+	* **PUSH** saisie de commande individuelle
+		* infos
+			* ref campagne
+			* ref adresse de livrason
+			* ref produit + quantité
+			* nom
+			* prénom
+			* email
+			* téléphone
+		* **Logistique**
+			* (étiquetage)
+			* points de distribution
+				* eg. agricolos
+				* forward des infos vers agricolis
+		* Logisticiens
+			* Gamba
+			* Qui parle avec AgriColis
+	* **PUSH** clôture de CG
+		* validation
+		* annulation
+	* Possibilité de modification de commande?
+		* 2/3 semaines de réflexion
+		* donc possibilité d'annuler ou modifier ?
+		* aujourd'hui : on annule et on re-crée une nouvelle commande
+	* Changement d'adresse
+	* :warning: 1 campagne = X commandes = X adresses
+		* Si le minimum n'est pas atteint sur 1 site, les frais de port sont à la charge de l'organisateur
+	* **D & V**
+		* possibilité de fusion de CG pour éviter les frais de port
+		* Achat express
+		* Création d'un lieu de livraison "indépendant"
+		* Offre permanente?
+			* a priori pas de difficulté
+			* période d'inventaire?
+		* Offre = fournisseur
+			* segmentation par offre
+* TODO : spécifier les API courant novembre
+
+### 2022-03-09
+- espace regroupeur
+	- personalisation (présentation du regroupeur)
+	- customisation de la navigation (logo, image du regroupeur)
+- CRM

@@ -1,0 +1,23 @@
+# 2023-09-15
+- euro information -> CM 61 eur / trimestre
+	- annulable?
+	- a priori correspond au système de paiement en ligne
+		- monetico
+- assurance
+	- bpce : paiement à l'année?
+		- paiement unique lié à la bascule de BP à CM
+	- abeille : mensuel?
+		- prévoyance Popo (en cours)
+- prêts
+	- "prêt fondateur" / sur l'honneur
+		- tableau d'amortissement ?
+		- Fondes
+- Opcommerce 
+	- [x] facture 190 eur
+	- [x] facture 400 eur
+	- [ ]  facture 600 eur
+- Opco / Sylae
+	- [x] Marine
+	- [ ] Naomy - en cours
+- [ ] Salaire
+	- [ ] @Pauline continue de faire les bulletin de paie pour Naomy

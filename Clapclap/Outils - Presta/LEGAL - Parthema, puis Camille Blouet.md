@@ -1,0 +1,345 @@
+### 2023-03-14 - Quentin 
+
+- SAS -> assigné salairé
+	- cotisations obligatoires
+- SARL -> gérant indépendant
+	- sarl + avantageux
+	- couvertures à choisir (prévoyance, retraite etc...)
+- mandataires sociaux, dirigeants de
+- 100k / 120k -> versements sur holding
+	- grille? si oui, je veux la voir
+	- package figé sur 3 ans
+	- aucune obligation de réévaluation (pas de bilan annuel)
+	- 60k -> 3 ans
+- holding = frais
+	- suivi comptable
+	- coûts de structure
+		- mise à dispo de services administratifs de MCS?
+		- comptable 2000 ~ 5000 eur / ans
+		- contraintes admin
+- logique
+	- transferts de titres vers holding
+	- transferts de titres hodling vers MCS
+- SARL
+	- automatiquement associée
+		- renoncement exprécément la qualité d'associée (à la création)
+		- la valeur des parts est dans le patrimoine
+- SAS : société par action et donc pas besoin de faire signer le renoncement
+- biens propres "avant mariage"
+- bien communs : valeurs des titres intégrés dans le patrimoine commun (SAS)
+- identification de l'origine
+	- si identification -> alors ok
+- ----
+- contrat de mariage
+- typhanie lebée
+### 2023-09-09 - Quentin
+- préparation levée
+	- obligations
+		- pacte d'associés
+		- marge de manoeuvre large
+		- ce n'est plus d'actualité si levée à venir
+	- 5% à attribuer dans les 18-24 mois
+	- 5% BSA
+	- 5% actions gratuites
+	- + limite globale de 5%
+- entrée d'un "late co-founder"
+	- actions gratuites : il faut être salarié
+	- bspce : il faut être salarié
+	- sinon limite fiscalement
+	- solution possible : mixte des 2 options (bspce ET actions gratuites)
+- def
+	- action gratuite :
+		- échéance courte
+		- pas de coût pour le salarié
+		- acqui au minimum 1 an et pour 1 an
+	- bspce
+		- attribué aux salariés gratuitement
+	- BSA
+		- ouvert à tous
+		- warning si attribué à un salarié (sera surement considérer comme rémunération)
+		- outil pour freelance ou partenaires "clés"
+		- il y a un paiement le jour de l'acquisition
+	- émission de BSA "juste pour elle" en fin 2023
+	- + opération 2024
+		- 1500 eur
+- point levée -> véhicule holding pour grouper les BAs
+	- BA dans une structure dont Clapclap devra assumer le coût
+		- pilotage admin
+	- gros potentiel et forte renta rapide
+	- administratif = effectivement + facile avec 1 seul signataire
+- clients potentiellement intéressés
+- valo / dillution
+	- 15 / 31 décembre pour profiter de l'effet "fin d'année"
+	- obj : fin Novembre pour réalisation 10 ou 15 décembre
+- décider d'une valeur maintenant
+- arguments
+	- Pierre s'est positionné sur une valeur de 4M AVANT même le lancement
+- potentiellement demande de former un board pour les GROS
+	- importance accordé au board
+		- consultatif (avec reporting léger)
+		- Pierre Collin sans doute un acteur clé
+		- droit de regard sur les décisions importantes
+			- dépenses importantes
+			- recrutements clés
+	- Avis
+		- Pays de la Loire Paricipation PLP
+			- comliqué à cause du président
+		- Bambou : + souple
+		- ABAB : + compliqué
+		- 1er étage : 
+### 2024-01-05 - Quentin
+- ODJ
+	- news
+	- pacte BA35
+- Levée
+	- 238k, 100 + 10-30k
+	- Claude : 3xPEA
+		- contraintes différentes selon les banques
+		- il faut qu'ils solicitent leur banque en amonts, attestation à remplir à transmettre
+		- délais à prévoir pour les virements
+	- faire rentrer d'autres invest après les 1ers virements
+	- Possiblement 100k en Juin d'un concours BA35
+		- ou campagne Tudigo
+	- obj : 250k maintenant, 250k d'ici Juin
+- Pacte BA35
+	- un peu dur
+	- article 4 : prio sur les prochains tours
+		- standard
+		- pas d'augment' de capital sans les avoir consulté
+	- article 5 : droit de retrait BA35
+		- obligation de rachat si non respect pacte à la valeur la + élevée entre dernier tour et leur entrée
+		- argument en notre faveur : factuellement on n'aura pas les fonds pour faire le rachat
+		- il FAUT demander sa supression, engagement trop lourd
+	- article 6 : droit de suite
+		- compliqué à accepter : délais de 9 mois entre 2 ventes, sinon ils prennent la différence
+		- en pratique : une vente > 12-18 mois, donc pas vraiment un sujet
+		- mais on voit de moins en moins ce genre de close
+	- article 7 : clause de liquidité
+		- perspective de sortie aux invest
+		- 1- 5em anniversaire : discussion d'une éventuelle liquidité / sortie
+		- 2- liquidité forcée avec mandataire en transaction
+			- côté impératif pas nécessaire
+		- avis Quentin : préciser cette clause -> calendrier
+			- si LBO / rachat par les fondateurs par exemple
+			- on peut avoir un peu de souplesse
+	- article 8 : cession péférentielle
+		- s'assurer qu'ils vont récupérer leur mise
+		- avis : standard... mais pas n'est pas tjs présent
+			- clause plutôt juste
+			- SI discussion : ce serait pour la supprimer, mais elle semble logique
+	- article 9 : bad leaver
+		- avis : peu de marge de manoeuvre
+		- le voir comme une protection au fondateur qui reste
+		- 9.3 : obligation de garder au moins 36 mois de nos titres après invest
+			- exception : 5% après 12 mois, 10% apres 24 mois
+	- article 10 : exclusivité des fondateurs
+		- aménageable si mission de coaching à côté
+	- article 11 : non concurrence
+		- standard
+		- voire : 12 mois c'est un peu léger (peut-être mieux de mettre 18 - 24 mois)
+	- aritcle 12 : assurances homme clé
+		- standard mais pas de suivi
+			- potentiellement cher
+	- article 13...14...15...
+	- article 16 : gourvenance
+		- reporting trimestriel + réunion bi-annuelle
+		- comité stratégique
+			- 6 membres : 2 fondateurs + 2 BA35 + 2 invest
+				- TROP
+				- proposition : 4 (2 fondateurs + 1 BA35 + 1 invest (1er étage))
+			- donc 33% des voies
+			- !!! il FAUT qu'on ait la majorité
+			- et pour certaines décisions stratégiques pourquoi pas demander 1/3 des invest'
+			- proposition: arrêter un budget en amont, ensuite on se débrouille tant qu'on reste dans ce budget
+			- établir des seuilles "hors budget"
+			- important d'avoir une liberté de gestion (on n'a pas 20 ans)
+				- décisions propres avec reporting
+		- 16.5 : droit d'info renforcé
+			- CA, tréso, situation commerciale
+			- board annuel complet
+		- 16.6 : clause d'audit
+			- avis : à retirer
+				- ou alors 100% à leur frais
+		- 16.7: Droit particulier des Business Angels Bretons en cas de levée de fonds
+			- NO WAY
+			- on ne vous connait pas suffisamment pour le faire avec vous
+				- on vous informe, pas +
+			- si l'un d'entre eux veut aider, il peut le faire de manière informelle
+	- article 17 : durée du pacte
+		- standard
+	- article 18 : confidentialité
+	- ...
+- Retro planning
+	- 3 personnes n'ont pas encore signé
+		- Pierre Colin
+		- Fabrice Bernhard
+		- Séverin Pelegrini
+	- tableau de suivi des investisseurs
+		- nom, prénom, adresse, portable, PEA/société, montant invest, commentaire/divers (délais de virement? etc...)
+			- si PEA : numéro de compte PEA + contexte PEA (éléments à fournir)
+		- ouverture d'un compte bloqué d'augmentation de capital
+			- fournir le RIB
+			- fonds bloqués pour les rassurer
+			- fonds intouchables tant que l'opération n'est pas cloturée
+			- documentation
+		- valo pre-money : 3M
+			- pour calculer les titres
+		- montant max sur 1ere cloture au 28/02 avec au moins 75% versé
+		- montant max 2eme partie avec 75% versé à minima
+	- exercice des BSA Air (Parthema)
+	- discussion du pacte avec BA35
+		- proposition en retour de leur email
+		- on demande une version word pour leur faire la contre-proposition
+	- date de cloture visée : 15/02/2024
+	- validation du pacte : 19/01/2024
+### 2024-01-24 - Quentin
+- news
+	- 150 / 200 k
+	- blast club ?
+		- si tout le tour -> pacte à revoir à nouveau
+	- 1er étage : mars
+	- épopée
+		- pacte ok pour eux?
+	- BA35
+		- pacte proposé finalement ok
+	- cash fin mars trop tard
+- la suite
+	- Quentin nous envoie une version PV d'AGE
+	- Titulaires BSA-AIR dispo pour signature -> pour être titulaire des actions
+		- APRES avoir la date d'augmentation de capital
+		- bloqueur : la valo doit être cellée
+	- décider de BSPCE : entre 5% et 10%
+		- si uniquement salariés : 5%
+		- sinon : 8% / 10% (mandataire inclue)
+### 2024-02-20 - LPN, comptes courants, URSAFF
+- personnelles et à lui de la régler
+- sauf si document qui stipule que ce ne sera pas le cas
+- comptes 30/09/2022, mais signature 25/05/2023
+- engagé à titre personnel
+- juridiquement on est ok, pas de justification que ce soit à la charge de la société
+- mais dans la tête de Pauline c'était la société qui devait gérer ça
+- lettre de démission du 25/05 aucune dette due
+- rachat structure 1eur avec des conditions
+
+### 2024-04-10 - LOI v2
+
+- besoin de finalisation? alors qu'elle est fonctionnelle
+	- préciser qu'elle est déjà en état de fonctionnement
+	- audit IT & technique -> possibilité de se retirer du deal
+- v1 & v2 : opérations capitalistiques à venir -> savoir ce qui va être fait (LBO ou fonds qui rentre au capital) qui pourrait remettre en cause la valo proposée
+	- "maintien du taux", opérations capitalistiques, et quand?
+- LBO / sortie : quels sont les objectifs / horizons
+	- pourquoi ne pas l'écrire?
+	- et exclusivement dans le cas d'un LBO ???
+		- si autre participation, on n'y participerait pas (alors qu'il pourrait y avoir une enveloppe dédiée à ça si stipulé)
+- Lettre de mission : possibilité de préciser son contenu?
+	- fonctions ?
+- rémunération
+	- 2024 : 45k, 2025 : 70k, 2026 : 100k/110k
+	- holding : possiblement rémunération + faible que celle d'aujour'hui
+		- charges holding / compta
+		- charges juridiques (3k)
+		- rém TNS : bien optimisé 65%
+		- rém net : ~45k
+		- avis : holding = intéressant à partir de 100k (côté employé)
+- absence d'endettement nouveau
+	- écrire que l'emprunt 2023 est bien pris en compte
+- adhésion au pacte
+	- quel est le pacte?
+		- qu'est-ce qui se passe si on part
+		- qu'est-ce qui se passe s'il y a une vente
+- conseil de surveillance : orga prévue pour la prise de décision
+- garantie actifs / passifs
+	- dans quelle mesure il peut y avoir des paiements?
+		- plafond (le moins élevé), seuil (), comment on paye et dans quel délais
+		- idée : paiements par compensation (eg. si opérations )
+		- risques :
+			- prudhomme / salariés
+			- droits d'auteur
+			- fiscale
+- absences de litiges
+	- ajouté "significatifs"
+- absence de blocage
+	- en quoi cela consiste?
+- 5/ exclusivité
+	- à discuter... à compter du 1er mai
+- 6/ offre à signer avant 30/04
+### 2024-05-02 - point post-signature protocole
+- protocole plutôt rassurant
+- BSA Air -> notifier les invest'
+	- done
+- BSA Air Novapuls - 24000 eur - à payer dans les 2 ans
+	- à valider le jour de la vente : valider l'échéancier de paiement
+- côté MCS / Léger : préparation des doc pour vente, etc...
+- cashout :
+	- à titre perso : 30% flat tax
+	- ou via les holding et 60% ré-investi dans les 2 ans dans des sociétés éligibles
+- lettre de mission à rédiger & valider
+	- conseil : ne pas être trop contraignant dans les obj / personne
+	- :warning: attention avec les objectifs, qu'ils soient réalisables
+- période intermédiaire avant signature
+	- informer des changements au sujet de LPN (précautions avant-signature)
+- à faire : montant honoraire à date
+### 2024-06-11 - prépa cession
+- échange avec **Fidal** pour déterminer le calendrier cible
+- date cible : 15/07 + potentiels A/R & ajustements : 23/07
+    - apport de titres + mini-cashout
+        - dépôt au greffe le 15/07 + 8 jours de validation -> 23/07
+    - Fidal confirme et propose un calendrier
+- honoraires -> à valider avec Pierre Colin
+    - 6480 eur à date + ~1500 eur exercice BSA + 400 eur de débours (modif capital + annonce légal + formalité à déposer au greffe)
+    - à valider
+    - répartition des montants
+        - opération de rapprochement : une partie est prise en charge par la société, une autre par les fondateurs
+            - à discuter avec le CFO
+            - cashout tout petit , et donc honoraires à la charge de D&V
+                - exercice BSA-Air
+    - opération à réaliser par les associés
+        - pacte
+        - levée
+        - exercice BSA Air
+        - D&V seulement à partir du 06/03 (~1000 eur)
+        - ~6500 enveloppe globale
+            - < 1000 euros à notre charge
+- Quentin :
+    - nous envoie une lettre de mission + détails des honoraires à date
+    - rédaction exercice BSA Air
+
+### 2025-02-07 - Camille Blouet, info cession/Pierre
+- MCS
+	- 20 ans, Pierre Colin -> domaines et villages
+	- 4 ans : acquisition de Maison Péguet
+	- 6 mois : acquisition Clapclap - septembre 2024
+- 10 associés, par échange de titres
+	- Maison Péguet : ~15%
+	- Clapclap : ~5%
+	- 2 directeurs : 2 x 3%
+	- Pierre : ~67%
+- mise en place d'une orga & gouvernance en 09/2023
+	- se retire des opérations
+	- changement de plans : 09/2024 -> retour à la présidence et opérations
+	- mise en place manu-militarie sans concertations
+	- relation toxique avec les gens, micro-management, nausif au groupe
+	- imposition de son retour via avocats
+- questions
+	- quels sont nos droits? est-il possible de faire quoique ce soit?
+- retours
+	- 1) droits des affaires M&A
+		- analyse des statuts
+		- cabinet "Francis Lefevre"
+	- 2) droits social
+		- relation collective du travail
+	- conseils:
+		- consultation de situation
+		- mise en place d'un protocole et/ou accompagnement
+### 2025-02-10 - Quentin
+- présentation de la situation post-signature
+- notamment réunion mi-décembre 2024 chez Fidal
+### 2025-07-18 Quentin
+- droit de loyauté, mais on s'en fout
+- confirmé : on peut relancer une activité TRES similaire sans danger
+- flat tax : 30% + 3 ou 4% en fonction du montant total275608
+	- 500.000 ~ 33-34% de taxe
+- "vente d'action" 
+	- possibilité de faire une holding -> 60% d'invest'
+- 

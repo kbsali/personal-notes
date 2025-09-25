@@ -1,0 +1,147 @@
+### URLS factures
+- Google : https://admin.google.com/ac/billing/accounts/wj6IAJT1M7T49hF0zjBPIthkVrUI85HR/transactions
+- Figma : https://www.figma.com/files/team/1076536742236873324/clapclap/billing?fuid=1071073305056617416
+- Vercel : https://vercel.com/teams/clapclap/settings/invoices
+- Github : https://github.com/organizations/ClapClap-app/billing/history
+- Alan : https://alan.com/app/dashboard/pro/admin/paie-et-comptabilite
+### 2024-01-27 Cécile
+- 
+- Factures émises, indiquées comme payées, mais aucune trace de virement... ça te dit qque chose?
+	- Biscuiterie Handigaspi / Kignon : 288 € le 19/02
+	- Biohème : 230,40 € le 21/02
+	- Sterne&Mousse : 288 € le 19/02
+### 2023-11-23
+- OK pb avec les factures émises "hors" automate Clapclap
+- comment traiter les avoirs?
+	- il faut qu'on en fasse 1
+	- on en a reçu 1 (plusieurs en fait)
+- kawa : ils n'ont qu'1 transaction a priori de leur côté
+-  tableaux d'amortissement emprunts
+	- bnp + cm
+- relevé bancaire / xls depuis la création
+	- + pdf
+	- CB David : 350 eur de TVA récupérable
+### 2023-09-04
+- fin 2023 : Matthieu et Anne OUT
+	- projet entreprenariat
+	- pb : pas encore de successeur désigné
+	- rdv jeudi avec boss pour valider ré-org agence Nantes centre
+	- potentiellement ménage dans les clients
+		- mauvaise orga, désagréables etc...
+	- transfert inextenso - inextenso : sans impact (cf contact Sybil)
+- pas d'inquiétude pour intégrer le dossier d'ici le 01/10/2023
+- LPN
+	- obj : 1er Octobre
+	- déclaration tva :
+		- pourquoi mensuel?
+		- serait intéressant de passer en annuel
+			- contacter impots.gouv pour bascul
+				- via le compte de la société
+				- date de cloture 30/09
+			- plafond : 15.000/an (presta de service)
+	- 2640 eur / an pour la compta
+		- 840 eur : 6h/semetre à 70eur/h
+		- 1800 eur : liasse, fiscal annuel, conseil courant, forfait
+	- bascul annuel
+- Payfit
+	- mauvais retours
+	- bcp d'embauches post-levée, et bcp de licensiements en cours
+		- outils fiable, mais qualité de service bof
+- Inextenso Evry 
+	- 
+### 2023-06-16
+- [x] v0 : date, provider, VA
+- [x] v1 : date, provider, VA, commission, date transfert BNP
+- [ ] TODO :
+	- [ ] frais Stripe pour transfert vers BNP
+	- [ ] Automatiser transfert commission -> BNP ?
+- [ ] LPN
+	- [ ] @Sybil demande à Matthieu sur LPN pour l'alternant
+	- Subvention alternants?
+		- [ ] transférer Naomy sur LPN?
+	- [ ] Compta -> rappatrié inExstenso?
+### 2023-02-15
+- remboursement partiel d'une commande (lié à une livraison partielle par exemple)
+	- -> comment gèrer la facturation ?
+	- défaut de livraison : on génère un avoir == facture mais en négatif
+
+### 2022-11-17
+
+- Bourse french tech -> besoin d'un contrat?
+- Documents de la levée?
+	- Anne fait la liste des doc attendus
+	- https://drive.google.com/drive/u/0/folders/1WgHkhwxyCWlrSxQBDU68tzQFUWvJg1-3
+- TVA
+	- prestation de service : **445661 - TVA ded / ps fr**
+	- bien : **44566 - TVA deductible bien**
+- Compte comptable
+	- plutôt que **Compte d'attente**
+	- Restau : **Mission / restauration**
+	- Parking, frais de déplacement : **Voyage et déplacement**
+- Relevés bancaires
+	- compte bancaire -> PDF pour des raisons légales
+	- relevé CB -> excel / csv
+- Ecart stripe / banque
+	- 2141 eur d'écart
+- Catégoriser les facture fournisseurs!
+	- comparer les CG successful
+- Eléments en attente
+	- Sendinblue -> missing!
+	- MAX mi-décembre!
+	- Annoté tous les mois les relevés CB
+
+
+### 2023-01-10
+- raisons économiques
+- clôture 31/12/2023
+- justification de réelles difficultés économiques
+- options
+	- licenciement éco : grosses difficultés
+		- mise en route du projet
+		- critères de choix
+			- eg. ancienneté (LIFO)
+		- CDD alternants : pas possible
+			- sauf si accord trouvé avec l'apprenti en question
+			- on peut mettre un terme au contrat si on trouve une autre boite
+		- [ ] ancienneté
+			- les mêmes pour tous les 3
+		- mise en avant des difficultés à justifier
+		- procédures à mettre en oeuvre
+			- contrat CSP : contrat de sécurisation professionnelle
+				- proposition obligatoire
+				- si accepté :
+					- prioritaire @ pole emploi pour bénéficier de formation etc...
+					- accompagnement privilégié
+					- indemnisation pôle emploi pendant 1 an (~100%)
+					- employeur
+						- pénilisation financière
+						- pas de préavis
+							- montant du préavis à payer à pole emploi
+								- 3 mois pour Pauline & Nicky
+								- 2 mois pour Johann
+								- + les charges
+						- procédure d'1 mois
+					- indemnités de licenciement
+	- ruptures conventionnelles
+		- financièrement parlant = + intéressant
+			- pas de préavis pole emploi à payer
+			- pas de CSP
+		- soumise à l'accord du salarié
+			- ATTENTION au retour possible des salariés s'ils s'informent
+			- ils pourraient se retourner contre nous
+		- souvent le salarié souhaite changer de boulot
+		- employeur -> pb relationnel
+		- employé -> veut faire autre chose
+		- ---
+		- 1) se mettre d'accord avec le salarié
+		- 2) procédure + stricte
+			- convoqué le salarié à un entretien (modalité, délais à préciser)
+			- signé un protocole de rupture (document à envoyer à la direction du travail)
+			- délais de 15 jours de rétractation
+			- télé-transmission à la direction du travail pour 15 jours
+		- 1.5 mois de procédure puis pas de préavis
+		- montant minimum : 1/4 de mois / année d'ancienneté 
+### 2024-02-21 - Abiola / Alban
+- pas accès au dossier clapclap
+### 2024-03-?? CLOTURE
+- demander honoraires 2024

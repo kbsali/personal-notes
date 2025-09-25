@@ -1,0 +1,126 @@
+### 2025-04-18 Jérôme Novel
+- remise en contexte des évènements du dernier mois
+- LOI de Pierre pour une possible acquisition future
+- ⚠️ clause de non concurrence <> reprendre le code de la plateforme
+- il y a 1 mois
+	- statuts
+	- pacte d'associés
+	- possibilités de sorties (actes et mandats)
+	- -> stratégiquement : modifier les statuts
+		- ça a été fait, mais très long ("lunaire")
+- aujourd'hui
+	- globaliser les statuts (il y a moins de pression sur la signature des statuts)
+	- avec les nouveaux éléments il ne FAUT pas encore signer les statuts
+	- ⚠️ le pacte et les modèles de mandats n'ont pas été transmis
+		- maintenant qu'ils ont les pouvoirs, c'est accessoire
+### 2025-03-18 Jérôme Novel
+- réu avec Cyril : existant VS proposition et mise en avant des points compliqués
+- clapclap -> MCS : très récent
+	- aucun pacte n'a été signé
+- différences des statuts
+	- historique
+		- temps #1 : PC président ~= statuts proposés
+		- temps #2 : PC off => il contrôle de loin
+		- temps #3 : PC is back => on abroge et on enlève comité de surveillance & direction, avec président pleins pouvoirs
+			- limitations de pouvoir au niveau des DG et DGD
+				- avant ~> même pouvoirs que le président
+				- proposition : pouvoirs très limités
+					- effet miroir dans le pacte pour les DG & DGD des filliales
+					- Pas good!
+			- carte blanche pour le président
+	- on fait quoi?
+		- pas de retour d'un "conseil de surveillance"
+		- pas d'objection sur les limitations DG & DGD du groupe
+		- par contre 
+	- actions prioritaires
+	- président a le pouvoir de signer des conventions de mandat
+- différences du pacte
+	- vient compléter les statuts (et même certaines fois le contredire)
+	- tourner plutôt en faveur de COLPI
+		- signer le pacte va nous imposer des limitations
+	- nouveautés
+		- limitations de pouvoir des DG et DGD
+		- groupe d'associés
+			- Fondateur
+			- Apporteurs
+				- demande des annexes (eg. Péguet = 10% en apport + 5% numéraire)
+				- 0 retour pour l'instant
+			- Mandataires
+	- de toute façon il fait ce qu'il veut
+		- les seules choses qu'on pourra obtenir c'est d'entrer en négo
+		- il semble cependant prêt à négocier certaines choses
+	- si on ne veut pas signer le pacte, on est en position de négo
+	- diff
+		- création des groupes
+		- hypothèses de session forcée des titres
+			- très bordélique
+			- compliqué de mettre en oeuvre les cessions forcées
+		- délais 7 ans -> 4 ans (3 ans depuis le dernier pacte)
+			- modalités de fixation du prix de rachat
+				- moins satisfaisant qu'avant
+				- aujourd'hui : évaluation de la santé des structures (7.5x EBE)
+				- nouveau : valo figée à l'entrée de Maison Péguet
+					- moins d'abattement (20% vs 30%)
+		- ne pas être dans le pacte = droits communs
+			- et donc interventions d'un expert
+			- donc GROS intérêt à vous faire rentrer dans le pacte et donc Négo négo négo
+			- 2 niveaux
+				- 1- nos pouvoirs dans nos structures
+				- 2- clauses de sortie en cas de révocation avec promesse des ventes des titres non favorables
+					- "associés apporteurs ne seraient pas tenus par"
+					- mais à vérifier
+		- questions
+			- pactes symétriques? semble repris du précédent pacte, n'a pas de sens ici
+	- message @ Léger
+		- statuts
+			- précision convention de mandats
+			- décisions spéciales : actions prioritaires = oubli?
+			- révocation DG ou DGD : indemnités
+		- pacte
+			- demande des annexes
+			- faire sauter les limitations de pouvoir pour DG & DGD
+- but
+	- essayer de protéger nos mandats de DG -> "golden parachutes" avec 10/12 mois de rém'
+	- modalité de revente des parts de MCS Group et rachat des parts de Clapclap
+		- si révocation
+			- 1- indemnité
+			- 2- rachat de parts de Clapclap à X / action
+	- on accepte les statuts
+	- mais sur le pacte on négocie
+- Léger
+	- éléments choquants : convocation fin février envoyée par Charlotte Sonnet au nom de Cyril Péguet
+	- passage en force de l'AG
+	- pas reçu de PV d'AG
+	- pas de réponse aux demandes d'éléments
+	- par contre convocation
+- strat'
+	- si pas d'annexes, pas de call
+	- 
+
+### 2025-03-17 rdv Fidal
+- que valent les titres
+	- différence si on part, ou si il nous vire
+- questions:
+	- conditions des associés mandataires = clairs, mais quid des associés apporteurs?
+	- détention de nos titres n'ai régie par aucun pacte, que vaut-elle donc?
+	- confirmer que nous ne sommes pas "associés mandataires" mais simplement "associés apporteurs"
+	- clause de non concurrence à 3 ans: quelle est la contre-partie?
+	- éclaircissement sur "cession contrainte"
+		- quels sont les cas de cession contrainte possibles?
+		- sachant que clapclap < 5% du capital total
+		- quelle est la valo du groupe à l'entrée de "Holding Péguet" en 09/2021?
+			- qu'est ce que "MSC Distribution"? Et sa valo?
+	- 14-vii ) que représente le paiement immédiat?
+		- seulement les impôts? mais le reste au bout de 8 ans??
+	- 16) pas de dividendes pour nous?
+
+
+### 2025-03-27 rdv ColPi
+- rachat des parts
+	- on n'a pas la main, on est dans une exécution de ta visoin
+	- on souhaite un porte de sortie d'ici 2 ans
+	- management fee -> plus trop d'actualité si on en pilote pas le projet
+- pas confiant d'accéder aux obj puisque pas la main
+	- donc revalorisation de salaire compliqué à atteindre
+	- donc revalorisation en 01/2026
+	- ou chomage : droit au chomage -> CDI? (obj : remonter une boite)

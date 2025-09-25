@@ -1,0 +1,19 @@
+### 2025-02-17 C. Legrand  & P. Pantureux / Prévoyance
+- VIAPI (interne AGEO) - Patrimonial (moins de souplesse)
+	- base de garantie, quotisation 47.000 eur / an (~2800 eur / mois)
+	- décès :
+		- 500% 47.000 -> 235.000 eur
+		- doublé en cas d'accident
+	- indemnité journalière
+		- 80% 47.000 eur -> 3140 eur / mois
+	- franchise 60 jours -> assurance à partir du 61em jour
+		- Si hospitalisation : intervention dès les 3em jour
+	- PAS de questionnaire de santé
+	- 172 + 10 = 182 eur / mois
+- LOOMA
+	- décès 250.00 (x 2 accident)
+	- pas de rachat de francise en cas d'hospitalisation (entreprise trop jeune)
+	- 167 eur/ mois
+	- remboursement 100 eur / jour, possible de descendre facilement
+- précaunisation
+	- 90 jours de franchise avec rachat de 3 jours si hospitalisation

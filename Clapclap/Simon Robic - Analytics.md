@@ -1,0 +1,32 @@
+# 2023-11-09
+- 2022 croissance ralentit
+	- Q3 nouvelle accélération avec des grands comptes
+- 2 enjeux
+	- déploiement tech
+		- choix de plateforme, déploiement, vendor lock'in
+		- reco : tagging avec CDP (customer data platform)
+			- segment - gratuit pour peu de traffic
+			- rudderstack - open source
+			- tracking seulement, et renvoie l'info vers des plateformes d'analytics
+		- choix screeb : amplitude
+			- offre gratuite très intéressante
+			- payant 49$/mois
+			- simplifié ++ avec des templates
+			- fait aussi office de CDP
+		- plan de taggage
+			- feature d'IA pour amélioration du plan de taggage
+			- analytics produit + analytics marketing (eg. GA) + amélioration taggage (data governance)
+			- reco
+				- bien tracker les parcours de signup
+					- acquisition, adoption, retention
+					- referral
+				- puis tagguer les core-features
+					- eg. création d'une commande
+					- processus d'achat
+				- 2h de taf
+				- tag js à déployer + dans le code - segment.track()
+			- identifiant utilisateur
+			- nom de tag
+				- scope + action (eg. cg created)
+	- pricing
+		- bien 
