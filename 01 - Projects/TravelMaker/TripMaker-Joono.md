@@ -505,7 +505,6 @@
 - notion
 	- [x] Kevin to create a notion
 	- [x] WIP : apply for a free 6 months business account
-
 # 2025-12-18 Pedro
 - la llegada de Alex no ha cambiado mucho para mi : sigo avanzando pero sin roadmap definida, la defino yo diariamente
 	- no es muy organizado
