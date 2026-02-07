@@ -1,0 +1,75 @@
+# 2025-09-30 Pedro, Jakob Keller
+
+- @Jakob Keller
+- @Mauricio
+  - strategic opex
+- travelgate
+  - no "activities" right now
+- what is Travelgate
+  - dedicated to integration
+  - others : booking engines, websites, backoffices ...
+    - BUT only a little of connectivity
+  - travelgate : connectivity ONLY
+    - clients handles their bookings themselves
+    - hotel content, photos etc...
+      - not actively sold
+- Globic (@Xavi)
+  - BCN based
+  - similar but for activities
+  - inspired by Travelgate
+- Checkity
+  - CEO @ Checkity
+  - ecommerce founding partners 20 years ago
+  - Munich based
+  - Invertor but not happy
+  - found checkity and found the good opportunity
+    - 10 years of activity
+  - Winter activities
+    - less unique for summer activities
+    - focus on outdoor nature
+  - CEO & invest (founders = CFO & COO)
+  - Reservation with Globic?
+  - Partner w/ Travelsoft
+    - bank?
+- Travelgate 2012 -> sold for Travelsoft 2024
+  - to start with : any kind of API
+    - hotel, activities, ferries, flights, car rental, transfers
+  - 2019 : full focus on accomadation
+  - post sold
+    - 1000 connections to accomadation
+    - thinking to broaden to other markets
+    - reason why it did not work
+      - accomadation is the main product
+      - the rest no.. but the industry is not ready yet
+      - the margin is on accomadation hence the focus on this vertical
+    - today it could be different, the market has changed
+  - travelgate : is just connecting 
+    - standardization of the APIs
+    - using the credentials of the customers to connect to suppliers
+    - fee based on the total volume generated (~0.5%)
+      - the B2B margin is very low not allowing more to us
+- Right now 
+- Checkity :
+  - interested in knowing how much 
+  - not the operator, but OTA (Online Travel Agency)
+  - 3500 providers
+  - shared responsability
+  - onboarding, update prices, content...
+  - Winter : market leader by far
+    - low margin, low tech adoption
+    - tools : SEO ranking
+  - Summer : 
+    - higher tech adoption rate
+    - 2019 a lot of demand
+- San Diego
+- --
+- ATOL = mafia insurance https://www.atol.org/
+	- UK only
+	- insurrance for travel agencis
+	- to get the licence to sell packages
+- IATA https://www.iata.org/
+	- to be able to sell flights
+	- every airlines BUT low cost
+		- in theory OTA cannot sell low cost (as they are NOT part of IATA)
+		- Ryanair - captcha to protect against scrapping
+- 

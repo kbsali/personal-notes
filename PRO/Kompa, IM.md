@@ -1,0 +1,194 @@
+# 2026-01-21 Emilie, Imagination Machine
+- IM 2018 avec Rob
+- François -> Fifty trucks, Good step, Dashboard
+- impact + thunes
+- méthodo 
+	- user research (clients + acteurs)
+	- iterations pour valider la proposition de valeurs
+- Emilie
+	- recrue des 1ers profils clés + tous les fondateurs
+	- coaching pour s'assurer de l'alignement
+	- "sélectionneur équipe de foot"
+		- observation
+		- choisir ceux qui jouent bien ensemble
+		- coaching pour gagner
+- Kompa
+	- 2 entrepreneurs
+		- Tristan : eaux grises (secteur de recyclage des eaux)
+			- profil produit
+			- taiseux (donc ne parle pas pour ne rien dire)
+		- Pierre : étude sur le solaire
+			- profile biz dev / commercial
+	- très complémentaires
+	- dans les 2 recherches il y avait bcp de rdv avec des artisans
+		- sujet refocus : artisans du BTP
+		- AI pour alléger la charge mentale
+		- Double effet : renforcer les métiers de la réno énergétique
+	- Dev freelance sur les derniers mois
+		- vocale = part importante (eg. compte rendu de chantier)
+			- génération d'un devis, d'une facture
+- présentiel
+	- Pierre : Sud
+	- Tristan : Bretagne
+	- rdv 1 fois / mois vers Paris
+	- 100% sur le projet
+- dev sur 5/6 mois, début de produit
+	- 10aine de clients en prod
+- 6 mois à venir
+	- boucler la levée de fonds
+	- concurrent italien qui a levé 3.5M il y a 2 semaines
+	- visé 1M
+	- aller très vite, vitesse d'exécution = primordiale
+	- scalé 
+		- aller chercher des artisans (contacts avec des fédérations)
+		- cab' experts comptables pour éventuellement sortir du marché français
+	- construire le produit qui va
+- rencontre Pierre ou Tristan
+# 2026-01-26 Pierre
+- Entrepreneur depuis longtps
+- Emilie : X-HEC entrepreneur
+- lui : Ingénieur
+- origine
+	- 1 ou 2 ans, volonté de bosser BTP, Renov énergétique
+- exploration : rencontre avec des 100ains d'artisans
+	- fatigue administrative acablante
+	- burnout parce qu'ils n'y arrivaient plus...
+	- 6 mois
+	- il y a BCP de logiciels métier qui font ça (devis, facture, gestion conformité, ...)
+	- le pb avec les solutions existantes : complexité, prix, scope fonctionnel
+- cible : boites avec 1 à 50 employés (5 au final)
+	- co-construction du produit depuis mai dernier
+	- super retours
+	- usage très bon du produit
+- prix : très agressive pour l'instant, on ne cherche pas la renta encore...
+	- lean, pas de surcoûts (vs les gros dinosaures)
+- scope fonctionnel
+	- pour les petits clients on est bons 
+- complexité
+	- de manière unanime, les retours sont très bon
+- all-in-one VS LA fonctionnalité clé qui craque 1 sujet
+	- kompa = all-in-one
+	- complexité de maintient
+	- MAIS l'app ce n'est pas de fonctionalité silotées
+		- briques focntionnelles qui s'associent
+		- ala Notion
+- ambition : offrir une plateforme de services aux clients
+	- vision à terme : aggrégation d'autres services
+	- pour consolider une **plateforme** de services (cf. doctolib)
+	- eg. BTP : API l'ANA (Agence Nationale de l'Application??) 
+		- conformité devis & factures intégration en cours
+	- eg. Solution de financement
+		- acteurs privés qui permettent le financement, intégration native
+- demo
+	- intégration whatsapp (business)
+	- prise de note vocale -> conversion devis
+- Associé Tristan : 20 ans de produits
+- Plaud - app + device
+- bibliothèque d'ouvrages
+	- le nerf de la guerre
+	- il FAUT maintenir - but : maintenance auto
+- whatsapp
+	- intégration faite, MAIS il faudrait étendre l'utilisation
+		- 2 notes qui se suivent = associées au bon chantier
+	- surtout NE pas tomber dans la carricature du Bot
+		- flow le plus léger possible, on traite a posteriori les pb
+- backlog
+	- vis a vis des invest : être capable de shipper un POC rapidement
+		- MAIS là il a fallu convaincre que le All-in-one est clé
+- levée dans les semaines à venir
+- recrutement en juin 2025 : Alex CTO
+	- très bon (29 ans)
+	- pas trouvé de deal avec lui, très entrepreneur dans l'ame
+	- il s'arrête à la fin de la semaine (il garde du temps pour passation)
+- 2 issues :
+	- ça s'arrête dans 4/6 mois parce que pas craqué
+	- ou alors 5/6 ans parce que secteur qui n'a pas encore été transformé
+		- devis & facture = clé (avoir le plus de valeur ajoutée sur ce point là)
+			- "on est les meilleurs sur ce segment"
+	- 
+- backlog - pas loin d'être ok pour une V1
+	- gros pb : intégration services tiers
+		- intégration logiciels comptables (pennylane, etc...) pour faire remonter les données
+			- clé, les gens de confiance sont les comptables
+		- aggrégateurs bancaires
+		- services annexes (eg. l'ANA)
+- ---
+- remote
+	- Pierre : Anglet (Marseille avant)
+	- Tristan : Finistère
+	- (Alex: Lyon)
+	- on n'est pas ensemble, on se retrouvait 1 fois / mois (Paris ou Nantes)
+	- discipline (pour les déplacements et l'engagement malgré tout)
+	- Ambition : embauche CTO, levée, recrutement de dev avec potentiellement un bureau
+- Kompa = on y croit!
+- Levée
+	- ticket 200k
+	- la prochaine levée
+	- visée 10M ARR d'ici 3 ans
+	- cash :
+		- produit avec R&D, innovation, onboarding etc...
+		- vente
+			- vente direct : presque du B2C avec coûts d'acquisition élevés
+			- vente indirect : temps long pour qu'un cabinet de comptables valides (1 an minimum)
+	- IM est chaud pour remettre au pot dans la 2eme levée
+		- on va aller chercher d'autres gens
+	- BA (du secteur), fonds très early stage (IA / BTP), clubs
+- Association
+	- Ambition du projet et du succès
+		- Utilisation de l'app, adrénaline
+- connaissance tech
+# 2026-01-27 Tristan
+- Audierne (4 ans) (Pornic, La Baule)
+- Produit depuis longtps
+	- startup, design, produit, stratégie produit, management produit
+	- rejoint IM pour un projet autour de la résilience en eau
+		- binome avec Pierre (via Emilie)
+- BTP : le seul sujet qui les importe c'est la gestion de projet
+	- qualité de l'eau, rénov' -> in-intérêt
+	- donc Kompa permet de leur parler et aborder des sujets qui ont plus de sens
+- Kompa
+	- s'occupe plus de la partie produit : comprendre les métiers et les besoins
+	- travaille en binome avec la tech, être pragmatique
+		- éviter les longs sprints
+		- pilotage main dans la main
+	- gestion de produit
+		- backlog -> ticket à développer + bugs
+		- eg. module de facturation avec plusieurs itérations
+		- backlog maigre
+		- roadmap, raisonnement stratégique, avantage concurrentiel, demandes clients
+			- analyse des logs de LLM notamment
+		- pas de notion de temps
+- Pierre prospection
+- Tristan clients avec relation un peu plus ancienne
+	- UI/UX : figma, c'était son métier
+		- MCP
+		- outil de vibe-coding pour le prototypage des produits
+	- design system plus complet
+- Alexandre
+	- pendant 6 mois
+	- n'exploitait pas forcément l'IA par sécurité (pourtant c'est notre opportunité que d'aller vite)
+- Agent
+	- copilot dans un side panel -> pour modif aussi
+		- gros enjeu à le faire évoluer, affiné
+		- super outil d'acquisition
+		- eg. rénov' d'un appart, génération de devis avec des éléments ré-utilisés depuis d'autres devis
+			- affinage très important à faire
+	- l'UX prend le dessus après la phase initial de gestion par l'IA
+- Enorme marché (1.5 M d'employés, 400k entreprises)
+	- dinausores, mais aussi des startups
+- orga
+	- 1 fois par mois on se retrouve (souvent à Paris)
+	- IM : bureaux partagés place Graslin
+	- aujourd'hui remote parce que confort, mais pourquoi pas avoir un bureau dans un des lieux
+	- points quotidiens avec Pierre
+	- Tanguy : design partner (plombier, chauffagiste, Jaouen énergie)
+		- PME avec un bureau, des secrétaires
+- levée de fonds à concrétiser d'ici fin Mars
+	- budget sales et dev
+- taille clientèle
+	- commercialisation depuis 1 mois
+	- verticale
+		- rénovation énergétique (fonds à impact)
+	- cabinets de comptables
+	- produit fermé, enjeu d'acquisition fort
+		- self-onboarding pour convertir le cycle de vente

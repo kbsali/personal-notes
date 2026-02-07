@@ -74,7 +74,7 @@
 		- Je vis depuis entre la maison et celle d'un ami
 		- Cristina voyage beaucoup à l'étranger (+/- 2 semaines par mois)
 	- 05/2025 : Cristina m'annonce avoir décidé de déménager définitivement à Barcelone d'ici 1 an et donc la question de la garde de Gwen se pose
-## Résumé emails
+## Résumé emails avocate
 #### 2025-05-29
 - paiement des 1200 eur d'accomptes
 #### 2025-06-17
@@ -145,3 +145,52 @@ Cordialement,
 	- on reste comme ça
 - prestation compensatoire
 - apports initiaux - 
+- NEXT STEP
+	- recontacter après retour de la notaire
+	- saisis du juge
+## 2025-12-18 Dupas
+- soulte auto-financé
+- désoladiration de Mme du prêt
+- 1609 eur remboursement
+- TNS : début janvier envoi des documents
+	- prêt modulable : eg. augmenté
+	- Paul Monnet : conseiller professionel
+		- il prendra contact dès Janvier pour avancer
+## 2026-01-21
+- une fois qu'on a l'avenant de la banque pour désolidariser C. Correro de l'emprunt, le renvoyer à Mme Sylvie Tatard pour qu'elle annule CCI du contrat emprunteur
+## 2026-01-20 Médiation Claire de Laubier
+
+- explication médiation familiale
+- prise de connaissance
+- Association UDAF
+- si on accepte la médiation, pas avec Claire mais avec un collègue
+- échange à 2 en présence d'un tiers
+- se projeter dans l'avenir
+- retour sur le parcours
+  - pas un espace thérapeutique
+  - pour donner un
+- rôle : apporter de la clarté
+- prendre en compte les émotions de chacun (vision de ce qui est juste)
+- difference thérapie de couple
+  - pas thérapeute
+  - on se tourne vers l'avenir, entre 2 et 4 séances
+  - très pratico-pratique
+    - négociation
+    - argent
+    - concrets
+  - rôle = poser des questions pour alimenter la discussion/réflexion
+  - différence avec le notaire : des points de vue sur la communication par ex.
+  - le rôle N'EST PAS interventioniste
+- mes problèmes
+  - communication et coparentalité
+  - il y a tjs eu ces problèmes au sein du couple, mais ils s'exaserbent depuis la prise de décision
+  - il n'y aura pas de prise de conseil... (rôle des avocats)
+- association conventionnée
+  - engagement mutuel de ne rien divulguer en dehors de la médiation
+  - barème conventionné : 2500 eur / mois = 25eur / séance
+- numéro de téléphone : boite vocale pour changer les rdv
+  - 09 81 67 63 55
+  - 1 avenue de l'angevinière, 44 St-Herblain
+    - les bureaux du Sillon, accueil entreprise, à gauche, 12em étage, "médiation familiale", sonner au nom du médiateur
+  - 9h30 à 20h (samedi matin 9h30 - 14h)
+  - 1ere séance = 2h, 1h les suivantes

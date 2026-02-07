@@ -1,6 +1,19 @@
 ## TODO
-- [ ] qsdf
+- [x] mediation
+  - [x] rdv d'info médiation (claire de laubier)
+- [x] gwen : dentiste
+- [x] jms : cardiff
+- [ ] pedro : abandonné... :|
+- [x] vélo : mondovelo
+- [ ] assurance vélo
+- [ ] regadata : bilan
 
+
+## github spec-kit
+1 - specify (description des fonctionalités, liste of père noel) `specs.md`
+2 - plan (techno à utiliser, spec tech) `plan.md`, `data-model.md`
+3 - tasks (création des tâches) `tasks.md`
+"tu peux implémenter le projet, n'oublie pas de cocher les tâches au fur et à mesure de leur implémentation"
 ## quejas
 - [ ] fatiguant d'être contredit sur les sujets produits de manière quasi constante
 	- [ ] eg. admin -> concaténer "fournisseur / offre" pour la gestion des sélections

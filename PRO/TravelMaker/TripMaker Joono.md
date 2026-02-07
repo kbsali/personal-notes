@@ -444,3 +444,296 @@
 	- Jorge-Luis = developer (Peru)
 - 1) organizador
 - 2) parte publica
+# 2025-09-26 Paulina, Jorge-Luis, Bryan
+- Bryan
+	- 2 meses
+	- conoce un poco la tecnologia
+- Jorge Luis
+	- 3 semanas
+	- angular + java
+- Horario Argentina
+# 2025-09-29 Pedro
+- apps
+	- superadmin - supamode
+# 2025-12-10 Pedro, Alex Barros
+- QUESTIONS
+	- name of the project
+		- domain name
+		- email!!!
+	- tools for
+		- knowledge base
+		- project management / ticket tracking
+	- stripe account
+	- email : resend?
+	- resend
+	- ESTHER
+		- when to be need to charge the 2nd payment?
+	- booking
+		- step 1 : config Esther's Stripe with Juno
+		- 
+- ---
+- Brand book
+- global hotel alliance
+	- biggest loyalty program
+	- 700 hotels
+	- hotels.com - every 10 nights -> 1 night for free
+- app
+	- mix: tiktok, tinder, booking, been, meetup
+		- https://nomads.com
+		- weroad, polar step
+		- travelers upload pics to the platform
+		- swipe left/right to validate what we like/don't like
+		- split the cost of booking..?
+		- wish lists of trips?
+- PEDRO
+	- worried about the validation
+	- what's next?
+	- Alex is "safe" because involved in every projects
+		- i am not
+- ## TODO
+	- @Alex : check trademark
+		- juno.it -> buy
+# 2025-12-12 Pedro
+- stripe : we use Esther's account to collect the money
+	- [ ] she takes care of paying her providers
+	- [ ] we don't charge platform fees to start with
+- resend
+	- [x] i create a free account
+- vercel
+	- [x] Pedro to invite Kevin
+	- [x] Kevin to deploy to vercel
+- notion
+	- [x] Kevin to create a notion
+	- [x] WIP : apply for a free 6 months business account
+
+# 2025-12-18 Pedro
+- la llegada de Alex no ha cambiado mucho para mi : sigo avanzando pero sin roadmap definida, la defino yo diariamente
+	- no es muy organizado
+	- estrategia, comercial, marketing, branding
+	- COO : podria ser la hermana de Brazil
+		- out of Amazon
+		- movie production
+		- coger lo que hace Alex y ordenarlo mejor
+- nombre y dominio : podemos avanzar con esto!?
+- resend : free = 1 team member...
+- ME : roadmap de Alex
+	- LATER eg. whatsapp : manage X groups in whatsapp
+		- global group
+		- 1 group per trip
+			- automatically create the group and add the contacts
+			- share pictures through google photos
+	- sometimes she invites a pro photografer
+		- then he sells the pics to the travelers
+	- LATER eg. instagram : buscar clientes
+		- make it easy to publish on instagram
+		- analyzar comments, likes etc... para saber si el contenido convierte
+	- LATER eg. social network
+		- followers/ees
+		- Airbnb
+			- comments on the host, 
+- Terms and condtions generico de la plataforma
+- requisitos - waiver digital -> descargo de responsabilidades
+- FASE 2 : registro de los pagos hechos a los proveedores
+- ### FUTURE
+	- we want as many contracts as possible to be OURS
+		- once we have found a solution to pay the suppliers, we have a global solution already...
+		- merchant of record = Esther, tomorrow WE (the platform) will be the MoR
+			- hence to start with, we use Esther's Stripe account
+			- MoR = el que vende el viaje
+				- he is also responsible of paying back the 
+- ## CONCLUSION
+	- falta poco de salir con la fase 1
+		- validar con Esther
+	- implement my "own" roadmap
+# 2026-01-09 Pedro
+- Org
+	- Gisela & Alex -> @ Mallorca
+	- Roles, etc...
+	- Disenyadora
+- rates
+	- compra del producto : pagar al proveedor
+	- vender : es anadir un markup
+	- transaccion <> payment
+		- eg. in France paiement différé
+		- taxes / fees
+			- ```type Surcharge {  code: String  chargeType: ChargeType!  mandatory: Boolean!  price: Price!  description: String}```
+		- room_types -> max_capacities
+- always have "price_type + amount"
+	- net VS commissionable
+	- rate -> commission is static for a hotel
+- accommodation -> rate (condition & commission) -> room
+	- accommodation_rate
+	- "surcharges" vs "taxes" vs "fees"
+- amount & currency + type gross/net
+- creator - canal linkedin - percentage
+- hotel - rate - room
+- package - 
+- service = can be sold standalone or in package
+- taxes
+	- informativo
+	- we don't collect the money
+	- NEVER included
+- fees
+	- in the services
+	- is_included
+- dynamic package??
+- doubts : 
+	- mandatory?
+	- dynamic package ??
+----
+
+```
+tarif gross : commissionable
+	eg. excursion 100 eur -> transfer 80 eur (because 20% commission)
+OR provider : precio neto = 80 eur, 
+
+tarifa neta : 
+	markup / neta : net price to creator, then he decides the markup
+	commissionable / gross : price is decided by the provider
+		in hotel the price can be "binding" (veinculante): the price is imposed by the provider
+		rate parity : detect cheaters
+
+pricing = should have a type :
+
+tarif types : markup VS gross
+netear :
+	commissionable -> take the commission
+
+net provider
+
+When Rate is Net, seller adds a markup. PVP will be net + markup.
+When Rate is Gross, supplier pays a commission. PVP will be the gross price.
+```
+---
+- Accommodation Room
+	- BAR = Best Available Rate
+	- eg. hotel with STD, Junior Suite, Suite
+# 2026-01-15
+- review
+  - top creators : have it (even if only 1 creator)
+  - home : 1 column only
+  - /!\ no "add traveler" if no spots available
+- improve room type selection
+- add number of travelers before hand...
+- to start with : 1 booking = 1 or 2 people, 1 room
+- enforce accounts.slug even for personal accounts
+  - add name & lastname
+- trip instance : always show participants (accounts.slug)
+- http://localhost:3020/book/ti-123123123CAC
+  - esther : shared or private room
+  - -> price is based on the room type
+
+- /!\ missing : Buy 10 get 1 free
+  - part of the contract?
+  - contract_offer?
+  - rule engine :
+    - eg. if number of nights > 15 then 1
+    -  free night
+    - eg. if number of pax > 10 then 1 free pax
+
+- ALEX idea : don't ask for traveler details until AFTER the booking is confirmed
+  - BUT then what do we show in the trip participants?
+# 2026-01-20 Pedro
+- Alex complicado cuando tiene algo en la cabeza
+	- por ejemplo : eleccion arquitecto
+	- 3 opciones (brazil known, otro mas local, otro 28 anyos soa paolo)
+	- quitino OUT
+- buy X get 1 free
+	- not needed to test
+	- we are implementing the "selling" to end user
+	- Next step : we will need to handle the "buying" to the supplier
+	- contract
+		- como se paga
+		- conditiones de cancelacion
+		- conditions etc...
+		- rappel comercial (override)
+			- "si generas 200k EUR en 1 anyo, te doy un 3%"
+- estoy un poco preocupado
+- contratado disenyador nuevo - indio!
+	- full time
+- wall to meet + director corte ingles (barcelo, corte ingles, wall to meet)
+	- hay un mercado
+	- tour operador, fidelizacion, hotel
+	- easyjet & ryanair -> tour operation (they sell packages)
+		- easyjet : 
+			- flight : 3-5 eur margin
+			- package : ~60 eur margin
+- Definition of done
+	- Esther up con X viajes + X reservas?
+	- Si tiramos
+		- roadmap
+		- business plan
+		- condiciones de contratacion
+	- Si queremos mas gente, hay el tema del pago
+		- crear una sociedad
+		- stripe connect
+	- obj
+		- live 15/02
+		- Esther in prod
+		- platform : terms & conditions 
+		- viaje : Esther
+		- privacy policy
+		- cookies
+# 2026-01-26 Pedro
+- ARI : should we compute ARI for every services? even for "package" services
+- ARI : amount -> should it be amount gross, neteado or selling amount
+- What happens when a trip instance has started?
+	- can it be edited?
+	- could a service be edited or removed totally?
+	- should be disable edit once the trip has started?
+- B2C :
+	- optional activities (type transfer) -> we have ARI defined, but how should be display that to the user?
+	- what UI should be go for the accommodation??
+---
+room_types ### Alex / Pedro
+- [x] fix the sign-in bug!!!
+- [x] 1 column > scroll
+- [x] package VS per-room/person/... -> 2 different concepts
+- [ ] if room_type > 1 -> select which room you want
+- [ ] 1st : choose room type -> price = 1 price/ room
+	- number of persons
+# 2026-01-29
+- TODO
+	- update "create trip instance" modal form
+	- `*_ari
+		- remove `trip_instance_id`
+		- add `rate_plan_id`
+	- rename `*_rates` -> `*_rate_plans`
+		- remove `amount`
+		- missing : meal plan 
+		- use `tm_rate_plans`
+		- 
+	- remove `legal entity????`
+	- room_types
+		- accommodation_id
+	- WHERE / how to store the prices
+		- solution : don't ask for the price of a service when creating it
+		- when hitting publish
+			- check if there are "daily ari" for every 
+	- 
+- standard rate
+	- apply to ALL the rooms (std & double)
+	- typical : refundable and NON-refundable
+- ARI = lo que se compra
+# 2026-02-02 Pedro
+- the rate_plans/ARI changes have been made at the DB level
+	- fixed the typing
+- Now we need to rework the UI
+-  B2C booking
+	- select room_type+rate_plan
+- B2B trip builder
+	- the trip builder is ONLY used for creating templates (no pricing)
+		- update the service modals to include new db models BUT no price definition
+- B2B Trip instance : back to "trips -> schedule new trip"
+	- we define the instance specific field
+	- then we list all the services defined in the template and ask for the price
+		- on save -> populate the ARI tables
+		- compute "min selling price"
+		- /!\ we might have issues with rounding prices IF we define the service price per stay (-> price / # days for ARI then apply commission & markup + total for final price)
+			- max_los / min_los = # days, 
+# 2026-02-06 Pedro
+- Facturas 2026-02 Nicky + mia
+- doubts
+	- number of nights VS number of days
+		- non-accommodation services = number of days
+		- but accommodation = number of nights = number of days - 1 ???

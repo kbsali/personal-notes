@@ -1,0 +1,111 @@
+# 2026-01-23 Joachim Fourquet (Hones RH)
+- process : call de découverte
+	- puis Matthieu Sénéchal
+	- Use case
+	- Présentation aux dirigeants
+- Joachim
+	- consulting spécialisé tech
+	- métier CTO part time
+	- biz dev & gestion
+	- avant: fonds d'invest
+	- + SaaS gestion de patrimoine pendant 4 ans
+	- invest et membre du board
+- Slash interim
+	- accompagnement depuis 4 ans
+	- Matthieu = CTO part time + qques devs
+	- phase de prise d'autonomie
+	- sujet d ela boite : 25M de CA en 4 ans
+	- métier poussiéreux
+	- agent/indépendant à qui on donne les outils pour se développer en local
+		- multiplication par 2 ou 3 de leur rém
+		- marketing de réseau (iAD et Safti ont des chiffres impressionants, les 2 sont rentrés dans Slash)
+	- levée 2.5 ans de 500k
+		- boite rentable
+		- levée 2025 de 6M
+			- obj : aller plus vite
+	- pourquoi ça va marcher
+		- le marché est là
+		- Emma est jeune et pleine d'énergie
+			- grosse envie d'innover
+		- connaissance du métier grâce à son père
+			- envie d'utiliser la tech
+		- le père n'est plus dans l'opérationnel, membre du board)
+		- Emma : très impressionante / assez exceptionelle
+	- équipe tech:
+		- (1 CPO)
+		- 1 PO
+		- 7 fullstack senior
+		- à 12/18 mois 12 personnes peut-être, mais pas de besoin de grosse équipe
+			- avoir une boite très agile malgré la grosse ambition en terme de CA
+		- éviter les problèmes de management
+		- full remote (1 fois / mois sur La Roche)
+		- Matthieu + 2 devs senior au début
+			- 1ers recrutements il y a 2 ans
+			- 5 CDIs + 2 Hones + 1 produit
+	- attentes
+		- équipe agile, séniorisée, autonomie, bienveillance et autonomie
+			- accompagnement entre dev
+		- rôle
+			- garde-fou de ces sujets d'autonomie pour arriver aux obj
+			- business-oriented dans les comex
+			- postures & convictions
+			- c'est un Dirigeant à part entière
+	- déplacement C-Level : 1 fois / semaine
+	- La Roche: Emma + 15aine
+		- aujourd'hui ils sont 28
+	- MLM : marketing de réseau
+		- les 1ers agents : sont incentivés et donc loyaux
+	- Matthieu : déplacement 1 fois tous les 3 mois
+	- CFO iAD, nouvelle directrice marketing
+	- continuité, autonomie, problem solver, devs orientés business
+# 2026-01-27 Matthieu Sénéchal (Hones Tech)
+- Eléments tech Slash puis présentation
+- CTO parttime depuis ~4 ans (initiation prj)
+	- 2 dev pendant longtps, 2 ans 4, octobre 2025 7
+	- obj : 2/3 dev en 2026
+- back nest, front react, AWS , Github actions, 3 envs staging, preprod, prod
+	- manuel preprod/prod (tag)
+	- tests unitaires + integration (pas encore e2e)
+- équipe expérimentée
+	- 1 junior, le reste sénior
+	- autonomie
+- role
+	- priorisatoin des sujets
+	- intervention conception des fois
+	- PAS de revue de PRs
+- Monitoring: sentry, grafana (2 mois avec prometheus), status cake
+	- limite console AWS
+	- devops externalisé
+- il y a un PM + 1 CPO + 1/2 designer (encadré par le PM)
+- aujourd'hui mi-temps
+- levée, marketing & finance
+	- pas assez de temps pour interagir avec l'équipe
+	- eg. impact côté tech des restructurations dans les autres départements
+- nestjs -> redis pour la gestion de queue bull
+- 300 eur / mois pour l'infra
+	- coût = les environnements (staging, preprod, prod)
+	- QA par le PM
+	- Preprod pourrait être un env de démo pour les commerciaux
+- 150 utilisateurs
+- features toggling
+- sujets tendus à adresser
+	- base de données : il y a des VIEWS avec qques problématiques de perf
+		- tables contrat, avenants, prolongations -> migration vers 1 seule table
+		- DX améliorée et perf aussi
+		- stand-bye
+- équipe découpée par sujet
+	- volant (pas de squads fixes)
+	- eg. en ce moment "évènement"
+- équipe dans l'ouest
+	- daily tous les jours
+	- sprint + retro / semaine
+	- 1-1 une fois par mois
+	- point tech / 2 semaines (présentation d'un sujet, eg. intro au DDD qui a fail, eg. tailix (front)) harmonisation de pratiques
+- EMMA
+	- dev en 4 ans = impressionant
+	- elle s'entoure de gens plus expérimentés
+	- expérimenté
+	- danger : phase de scale faire en sorte que ça tourne bien
+	- elle connait très bien le métier
+	- sont père est dans le secteur
+- etude de cas : 1h de réu pour montrer ce que j'ai préparer (3-4h de prépa)

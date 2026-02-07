@@ -125,6 +125,21 @@
 			- eg. 20.000 eur = droit de percevoir les loyers (~7/8000 / an)
 			- à voir d'ici qques temps
 		- immobilier
-
 ## 2025-03-04
 - attestation fiscale pour déclaration aux impots
+## 2025-11-21
+- stellium = distributeur
+- assureur = suravenir (apicil (fcpr), odo)
+- fonds euro -> réserve de liquidité pour les fonds action, tous les mois 490eur sont transférés
+	- au départ 30% en fonds euro
+- odissey venture (lettre semestrielle : les entreprises financées)
+	- invest' direct, argent bloqué 7 à 10 ans
+	- oct/nov/dec : état propose 22% de réduction d'impots
+	- FCPI : avantages ficscals
+- PER
+	- à titre perso : baisse d'impots
+		- 11% ou 30%
+	- sinon via la holding
+- capital invest
+	- 22.5% de réduction d'impots si AVANT 12/2025 et +value non fiscalisé
+		- 3000eur - 5% de droits d'entrée

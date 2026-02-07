@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "087624822597d537",
+        "id": "aa848629001438e9",
         "type": "tabs",
         "children": [
           {
-            "id": "930cafff4e0a4997",
+            "id": "6f31292bbd0acfdd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Perso/Divorce, Avocat, Notaire.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Divorce, Avocat, Notaire"
+              "title": "New tab"
             }
           }
         ]
@@ -84,13 +80,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "268ff3a0783e9885",
@@ -152,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Perso/Divorce, Avocat, Notaire.md",
+                "file": "PRO/TravelMaker/CheckYeti.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Divorce, Avocat, Notaire"
+              "title": "Outline of CheckYeti"
             }
           },
           {
@@ -186,12 +180,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,44 +199,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "930cafff4e0a4997",
+  "active": "6f31292bbd0acfdd",
   "lastOpenFiles": [
-    "2025-09-25.md",
+    "00 - global TODO.md",
+    "Perso/Divorce, Avocat, Notaire.md",
+    "Regadata/Compta.md",
+    "PRO/TravelMaker/TripMaker Joono.md",
+    "David.md",
+    "Slash Interim.md",
+    "1-1/1-1 - Johann.md",
+    "PRO/Kompa, IM.md",
+    "Clapclap/Outils - Presta/KiwiHR.md",
+    "Untitled 2.base",
+    "Untitled 1.canvas",
+    "Untitled 1.base",
     "Untitled.canvas",
     "Untitled.base",
-    "Perso/Divorce, Avocat, Notaire.md",
-    "TripMaker.md",
-    "Betagouv.md",
+    "Network/Conférence Growth Session.md",
+    "2025-09-30.md",
+    "2026-01-21.md",
+    "Perso/MB.md",
+    "Perso/Kevin Saliou – Résumé Global.md",
+    "Perso/Bio.md",
+    "Perso/CCI.md",
+    "Perso/Ducato Adria Mobil.md",
+    "Perso/Patrimoine - Melaine Le Corre.md",
+    "PRO/Pedro - proyecto pago.md",
+    "PRO/TravelMaker/CheckYeti.md",
+    "PRO/TravelMaker",
+    "2025-09-25.md",
+    "PRO/Betagouv.md",
     "Clapclap/Clapclap - MCS.md",
     "Asso-action/CG V2.md",
-    "00 - global TODO.md",
     "Clapclap/Partenariats/D & V - MCS.md",
     "Clapclap/Outils - Presta/LEGAL - Parthema, puis Camille Blouet.md",
     "Asso-action",
-    "PRO/Ouadie.md",
-    "PRO/Pedro - proyecto pago.md",
-    "Conférence Growth Session.md",
     "PRO",
-    "Clapclap/Misc PRO.md",
-    "Regadata/Posts Linkedin.md",
-    "Dump.md",
-    "LPN/MAKEO - Le petit nantais - LPN.md",
-    "Clapclap/MCS/Listes fonctionnalité MCS.md",
-    "Regadata/AGEO.md",
-    "Regadata/Soreward x Clapclap.md",
-    "Regadata/Tip & shaft.md",
-    "Regadata/Transat Café l'Or.md",
-    "Clapclap/WAX.md",
-    "Clapclap/CRM Animation Acquisition.md",
-    "RGPD.md",
-    "Perso/Ducato Adria Mobil.md",
     "Regadata",
     "Clapclap/MCS",
     "Perso",
-    "Clapclap/BA",
-    "LPN",
-    "Untitled 1.canvas",
-    "Clapclap/Outils - Presta",
-    "EDU"
+    "Clapclap/BA"
   ]
 }
