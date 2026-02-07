@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aa848629001438e9",
+        "id": "c698c8a9acccd664",
         "type": "tabs",
         "children": [
           {
-            "id": "6f31292bbd0acfdd",
+            "id": "36759ca6acc460b1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -199,8 +199,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f31292bbd0acfdd",
+  "active": "36759ca6acc460b1",
   "lastOpenFiles": [
+    "2026-02-07.md",
+    "Untitled.canvas",
+    "Untitled.base",
     "00 - global TODO.md",
     "Perso/Divorce, Avocat, Notaire.md",
     "Regadata/Compta.md",
@@ -213,8 +216,6 @@
     "Untitled 2.base",
     "Untitled 1.canvas",
     "Untitled 1.base",
-    "Untitled.canvas",
-    "Untitled.base",
     "Network/Conférence Growth Session.md",
     "2025-09-30.md",
     "2026-01-21.md",
@@ -231,8 +232,6 @@
     "PRO/Betagouv.md",
     "Clapclap/Clapclap - MCS.md",
     "Asso-action/CG V2.md",
-    "Clapclap/Partenariats/D & V - MCS.md",
-    "Clapclap/Outils - Presta/LEGAL - Parthema, puis Camille Blouet.md",
     "Asso-action",
     "PRO",
     "Regadata",
